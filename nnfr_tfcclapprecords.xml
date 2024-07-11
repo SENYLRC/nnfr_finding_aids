@@ -1,0 +1,857 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnfr" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnfr/TFCClappRecords.xml">nnfr_tfcclapprecords</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for The Frick Collection Records of the Organizing Director - Frederick Mortimer Clapp, 1920-1937<num>TFC.0300.010</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Susan Chore.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Frick Collection/Frick Art Reference Library Archives</publisher>
+                <address>
+                    <addressline>10 East 71st Street</addressline>
+                    <addressline>New York, NY, 10021</addressline>
+                    <addressline>archives@frick.org</addressline>
+                </address>
+                <date>&#xA9; 2010 The Frick Collection. All rights reserved.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-16T14:16-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>The Frick Collection Records of the Organizing Director - Frederick Mortimer Clapp</unittitle>
+            <unitid>TFC.0300.010</unitid>
+            <repository>
+                <corpname>The Frick Collection/Frick Art Reference Library Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.0 Linear feet</extent>
+                <extent>(7 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1920/1937" type="inclusive">1920-1937</unitdate>
+            <abstract id="ref5" label="Abstract">As Organizing Director of The Frick Collection, Frederick Mortimer Clapp oversaw all aspects of the transformation of the Frick residence to a public art museum, The Frick Collection, as well as the construction of a new 13-story Frick Art Reference Library building. Reports, correspondence, memorandums, minutes, financial records, and summaries of informal meetings and telephone conversations document the project. Topics include architecture, construction, interior design, museum administration, and art installation.</abstract>
+            <origination label="creator">
+                <corpname source="Library_of_Congress_Name_Authority_File">Frick Collection.</corpname>
+            </origination>
+        </did>
+        <relatedmaterial id="ref13">
+            <head>Related Materials</head>
+            <p>The Frick Collection Central Files, 1932-1936. The Frick Collection/Frick Art Reference Library Archives.</p>
+            <p>The Frick Collection Construction Records, 1933-1937. The Frick Collection/Frick Art Reference Library Archives.</p>
+        </relatedmaterial>
+        <processinfo id="ref12">
+            <head>Processing Information</head>
+            <p>Arranged and described by Marcia Bassett, December 2002, with funding from a Gladys Krieble Delmas Foundation Grant, 2001; Susan Chore, 2010.</p>
+        </processinfo>
+        <accessrestrict id="ref11">
+            <head>Access Restrictions</head>
+            <p>These records are open for research under the conditions of The Frick Collection/Frick Art Reference Library Archives access policy. Contact the Archives Department for further information at archives@frick.org.</p>
+        </accessrestrict>
+        <scopecontent id="ref8">
+            <head>Scope and Content Note</head>
+            <p>The Records of The Frick Collection Organizing Director - Frederick Mortimer Clapp consist of reports, correspondence, minutes, memos, budget projections and statements, and summaries of meetings and telephone conversations regarding the planning and details of the alterations and additions to The Frick Collection, and the construction of a new Frick Art Reference Library building. Also found here are Porter Garnett's manuscripts and Frederick Mortimer Clapp's revised final manuscripts for a small catalogue published in 1935 by The Frick Collection,<emph render="italic">The Frick Collection: Paintings: Summary Catalogue.</emph>
+            </p>
+            <p>The bulk of the files span from 1931 to 1936. Preliminary planning for the alterations to the residence and construction of the Frick Art Reference Library are found in the files, including minutes from meetings of the Committee on Organization and Policy and the office of John Russell Pope; budget projections, expense statements and financial ledgers; correspondence with architect John Russell Pope and general contractor Marc Eidlitz &amp; Son; and summaries of Mr. Clapp's meetings and telephone conversations with Board of Trustee members Helen Clay Frick, Childs Frick, Walker D. Hines, and John D. Rockefeller, Jr.</p>
+            <p>Topics covered include all aspects of the planning and construction of both The Frick Collection and Frick Art Reference Library, including selection of furnishings, finishes, and materials, as well as other design and interior decoration details; air conditioning and other mechanical concerns; storage vaults; insurance; and space requirements. Of note in the records is a report presenting four scenarios for converting the residence to a museum, including hand-drawn sketches of each floor; and initial renovation plans submitted by architects John Russell Pope and Delano &amp; Aldrich.</p>
+            <p>One account book covers Frick Collection expenses from 1920-1925, and it is unclear if the book was created during that time, or if the entries were made retroactively. Documents in Notebook binders have been rehoused in folders.</p>
+        </scopecontent>
+        <bioghist id="ref7">
+            <head>Historical Note</head>
+            <p>The Frick Collection was founded by the industrialist and art collector, Henry Clay Frick (1849-1919), who bequeathed his home, furnishings and works of art to the public for the purpose of "establishing and maintaining a gallery of art." According to the terms of the will, probated in 1919, a Board of Trustees, selected by Mr. Frick, would form a corporation to be known as "The Frick Collection." The Trustees administered an endowment fund of fifteen million dollars, to be used for the maintenance, security, and eventual expansion of the house and growth of the art collection. The residence was to remain the home of Mrs. Adelaide Frick during her lifetime.</p>
+            <p>After Mrs. Frick's death in 1931, the Trustees appointed a Committee on Organization and Policy to make decisions regarding the plan to transform the residence into a public art gallery. Frederick Mortimer Clapp (1879-1969), Head of the Department of Fine Arts of the University of Pittsburgh, was asked to develop an initial plan and report back to the Committee. Pleased with the report, the Committee hired him as an adviser to the project and later appointed him Organizing Director. Mr. Clapp's association with The Frick Collection had begun in 1928, when he was asked to work on a catalogue of the Collection's art works, a project commissioned by Helen Clay Frick.</p>
+            <p>Mr. Clapp oversaw every aspect of the alterations and additions to The Frick Collection and the construction of a new Frick Art Reference Library building. Architects John Russell Pope and Delano &amp; Aldrich both submitted plans for the project; Pope was selected in April, 1932. Clapp worked closely with the Trustees and Pope to create a public exhibition space that would retain the character of the former residence and preserve the existing architecture. He also oversaw the planning and erection of a new 13-story building for the Frick Art Reference Library, designed by John Russell Pope in a style harmonious with the existing architecture of the residence. Additions and alterations to the house included the Boucher Room, the Lecture Room, the Reception Hall, the Oval Room, the East Gallery, the Garden Court, a cloak room, and the conversion of the former private rooms of the Frick family on the second floor to offices. The new Frick Art Reference Library building was opened to readers on January 14, 1935, and on December 16 of the same year, The Frick Collection opened its doors to the public. In 1936 Frederick Mortimer Clapp became the Director of The Frick Collection, a position that he held until his retirement in 1951.</p>
+            <p>Frederick Mortimer Clapp, born in New York, received his master's degree from Yale University in 1910. Prior to receiving his master's degree, he taught Greek at City College and Elizabethan drama and Russian literature at the extension of the University of California. Mr. Clapp studied and traveled extensively in Europe, and in 1914 he received a doctorate degree in art from the University of Paris. He served as the head of the Department of Fine Arts of the University of Pittsburgh from 1926 to 1937. Among his publications are numerous volumes of poetry, and a catalogue raisonn&#xE9; of Pontormo's works. In 1933 he received a Doctorate of Laws degree from the University of Pittsburgh and was awarded the Townsend Harris Medal in 1942 by City College. Frederick Mortimer Clapp's professional memberships included the Association of Art Museum Directors, a Socio dell'Accademia di San Luca of Rome, and fellow of the Royal Society of Arts. He died in New York City on December 15, 1969.</p>
+        </bioghist>
+        <prefercite id="ref9">
+            <head>Preferred Citation</head>
+            <p>The Frick Collection Records of the Organizing Director - Frederick Mortimer Clapp. The Frick Collection/Frick Art Reference Library Archives.</p>
+        </prefercite>
+        <arrangement id="ref6">
+            <head>Arrangement</head>
+            <p>The Records of the Organizing Director - Frederick Mortimer Clapp files are organized in four series:</p>
+            <p>Series I: Notebooks, 1931-1936</p>
+            <p>Series II: Account Books, 1920-1937</p>
+            <p>Series III: Diaries, 1932-1937</p>
+            <p>Series IV: Small Catalogue, 1934-1935</p>
+        </arrangement>
+        <controlaccess>
+            <persname source="Library_of_Congress_Name_Authority_File">Clapp, Frederick Mortimer, b. 1879.</persname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Delano &amp; Aldrich.</corpname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Frick Art Reference Library.</corpname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Frick Collection.</corpname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Childs, 1883-1965.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Helen Clay, 1888-1984.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Hines, Walker D. (Walker Downer), 1870-1934.</persname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Marc Eidlitz &amp; Son.</corpname>
+            <persname source="Library_of_Congress_Name_Authority_File">Pope, John Russell, 1874-1937.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Rockefeller, John D. (John Davison), 1874-1960.</persname>
+            <genreform source="aat">Account books.</genreform>
+            <subject source="lcsh">Art museum architecture.</subject>
+            <subject source="lcsh">Art museums--New York (State)--New York.</subject>
+            <subject source="lcsh">Library architecture.</subject>
+            <subject source="lcsh">Mansions--Remodeling for other use.</subject>
+            <genreform source="aat">Minutes.</genreform>
+            <title source="Local">The Frick Collection: Paintings: Summary Catalogue.</title>
+        </controlaccess>
+        <dsc>
+            <c id="ref1" level="series">
+                <did>
+                    <unittitle>Series I: Notebooks, 1931-1936</unittitle>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>The notebooks of Frederick Mortimer Clapp contain notes, reports and correspondence that document the Frick Collection and Frick Art Reference Library construction project. The bulk of the notebooks span from 1932 to 1935. Notebook 1 contains reports on the planning for the alterations and additions to the residence, budget projections and notes on the selection of the architect and general contractor for the project. Notebooks 2 through 5 consist of notes, memos, correspondence, reports and summaries of informal meetings and telephone conversations concerning details of the project. Notebooks 6 through 8 contain minutes of meetings held in the offices of architect John Russell Pope. The meeting minutes include persons present, date and place, outline of meeting details and items pending action. The minutes focus on work specifics, including materials, equipment, estimated cost, subcontractors, design, altered or new building proposals, job conditions and project budget. Material has been removed from binders and rehoused in folders; the original order of the documents was maintained.</p>
+                </scopecontent>
+                <c id="ref30" level="subseries">
+                    <did>
+                        <unittitle>Notebook 1</unittitle>
+                    </did>
+                    <c id="ref19" level="file">
+                        <did>
+                            <unittitle>Reports</unittitle>
+                            <container id="cid12041" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12041" type="folder">1-2</container>
+                            <unitdate normal="1931/1933" type="inclusive">1931-1933</unitdate>
+                        </did>
+                        <scopecontent id="ref18">
+                            <head>Scope and Contents note</head>
+                            <p>Reports from 1931, prepared by Clapp and Andre Avinoff, focus on issues surrounding the transformation of the house into an exhibition space. Five solutions are outlined followed by an appendix. The appendix highlights specific details, including projected expenses, layout and considerations of the rooms, duties of the Director, reconstruction and floor plans. Specific rooms discussed include a glass room in the court, a Whistler gallery, a Boucher boudoir and the Enamels Room. Also included are sketches of proposed layouts of each floor by Clapp. Additionally, reports based on interviews with Joseph Breck, Paul J. Sachs and Belle da Costa Green, illustrating various opinions and considerations to be made prior to opening the Collection to the public, are found here.</p>
+                            <p>A January 1932 document lists "partially agreed upon" issues and those that are "in question." This is followed by Clapp's summary report on the plans submitted by the architecture firms, Delano &amp; Aldrich and John Russell Pope. Report topics include potential attendance and circulation, the entrance, glassing the court, a new gallery, 71st Street fa&#xE7;ade, auditorium, pantry, porte-cochere, air conditioning, the organ, the second and third floors, photographic laboratory, the Boucher boudoir, and rehanging paintings.</p>
+                            <p>February 23, 1932 report discusses John Russell Pope's and Delano &amp; Aldrich's Schemes A through D. A June 1932 report details an alternate scheme favored by Childs Frick.</p>
+                            <p>September 15, 1932 report discusses areas yet to be decided upon: shape of new Entrance Gallery, new gallery on site of old Frick Art Reference Library building, auditorium, Reception Room, Court, Boucher Room, small gallery next to the Boucher Room, Enamels Room, basement, second and third floors, and Frick Art Reference Library.</p>
+                            <p>Other reports include: "Note on Cloak Rooms in New York Museums," December 19, 1932; "Report on Proposed Revised Rehandling of Second and Third Floors," February 23, 1933; and "Report on Revised Rehandling of the Enamels Room," February 23, 1933.</p>
+                            <p>Included with the reports are agendas, summaries of meetings of the Committee on Organization and Policy, summaries of Clapp's informal meetings with Trustees and John Russell Pope, budget proposals and comparisons, and reports on rehandling specific rooms.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref21" level="file">
+                        <did>
+                            <unittitle>Director's Reports</unittitle>
+                            <container id="cid12042" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12042" type="folder">3</container>
+                            <unitdate normal="1933/1935" type="inclusive">1933-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref20">
+                            <head>Scope and Contents note</head>
+                            <p>Summary of the Organizing Director for the period of June 1933 to March 28, 1934 and March 28, 1934 to March 5, 1935, covering activities of the Committee on Organization and Policy, the Custodian, and the Organizing Director. Expense and budget statements follow each report. Topics include progress of operations, court excavation and shoring, contracts, flood control, the small catalogue, and tax exemption.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref23" level="file">
+                        <did>
+                            <unittitle>Mr. Hines' Report</unittitle>
+                            <container id="cid12043" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12043" type="folder">4</container>
+                            <unitdate normal="1932/1932">1932</unitdate>
+                        </did>
+                        <scopecontent id="ref22">
+                            <head>Scope and Contents note</head>
+                            <p>March 31, 1932 Report to the Board of Trustees of the Frick Collection by the Committee on Organization and Policy consisting of Chairman Walker D. Hines, Childs Frick, and John D. Rockefeller, Jr. (16 pages). Sections include general recommendations of the entire Committee, special recommendations of Walker D. Hines and John D. Rockefeller, Jr., and views of Childs Frick.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref25" level="file">
+                        <did>
+                            <unittitle>Reports - Committee on Organization and Policy</unittitle>
+                            <container id="cid12044" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12044" type="folder">5</container>
+                            <unitdate normal="1931/1935" type="inclusive">1931-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref24">
+                            <head>Scope and Contents note</head>
+                            <p>Meeting minutes, reports, and informal meeting notes of the Committee.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c id="ref32" level="subseries">
+                    <did>
+                        <unittitle>Notebook 2</unittitle>
+                    </did>
+                    <c id="ref27" level="file">
+                        <did>
+                            <unittitle>Frick Art Reference Library</unittitle>
+                            <container id="cid12045" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12045" type="folder">6-7</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref26">
+                            <head>Scope and Contents note</head>
+                            <p>Reports, memos and notes regarding space allocation, design, and interior decoration of the Library. Included are sketches made by Helen Clay Frick, extracts from letters regarding the importance of the Library, projected growth rates of the book and photograph collections, comparative space analysis of the old Library and the proposed building, and discussion of acquiring other properties. All aspects of design and construction are discussed, including tiling, lighting, painting, woodwork, shelving, furniture and the configuration and details of specific rooms within the building.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref29" level="file">
+                        <did>
+                            <unittitle>Marc Eidlitz &amp; Son [general contractor]</unittitle>
+                            <container id="cid12046" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12046" type="folder">8</container>
+                            <unitdate normal="1932/1934" type="inclusive">1932-1934</unitdate>
+                        </did>
+                        <scopecontent id="ref28">
+                            <head>Scope and Contents note</head>
+                            <p>Primarily contains correspondence from Marc Eidlitz &amp; Son to the Office of John Russell Pope, architect, regarding estimated construction costs for the Library and Collection. Includes three scenarios for the Frick Art Reference Library construction, and specific work details, including discussions of the Collection's storage vault, air conditioning, heating and ventilating systems, lighting, structural supports and exterior alterations.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref34" level="file">
+                        <did>
+                            <unittitle>John Russell Pope [architect]</unittitle>
+                            <container id="cid12047" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12047" type="folder">9</container>
+                            <unitdate normal="1932/1934" type="inclusive">1932-1934</unitdate>
+                        </did>
+                        <scopecontent id="ref33">
+                            <head>Scope and Contents note</head>
+                            <p>Reports, correspondence, and charts, January 1932 - January 1934, re initial construction plans and proposals for the Collection and Library, including the Library's space requirements, the Collection storage vault, and sewage conditions.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c id="ref35" level="subseries">
+                    <did>
+                        <unittitle>Notebook 3</unittitle>
+                    </did>
+                    <c id="ref37" level="file">
+                        <did>
+                            <unittitle>Air Condition</unittitle>
+                            <container id="cid12048" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12048" type="folder">10</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref36">
+                            <head>Scope and Contents note</head>
+                            <p>Reports, correspondence and memos regarding the cost and installation of an air conditioning system for the Collection and Library, and proper levels of temperature and humidity for a museum. Includes correspondence and data from the Worcester Art Museum, Museum of Fine Arts (Boston), Fogg Art Museum, Rhode Island School of Design Museum of Art, and vendors; and meeting and conversation notes with John Russell Pope and Syska &amp; Hennessey.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref39" level="file">
+                        <did>
+                            <unittitle>Bookstacks</unittitle>
+                            <container id="cid12049" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12049" type="folder">11</container>
+                            <unitdate normal="1933/1935" type="inclusive">1933-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref38">
+                            <head>Scope and Contents note</head>
+                            <p>Notes, memos and correspondence regarding the type, size, cost and other requirements for bookstacks for the Frick Art Reference Library, contracted to Snead &amp; Company.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref41" level="file">
+                        <did>
+                            <unittitle>Delano and Aldrich [architects]</unittitle>
+                            <container id="cid12050" type="box" label="Mixed materials">1</container>
+                            <container parent="cid12050" type="folder">12</container>
+                            <unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate>
+                        </did>
+                        <scopecontent id="ref40">
+                            <head>Scope and Contents note</head>
+                            <p>Architects who submitted plans and proposals for transforming the Frick residence to a museum, but were not chosen. Correspondence and reports outlining proposed construction and design, as well as Mr. Clapp's comments on the plans.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref43" level="file">
+                        <did>
+                            <unittitle>Mr. Eisinger [L. W. Eisinger, Clerk of the Works] [2 folders]</unittitle>
+                            <container id="cid12051" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12051" type="folder">1-2</container>
+                            <unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate>
+                        </did>
+                        <scopecontent id="ref42">
+                            <head>Scope and Contents note</head>
+                            <p>Memos, primarily directed to Clapp, and summaries of meetings Eisinger had with John D. Rockefeller, Jr., Helen Clay Frick, and representatives of John Russell Pope's office regarding issues related to the construction project.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref45" level="file">
+                        <did>
+                            <unittitle>Insurance</unittitle>
+                            <container id="cid12052" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12052" type="folder">3</container>
+                            <unitdate normal="1933/1933">1933</unitdate>
+                        </did>
+                        <scopecontent id="ref44">
+                            <head>Scope and Contents note</head>
+                            <p>Memos and correspondence regarding insurance policies, appraisals and costs.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref47" level="file">
+                        <did>
+                            <unittitle>Inventories</unittitle>
+                            <container id="cid12053" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12053" type="folder">4</container>
+                            <unitdate normal="1933/1933">1933</unitdate>
+                        </did>
+                        <scopecontent id="ref46">
+                            <head>Scope and Contents note</head>
+                            <p>Memos on appraised value of objects to be stored in and out of vault. [one item]</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref49" level="file">
+                        <did>
+                            <unittitle>Miscellaneous</unittitle>
+                            <container id="cid12054" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12054" type="folder">5</container>
+                            <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate>
+                        </did>
+                        <scopecontent id="ref48">
+                            <head>Scope and Contents note</head>
+                            <p>Contains time schedule, photostats of floor plans, extracts from Henry Clay Frick's will, dimensions of rooms at One East 70th Street, details surrounding public admission to The Frick Collection, meeting schedules, rules and regulations, dates of plans submitted by Pope, and notes on Titian's<emph render="italic">Venus and Cupid.</emph>
+                            </p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref51" level="file">
+                        <did>
+                            <unittitle>National District Telegraph Company</unittitle>
+                            <container id="cid12055" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12055" type="folder">6</container>
+                            <unitdate normal="1933/1933">1933</unitdate>
+                        </did>
+                        <scopecontent id="ref50">
+                            <head>Scope and Contents note</head>
+                            <p>Correspondence and memos re electric protection services.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref53" level="file">
+                        <did>
+                            <unittitle>Organ</unittitle>
+                            <container id="cid12056" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12056" type="folder">7</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref52">
+                            <head>Scope and Contents note</head>
+                            <p>Memos, reports and correspondence regarding the organ sound transmission, protection, installation, and changes. Correspondents include Bludworth, Inc. and Aeolian Company.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref55" level="file">
+                        <did>
+                            <unittitle>Projection Apparatus</unittitle>
+                            <container id="cid12057" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12057" type="folder">8</container>
+                            <unitdate normal="1933/1933">1933</unitdate>
+                        </did>
+                        <scopecontent id="ref54">
+                            <head>Scope and Contents note</head>
+                            <p>Two copy letters from Alfred N. Goldsmith regarding the use of television and sound motion pictures in the Lecture Room.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref57" level="file">
+                        <did>
+                            <unittitle>Protection</unittitle>
+                            <container id="cid12058" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12058" type="folder">9</container>
+                            <unitdate normal="1933/1933">1933</unitdate>
+                        </did>
+                        <scopecontent id="ref56">
+                            <head>Scope and Contents note</head>
+                            <p>Memos regarding safeguarding the Collection.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref59" level="file">
+                        <did>
+                            <unittitle>Reports on Pictures</unittitle>
+                            <container id="cid12059" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12059" type="folder">10</container>
+                            <unitdate normal="1932/1932">1932</unitdate>
+                        </did>
+                        <scopecontent id="ref58">
+                            <head>Scope and Contents note</head>
+                            <p>Report on the seven panels by Sassetta in the Mackay Collection. [one item]</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref61" level="file">
+                        <did>
+                            <unittitle>Roofing</unittitle>
+                            <container id="cid12060" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12060" type="folder">11</container>
+                            <unitdate normal="1934/1934">1934</unitdate>
+                        </did>
+                        <scopecontent id="ref60">
+                            <head>Scope and Contents note</head>
+                            <p>Memos regarding existing roofs, new roofs and skylights.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref63" level="file">
+                        <did>
+                            <unittitle>Storage</unittitle>
+                            <container id="cid12061" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12061" type="folder">12</container>
+                            <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate>
+                        </did>
+                        <scopecontent id="ref62">
+                            <head>Scope and Contents note</head>
+                            <p>Memos, correspondence and comparative costs regarding potential storage space for works in the Collection during construction. Includes a general list of articles to be stored, listed by room location.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref65" level="file">
+                        <did>
+                            <unittitle>Taxes</unittitle>
+                            <container id="cid12062" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12062" type="folder">13</container>
+                            <unitdate normal="1933/1935" type="inclusive">1933-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref64">
+                            <head>Scope and Contents note</head>
+                            <p>Memos regarding tax exemption status.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c id="ref66" level="subseries">
+                    <did>
+                        <unittitle>Notebook 4 - Mr. Clapp's Notes</unittitle>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>Contains memorandums, and summaries of meetings and telephone conversations.</p>
+                    </scopecontent>
+                    <c id="ref68" level="file">
+                        <did>
+                            <unittitle>Mr. Eisinger [L. W. Eisinger, Clerk of the Works]</unittitle>
+                            <container id="cid12063" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12063" type="folder">14</container>
+                            <unitdate normal="1933/1933">1933</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref70" level="file">
+                        <did>
+                            <unittitle>Mr. Frick [Childs Frick, Trustee]</unittitle>
+                            <container id="cid12064" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12064" type="folder">15</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref71" level="file">
+                        <did>
+                            <unittitle>Miss Frick [Helen Clay Frick, Trustee]</unittitle>
+                            <container id="cid12065" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12065" type="folder">16</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref72" level="file">
+                        <did>
+                            <unittitle>Mr. Hammond [Frick Collection Counsel]</unittitle>
+                            <container id="cid12066" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12066" type="folder">17</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref73" level="file">
+                        <did>
+                            <unittitle>Mr. Hines [Walker D. Hines, Trustee]</unittitle>
+                            <container id="cid12067" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12067" type="folder">18</container>
+                            <unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref74" level="file">
+                        <did>
+                            <unittitle>Mr. Loomis [Caldwell &amp; Co. &#xD4;&#xC7;&#xF4; lighting]</unittitle>
+                            <container id="cid12068" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12068" type="folder">19</container>
+                            <unitdate normal="1934/1935" type="inclusive">1934-1935</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref76" level="file">
+                        <did>
+                            <unittitle>Mr. Matthew [I. D. Matthew &#xD4;&#xC7;&#xF4; Clerk of the Works]</unittitle>
+                            <container id="cid12069" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12069" type="folder">20</container>
+                            <unitdate normal="1934/1934">1934</unitdate>
+                        </did>
+                        <scopecontent id="ref75">
+                            <head>Scope and Contents note</head>
+                            <p>[note: 1 item]</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref77" level="file">
+                        <did>
+                            <unittitle>Mr. Rockefeller [John D. Rockefeller, Jr., Trustee]</unittitle>
+                            <container id="cid12070" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12070" type="folder">21</container>
+                            <unitdate normal="1933/1935" type="inclusive">1933-1935</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref79" level="file">
+                        <did>
+                            <unittitle>Other Trustees</unittitle>
+                            <container id="cid12071" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12071" type="folder">22</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref78">
+                            <head>Scope and Contents note</head>
+                            <p>Consists chiefly of summaries of conversations between Clapp and Maitland Griggs.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c id="ref80" level="subseries">
+                    <did>
+                        <unittitle>Notebook 5 - Mr. Clapp's Notes</unittitle>
+                    </did>
+                    <c id="ref81" level="file">
+                        <did>
+                            <unittitle>Eidlitz Office</unittitle>
+                            <container id="cid12072" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12072" type="folder">23</container>
+                            <unitdate normal="1933/1935" type="inclusive">1933-1935</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref83" level="file">
+                        <did>
+                            <unittitle>Pope Office [2 folders]</unittitle>
+                            <container id="cid12073" type="box" label="Mixed materials">2</container>
+                            <container parent="cid12073" type="folder">24-25</container>
+                            <unitdate normal="1932/1936" type="inclusive">1932-1936</unitdate>
+                        </did>
+                        <scopecontent id="ref82">
+                            <head>Scope and Contents note</head>
+                            <p>Includes discussion of models; the effect of the Oval Room on the 71st Street fa&#xE7;ade; and different schemes for the new Library building.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref85" level="file">
+                        <did>
+                            <unittitle>Weekly &amp; other conferences</unittitle>
+                            <container id="cid12074" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12074" type="folder">1</container>
+                            <unitdate normal="1933/1935" type="inclusive">1933-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref84">
+                            <head>Scope and Contents note</head>
+                            <p>Memos and notes regarding initial building plans and details of alterations, materials and equipment.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref87" level="file">
+                        <did>
+                            <unittitle>Miscellaneous [2 folders]</unittitle>
+                            <container id="cid12075" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12075" type="folder">2-3</container>
+                            <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                        </did>
+                        <scopecontent id="ref86">
+                            <head>Scope and Contents note</head>
+                            <p>Memos, notes and reports that detail aspects of The Frick Collection and Frick Art Reference Library alterations, additions and building project.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+                <c id="ref88" level="subseries">
+                    <did>
+                        <unittitle>Notebook 6</unittitle>
+                    </did>
+                    <c id="ref89" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12076" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12076" type="folder">4</container>
+                            <unitdate>1932 Oct.-1933 Jun.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref90" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12077" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12077" type="folder">5</container>
+                            <unitdate>1933 Jul.-Sep.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref91" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12078" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12078" type="folder">6</container>
+                            <unitdate>1933 Oct.-Dec.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref92" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12079" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12079" type="folder">7</container>
+                            <unitdate>1934 Jan.-Mar.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref93" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12080" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12080" type="folder">8</container>
+                            <unitdate>1934 Apr.-May</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref94" level="subseries">
+                    <did>
+                        <unittitle>Notebook 7</unittitle>
+                    </did>
+                    <c id="ref95" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12081" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12081" type="folder">9</container>
+                            <unitdate>1934 May-Jun.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref96" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12082" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12082" type="folder">10</container>
+                            <unitdate>1934 Jul.-Aug.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref97" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12083" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12083" type="folder">11</container>
+                            <unitdate>1934 Sep.-Oct.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref98" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12084" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12084" type="folder">12</container>
+                            <unitdate>1934 Nov.-Dec.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref99" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12085" type="box" label="Mixed materials">3</container>
+                            <container parent="cid12085" type="folder">13</container>
+                            <unitdate>1935 Jan.-Feb.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref100" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12086" type="box" label="Mixed materials">4</container>
+                            <container parent="cid12086" type="folder">1</container>
+                            <unitdate>1935 Mar.</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="ref101" level="subseries">
+                    <did>
+                        <unittitle>Notebook 8</unittitle>
+                    </did>
+                    <c id="ref102" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12087" type="box" label="Mixed materials">4</container>
+                            <container parent="cid12087" type="folder">2</container>
+                            <unitdate>1935 Apr.-May</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref103" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12088" type="box" label="Mixed materials">4</container>
+                            <container parent="cid12088" type="folder">3</container>
+                            <unitdate>1935 Jun.-Jul.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref104" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12089" type="box" label="Mixed materials">4</container>
+                            <container parent="cid12089" type="folder">4</container>
+                            <unitdate>1935 Aug.-Sep.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref105" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12090" type="box" label="Mixed materials">4</container>
+                            <container parent="cid12090" type="folder">5</container>
+                            <unitdate>1935 Oct.-Nov.</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref106" level="file">
+                        <did>
+                            <unittitle>John Russell Pope Minutes</unittitle>
+                            <container id="cid12091" type="box" label="Mixed materials">4</container>
+                            <container parent="cid12091" type="folder">6</container>
+                            <unitdate>1935 Dec.-1936 Jan.</unitdate>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="ref2" level="series">
+                <did>
+                    <unittitle>Series II: Account Books, 1920-1937</unittitle>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>Consists of ledgers containing records of The Frick Collection payroll, the Collection and Frick Art Reference Library expenses, subcontractor orders and payments, cash receipts and disbursements, and employees.</p>
+                </scopecontent>
+                <c id="ref108" level="file">
+                    <did>
+                        <unittitle>Book 1 - Trustees, Frick Collection</unittitle>
+                        <container id="cid12092" type="box" label="Mixed materials">5</container>
+                        <container parent="cid12092" type="folder">1</container>
+                        <unitdate normal="1920/1925" type="inclusive">1920-1925</unitdate>
+                    </did>
+                    <scopecontent id="ref107">
+                        <head>Scope and Contents note</head>
+                        <p>Primarily blank ledger with entries on seven pages. Entries include a record of the Trustees' expenses for the gardener, watchman, engineer, electric current, water rent, steam, and spring and fall housecleaning. Voucher number is noted next to each expense.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref110" level="file">
+                    <did>
+                        <unittitle>Book 2 - Cash Receipts &amp; Disbursements</unittitle>
+                        <container id="cid12093" type="box" label="Mixed materials">5</container>
+                        <container parent="cid12093" type="folder">2</container>
+                        <unitdate normal="1933/1937" type="inclusive">1933-1937</unitdate>
+                    </did>
+                    <scopecontent id="ref109">
+                        <head>Scope and Contents note</head>
+                        <p>Ledger entries of cash transactions (cash receipts &amp; cash disbursements). Contains a table of contents.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref112" level="file">
+                    <did>
+                        <unittitle>Book 3 - The Frick Collection House Account Ledger</unittitle>
+                        <container id="cid12094" type="box" label="Mixed materials">5</container>
+                        <container parent="cid12094" type="folder">3</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                    <scopecontent id="ref111">
+                        <head>Scope and Contents note</head>
+                        <p>Includes a table contents.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref114" level="file">
+                    <did>
+                        <unittitle>Book 4 - The Frick Collection House Account, Guaranty Trust Company of New York</unittitle>
+                        <container id="cid12095" type="box" label="Mixed materials">5</container>
+                        <container parent="cid12095" type="folder">4</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                    <scopecontent id="ref113">
+                        <head>Scope and Contents note</head>
+                        <p>Ledger entries include date, name of company or person and amount paid.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref116" level="file">
+                    <did>
+                        <unittitle>Book 5 - Frick Collection Construction Project Contracts and Orders as reflected in Marc Eidlitz &amp; Son requisitions.</unittitle>
+                        <container id="cid12096" type="box" label="Mixed materials">5</container>
+                        <container parent="cid12096" type="folder">5</container>
+                        <unitdate normal="1933/1936" type="inclusive">1933-1936</unitdate>
+                    </did>
+                    <scopecontent id="ref115">
+                        <head>Scope and Contents note</head>
+                        <p>Ledger contains a table of contents followed by a listing of subcontractors. Entries consist of date, credits, number, contracts and orders, and payments.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref118" level="file">
+                    <did>
+                        <unittitle>Book 6 - The Frick Collection Employees [Restricted File]</unittitle>
+                        <container id="cid12097" type="box" label="Mixed materials">6</container>
+                        <container parent="cid12097" type="folder">1</container>
+                        <unitdate normal="1931/1935" type="inclusive">1931-1935</unitdate>
+                    </did>
+                    <scopecontent id="ref117">
+                        <head>Scope and Contents note</head>
+                        <p>Name and address book of The Frick Collection employees. Also includes date of hire (earliest date is 1901) and pay rate.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref3" level="series">
+                <did>
+                    <unittitle>Series III: Diaries, 1932-1937</unittitle>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Contents note</head>
+                    <p>Contains daily planners listing appointments and activities of Frederick Mortimer Clapp and Frick Collection Trustees. Listings document meetings, employee-related matters, travel, and visitors to the Collection. Meetings listed include Trustees, Committee on Organization and Policy, and Executive Committee meetings, as well as informal meetings with architects, subcontractors, Trustees, and other visitors to the Collection.</p>
+                </scopecontent>
+                <c id="ref119" level="file">
+                    <did>
+                        <unittitle>1932 Diary</unittitle>
+                        <container id="cid12098" type="box" label="Mixed materials">6</container>
+                        <container parent="cid12098" type="folder">2</container>
+                        <unitdate normal="1932/1932">1932</unitdate>
+                    </did>
+                </c>
+                <c id="ref120" level="file">
+                    <did>
+                        <unittitle>1933 Diary</unittitle>
+                        <container id="cid12099" type="box" label="Mixed materials">6</container>
+                        <container parent="cid12099" type="folder">3</container>
+                        <unitdate normal="1933/1933">1933</unitdate>
+                    </did>
+                </c>
+                <c id="ref121" level="file">
+                    <did>
+                        <unittitle>1934 Diary</unittitle>
+                        <container id="cid12100" type="box" label="Mixed materials">6</container>
+                        <container parent="cid12100" type="folder">4</container>
+                        <unitdate normal="1934/1934">1934</unitdate>
+                    </did>
+                </c>
+                <c id="ref122" level="file">
+                    <did>
+                        <unittitle>1935 Diary</unittitle>
+                        <container id="cid12101" type="box" label="Mixed materials">6</container>
+                        <container parent="cid12101" type="folder">5</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                </c>
+                <c id="ref123" level="file">
+                    <did>
+                        <unittitle>1936 Diary</unittitle>
+                        <container id="cid12102" type="box" label="Mixed materials">6</container>
+                        <container parent="cid12102" type="folder">6</container>
+                        <unitdate normal="1936/1936">1936</unitdate>
+                    </did>
+                </c>
+                <c id="ref124" level="file">
+                    <did>
+                        <unittitle>1937 Diary</unittitle>
+                        <container id="cid12103" type="box" label="Mixed materials">7</container>
+                        <container parent="cid12103" type="folder">1</container>
+                        <unitdate normal="1937/1937">1937</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="ref4" level="series">
+                <did>
+                    <unittitle>Series IV: Small Catalogue, 1934-1935</unittitle>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains eight typed manuscripts of a small catalogue titled<emph render="italic">Summary of the Paintings in The Frick Collection,</emph>published in 1935 by the Frick Collection as<emph render="italic">The Frick Collection: Paintings: Summary Catalogue.</emph>Contains typed manuscripts submitted by Porter Garnett, and versions revised by Frederick Mortimer Clapp and other Frick Collection staff members. An unmarked copy of the published catalogue,<emph render="italic">Pictures in the Collection of Henry Clay Frick, at One East Seventieth Street, New York,</emph>privately printed in New York, [1925], was transferred to The Frick Collection Printed Material record group.</p>
+                </scopecontent>
+                <c id="ref126" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Summary of the Paintings in The Frick Collection</emph>&#xD4;&#xC7;&#xF4; Drafts</unittitle>
+                        <container id="cid12104" type="box" label="Mixed materials">7</container>
+                        <container parent="cid12104" type="folder">2</container>
+                        <unitdate>[circa 1934-1935]</unitdate>
+                    </did>
+                    <scopecontent id="ref125">
+                        <head>Scope and Contents note</head>
+                        <p>Two versions of a typed manuscript labeled, "Final copy with Mr. Garnett's original copy," containing editorial marks and notes in red ink. Removed from binder.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref127" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Summary of the Paintings in The Frick Collection</emph>- Drafts [5 folders]</unittitle>
+                        <container id="cid12105" type="box" label="Mixed materials">7</container>
+                        <container parent="cid12105" type="folder">3-7</container>
+                        <unitdate normal="1934/1935" type="inclusive">1934-1935</unitdate>
+                    </did>
+                    <scopecontent id="ref128">
+                        <head>Scope and Contents note</head>
+                        <p>Contains six typed manuscripts, most marked with revisions. The first includes a February 15, 1934 signed note from Porter Garnett, "Notes on Manuscript for Small Catalogue" that details sources, treatment, diction, sequence and length, as well as related topics. Also includes two marked "void," superseded by copy of July 6, 1935, and one "Copy with Mr. Feipel's notes on punctuation." Removed from binder.</p>
+                    </scopecontent>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnfr" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnfr/HCFFurnishingsFiles.xml">nnfr_hcffurnishingsfiles</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Henry Clay Frick Furnishings Files, 1913-1920<num>TFC.0100.020</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Susan Chore.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Frick Collection/Frick Art Reference Library Archives</publisher>
+                <address>
+                    <addressline>10 East 71st Street</addressline>
+                    <addressline>New York, NY, 10021</addressline>
+                    <addressline>archives@frick.org</addressline>
+                </address>
+                <date>&#xA9; 2011 The Frick Collection. All rights reserved.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-16T14:15-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Henry Clay Frick Furnishings Files</unittitle>
+            <unitid>TFC.0100.020</unitid>
+            <repository>
+                <corpname>The Frick Collection/Frick Art Reference Library Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 Linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate>1913-1920</unitdate>
+            <abstract id="ref33" label="Abstract">The New York residence of Henry Clay Frick (1849-1919), a prominent art collector and industrialist, was designed by Thomas Hastings and completed in 1914. The house, located at One East 70th Street, was opened in December 1935 as a public art gallery, The Frick Collection. Correspondence, telegrams, lists, notes and invoices document the furnishing and interior decoration of the house from 1913 to 1920.</abstract>
+            <origination label="creator">
+                <persname source="Library_of_Congress_Name_Authority_File">Frick, Henry Clay, 1849-1919.</persname>
+            </origination>
+        </did>
+        <processinfo id="ref35">
+            <head>Processing Information</head>
+            <p>Arranged and described by, Susan Chore, 2002, with funding from a Gladys Krieble Delmas Foundation Grant, 2001. Updated by Susan Chore, 2011.</p>
+        </processinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Henry Clay Frick Furnishings Files. The Frick Collection/Frick Art Reference Library Archives.</p>
+        </prefercite>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>These records are open for research under the conditions of The Frick Collection/Frick Art Reference Library Archives access policy. Contact the Archives Department for further information.</p>
+        </accessrestrict>
+        <arrangement id="ref5">
+            <head>Arrangement</head>
+            <p>The collection is arranged alphabetically by name of the firm or correspondent, with an inventory filed at the end.</p>
+        </arrangement>
+        <bioghist id="ref3">
+            <head>Historical Note</head>
+            <p>Henry Clay Frick (1849-1919) was a prominent industrialist and art collector who made his fortune in the coal, coke, steel, and railroad industries. Born into modest circumstances in West Overton, Pa., Frick ended his formal education by the mid-1860s. In 1871, he borrowed money to purchase a share in a coking concern that would eventually become the H.C. Frick Coke Co. Over the next decade, he continued to expand his business through the acquisition of more coal lands and coke ovens, and entered into partnership with fellow industrialist Andrew Carnegie in 1882. Frick assumed the chairmanship of Carnegie Bros. &amp; Co. (later Carnegie Steel Co.) in 1889, and served in that capacity until his resignation from the company in December 1899. During his tenure as chairman, differences between Frick and Carnegie emerged, most significantly in their approach to labor issues. The 1892 Homestead Strike further strained relations between the two men, and in 1899, Frick permanently severed his relationship with Carnegie.</p>
+            <p>In December 1881, Frick married Adelaide Howard Childs of Pittsburgh. The couple purchased a house ("Clayton") in the Homewood section of Pittsburgh, and had four children: Childs Frick (1883-1965), Martha Howard Frick (1885-1891), Helen Clay Frick (1888-1984), and Henry Clay Frick, Jr. (born 1892, died in infancy).</p>
+            <p>Frick's first recorded art purchase occurred in 1881, when he acquired George Hetzel's<emph render="italic">Landscape with River.</emph>Frick purchased only a few paintings over the next decade, but by the mid-1890's, he was steadily acquiring new pictures at the rate of about one per month. His taste during this period ran toward contemporary French artists and Barbizon School landscapes. After the turn of the century, however, Frick's taste shifted to eighteenth century English portraits and seventeenth century Dutch paintings, including works by Gainsborough, Lawrence, Vermeer, Cuyp, and Hobbema.</p>
+            <p>After his break with Carnegie, Frick began spending less time in Pittsburgh, and soon established additional residences in New York and Massachusetts. In 1905, Frick leased the Vanderbilt mansion at 640 Fifth Avenue in New York, which he and his family would occupy for the next nine years. Major acquisitions during this period include Titian's<emph render="italic">Pietro Aretino,</emph>five of his eight Van Dycks, Rembrandt's<emph render="italic">Self-Portrait,</emph>El Greco's<emph render="italic">Purification of the Temple</emph>, Vermeer's<emph render="italic">Officer and Laughing Girl,</emph>and Holbein's<emph render="italic">Sir Thomas More.</emph>
+            </p>
+            <p>"Eagle Rock", the Frick family's summer home in Prides Crossing, Mass., was completed in 1906. Also that year, Frick began to make plans for the construction of his own New York residence by purchasing land at the corner of 70th Street and Fifth Avenue. At the time of Frick's purchase, however, the Lenox Library was located on the site, and Frick was prevented from taking possession of the property until after the opening of the New York Public Library in 1911. While Frick did offer to relocate the Lenox Library building to another site at his expense, no agreement could be reached with the city, and it was demolished after he took title to the property in 1912.</p>
+            <p>Although Frick first sought designs from Daniel Burnham, architect of the Frick Building in downtown Pittsburgh, he ultimately commissioned architect Thomas Hastings of the firm Carr&#x251C;&#xBF;re &amp; Hastings to design and build his New York residence. The result was a three-story Beaux-Arts mansion clad in limestone, featuring a 100-foot picture gallery, a garden on the Fifth Avenue side of the house, and an interior courtyard. The site was cleared, plans for the house were finalized in 1912, and construction began in 1913. Charles Allom of White, Allom &amp; Co. was selected to furnish the rooms on the ground floor, as well as the Breakfast Room and Frick's personal Sitting Room, both on the second floor. The remaining rooms on the second and third floors were decorated by Elsie de Wolfe, who was also commissioned to furnish the Ladies' Reception Room on the first floor (now the Boucher Room).</p>
+            <p>Frick, along with his wife and daughter, took up residence in the house in November 1914. (Frick's son, Childs, had married Frances Shoemaker Dixon in the fall of 1913, and consequently never resided in the house.) Frick's purchases in 1914 included works by Gainsborough, Goya, Renoir, Turner and Whistler, among others.</p>
+            <p>In 1915, two years after the death of J.P. Morgan, Frick had the opportunity to acquire objects from Morgan's famous collection, including paintings, bronzes, Chinese porcelains, and Limoges enamels. Through the art dealer Joseph Duveen, Frick acquired furniture, paintings, and decorative arts, including a series of Fragonard panels on display at the Metropolitan Museum of Art. The house's first floor Drawing Room was then renovated to accommodate the panels. From 1915 until his death in 1919, Frick added works by Bellini, Boucher, Bronzino, Hoppner, and Stuart, as well as additional works by Titian, Holbein, and Vermeer.</p>
+            <p>With the exception of the Fragonard Room, the house remained essentially unchanged from the time of its construction until the death of Adelaide H.C. Frick in 1931. At that time, according to the terms of Frick's will, the house was converted into a museum, with architectural changes overseen by John Russell Pope. Expanded to include two new galleries, a music room, and a garden court, the museum opened to the public as The Frick Collection in 1935.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Content Note</head>
+            <p>The Henry Clay Frick Furnishings Files, 1913-1920, document the furnishing and interior decoration of Henry Clay Frick's New York residence, located at One East 70th Street. This collection represents only a portion of the material related to the furnishings and interior decoration of the Frick residence; the bulk of these papers are in the One East 70th Street Papers, located in this repository.</p>
+            <p>Correspondence, telegrams, handwritten notes, invoices, and lists of estimates detail the selection and purchase of furniture, lighting fixtures, draperies, rugs, wall coverings and other decorative accessories for One East 70th Street. Correspondents include Henry Clay Frick, Charles Allom, E.R. Bacon, Alfred Anson, Thomas Hastings, E.T. Stotesbury and Frank Partridge.</p>
+            <p>The majority of the files pertain to White, Allom &amp; Co., the firm responsible for decorating and furnishing the first floor of the residence, as well as the Breakfast Room and Mr. Frick's Sitting Room on the second floor. Lists of estimates and revised estimates, and correspondence between Henry Clay Frick and Charles Allom concerning payment and delays in the completion of the work form the bulk of the material. The correspondence also contains references to the selection of materials and furnishings.</p>
+            <p>Two folders of Mr. Frick's correspondence with E.R. Bacon and Alfred Anson regarding the purchase of a suite of Beauvais tapestry furniture from the Duke of Devonshire also contain Bacon's comments and suggestions on the furnishing of Mr. Frick's residence. Also of note is a three-page Edward F. Caldwell &amp; Co. list of lighting fixtures, containing descriptive information and 31 small pencil drawings of the fixtures.</p>
+            <p>Some of the documents were originally stored in a red envelope - a 9 1/2" x 4" expanding wallet envelope with a printed customized form glued to the front, entitled "Construction [crossed out, with Furnishings written in its place], New York Residence. H.C. Frick." Documents found in these envelopes were transferred to a single folder in order to maintain their original organization.</p>
+        </scopecontent>
+        <relatedmaterial id="ref32">
+            <head>Related Materials</head>
+            <p>Henry Clay Frick Art Collection Files. The Frick Collection/Frick Art Reference Library Archives.</p>
+            <p>One East 70th Street Papers, on deposit at The Frick Collection/Frick Art Reference Library Archives from the Helen Clay Frick Foundation.</p>
+            <p>Henry Clay Frick Papers, Series I: Art Files, on deposit at The Frick Collection/Frick Art Reference Library Archives from the Helen Clay Frick Foundation.</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname source="local">Allom, Charles, Sir, 1865-1947.</persname>
+            <persname rules="dacs" source="local">Anson, Alfred.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Bacon, Edward R. (Edward Rathbone), 1846-1915.</persname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Edw. F. Caldwell &amp; Co.</corpname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Henry Clay, 1849-1919--Homes and haunts--New York (State)--New York.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Hastings, Thomas, 1860-1929.</persname>
+            <corpname rules="dacs" source="local">White, Allom &amp; Co.</corpname>
+            <subject source="lcsh">Art--Collectors and collecting--New York (State)--New York.</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <subject source="lcsh">Decorative arts--Collectors and collecting--New York (State)--New York.</subject>
+            <genreform source="aat">Financial records.</genreform>
+            <subject source="lcsh">Mansions--New York (State)--New York.</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref11" level="file">
+                <did>
+                    <unittitle>Bacon, E.R. and Alfred Anson</unittitle>
+                    <container id="cid16761" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16761" type="folder">1</container>
+                    <unitdate normal="1914/1914">1914</unitdate>
+                </did>
+                <scopecontent id="ref10">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains correspondence of Henry Clay Frick, E.R. Bacon, and Alfred Anson, primarily concerning the purchase of a suite of French carved and gilt furniture (eight chairs, and two settees) from the Duke of Devonshire. May 23, 1914 letter from E.R. Bacon to Frick refers to a meeting with Lady Sackville West, suggested rugs for the Drawing Room, a 16th century Ispahan rug, paintings by Van Dyck, and the Duke of Devonshire's Rembrandt and Memling. A July 26, 1914 letter from Bacon includes a recommendation of red damask silk for the walls and furniture of Mr. Frick's Art Gallery rather than green. A September, 1914 letter from Bacon concerns his visit to One East 70th Street and includes his comments on the first and second floor construction and interior decoration. Correspondence includes mentions of Elsie de Wolfe; Mr. Maus; the Rothschilds; White, Allom; Petworth; Wilton; and Lansdowne House.</p>
+                </scopecontent>
+            </c>
+            <c id="ref13" level="file">
+                <did>
+                    <unittitle>Bacon, E.R. and Alfred Anson - Suite of French Carved and Gilt Furniture (Devonshire)</unittitle>
+                    <container id="cid16762" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16762" type="folder">2</container>
+                    <unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate>
+                </did>
+                <scopecontent id="ref12">
+                    <head>Scope and Contents note</head>
+                    <p>[Purchased May 27, 1914]</p>
+                    <p>Folder contains correspondence and an invoice for eight chairs and two settees purchased from the Duke of Devonshire, and a Cheval screen in tapestry of late Louis XIV period, purchased from Lord Canterbury. The Devonshire furniture is described as upholstered with Beauvais tapestry of rose Pompadour ground with panels of Cupids, after Boucher. Also contains Frick's correspondence with E.T. Stotesbury offering to sell him the furniture in 1916: "...I intended it for my drawing room, but after the purchase of the Fragonards, I found it was too strong and large for the room." June 7, 1916 letter from Frick to Stotesbury contains an unsolicited recommendation for the work of Charles Allom.</p>
+                </scopecontent>
+            </c>
+            <c id="ref15" level="file">
+                <did>
+                    <unittitle>De Wolfe, Elsie - Ten Queen Anne Chairs for Breakfast Room</unittitle>
+                    <container id="cid16763" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16763" type="folder">3</container>
+                    <unitdate normal="1914/1914">1914</unitdate>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>[Purchased February 26, 1914]</p>
+                    <p>Folder contains only red envelope. Name listed on envelope is "'Charles' (through Miss de Wolfe)."</p>
+                </scopecontent>
+            </c>
+            <c id="ref17" level="file">
+                <did>
+                    <unittitle>Edward F. Caldwell &amp; Co. - Lighting</unittitle>
+                    <container id="cid16764" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16764" type="folder">4</container>
+                    <unitdate normal="1914/1914">1914</unitdate>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains three-page document, "Estimate of Lighting Fixtures for the Residence of Henry Clay Frick, Esq.," which lists lighting fixtures throughout One East 70th Street. List includes location, model number, description, quantity, and cost, as well as 31 small pencil drawings of the fixtures.</p>
+                </scopecontent>
+            </c>
+            <c id="ref19" level="file">
+                <did>
+                    <unittitle>Partridge, Frank</unittitle>
+                    <container id="cid16765" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16765" type="folder">5</container>
+                    <unitdate normal="1915/1915">1915</unitdate>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains two letters re "an extremely fine piece of English furniture" painted by Angelica Kaufmann, which belonged to Lord Tweedmouth.</p>
+                </scopecontent>
+            </c>
+            <c id="ref21" level="file">
+                <did>
+                    <unittitle>Seligmann, Jacques</unittitle>
+                    <container id="cid16766" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16766" type="folder">6</container>
+                    <unitdate normal="1914/1914">1914</unitdate>
+                </did>
+                <scopecontent id="ref20">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains "Memoranda taken from Correspondence of H. C. F. and Jacques Seligmann," which lists summaries of letters dated from May 18 to December 24, 1914 re prices, selection, shipping, and payments for furniture. Letters summarized can be found in the One East 70th Street Papers and the Henry Clay Frick Papers, Series II: Correspondence, both located in this repository.</p>
+                </scopecontent>
+            </c>
+            <c id="ref23" level="file">
+                <did>
+                    <unittitle>White, Allom &amp; Co.</unittitle>
+                    <container id="cid16767" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16767" type="folder">7-11</container>
+                    <unitdate normal="1913/1916" type="inclusive">1913-1916</unitdate>
+                </did>
+                <scopecontent id="ref22">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains correspondence; telegrams; notes; and lists of estimates, revised estimates, and charges for individual items and installation related to One East 70th Street furnishings. Primary correspondents are Henry Clay Frick and Charles Allom. Lists include furniture, curtains, shades, rugs, chandeliers and other lighting fixtures, and firedogs and grates, organized by room. Correspondence concerns pricing, billing, difficulty in obtaining materials during World War I, disagreements over balances due, alterations to original plans, and the delayed timing of installation. Other areas of discussion include the balustrade of the main staircase, the ventilation above the Art Gallery, and the wall covering and color scheme of the Drawing Room.</p>
+                    <p>Includes a telegram from Thomas Hastings, as well as references to Carr&#x251C;&#xBF;re &amp; Hastings in the correspondence. August 13, 1913 "Suggested letter for Mr. Hastings: My new House" contains Frick's comments on the decoration of the ceilings in the North and South Halls and the Dining Room, and the heating outlets in the Art Gallery. Later correspondence highlights Mr. Frick's frustrations with delays in the completion of the work and requests for additional money from Allom.</p>
+                </scopecontent>
+            </c>
+            <c id="ref25" level="file">
+                <did>
+                    <unittitle>White, Allom &amp; Co. - Electric Fixtures and Furniture</unittitle>
+                    <container id="cid16768" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16768" type="folder">12</container>
+                    <unitdate normal="1914/1914">1914</unitdate>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Contents note</head>
+                    <p>[Purchased June 3, 1914]</p>
+                    <p>Folder contains correspondence and estimates re the purchase of lighting fixtures for the first and second floor halls and vestibules, the main staircase, and the Breakfast Room, as well as settees and side tables.</p>
+                </scopecontent>
+            </c>
+            <c id="ref27" level="file">
+                <did>
+                    <unittitle>White, Allom &amp; Co. - Furniture and Furnishings</unittitle>
+                    <container id="cid16769" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16769" type="folder">13</container>
+                    <unitdate normal="1915/1915">1915</unitdate>
+                </did>
+                <scopecontent id="ref26">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains letters from Charles Allom regarding payment and items ordered, and requests for additional money; a list of items "beyond the furnishing contract"; and balance sheets and handwritten calculations.</p>
+                </scopecontent>
+            </c>
+            <c id="ref29" level="file">
+                <did>
+                    <unittitle>White, Allom &amp; Co. - Notes from White, Allom correspondence</unittitle>
+                    <container id="cid16770" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16770" type="folder">14</container>
+                    <unitdate normal="1914/1914">1914</unitdate>
+                </did>
+                <scopecontent id="ref28">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains a four-page document listing summaries of letters related to White, Allom &amp; Co.'s work at One East 70th Street, including suggested acquisitions of furnishings and works of art, purchases, shipments and payments. Correspondents listed include Henry Clay Frick, Charles Allom, and Thomas Hastings. Letters are not listed in order. Most of the letters summarized are in the One East 70th Street Papers, located in this repository.</p>
+                </scopecontent>
+            </c>
+            <c id="ref31" level="file">
+                <did>
+                    <unittitle>Inventory of Furnishings at One East 70th Street</unittitle>
+                    <container id="cid16771" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16771" type="folder">15</container>
+                    <unitdate>circa 1920</unitdate>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Contents note</head>
+                    <p>Folder contains partial inventory of furnishings at One East 70th Street. First section of the inventory lists furnishings by room, with description, location within the room, source (primarily White, Allom; de Wolfe; or Duveen), and cost. Rooms include the second and third floor guest rooms and bathrooms, the Smoking Room (Men's Coat Room), the Visitors' Dressing Room, the Billiard Room, the Bowling Alley, and the basement and third floor servants' quarters. The second section of the inventory is organized by item, including draperies, carpets and rugs, fire screens, lighting fixtures, silk shades, and andirons, and lists pieces throughout One East 70th Street.</p>
+                </scopecontent>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

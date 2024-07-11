@@ -1,0 +1,1289 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnfr" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnfr/AmericanArtAssociation.xml">nnfr_americanartassociation</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the American Art Association Records, 1877-1924<num>MS.15</num>
+                </titleproper>
+                <author>Finding aid prepared by Finding aid prepared by Shannon Yule</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Frick Collection/Frick Art Reference Library Archives</publisher>
+                <address>
+                    <addressline>10 East 71st Street</addressline>
+                    <addressline>New York, NY, 10021</addressline>
+                    <addressline>archives@frick.org</addressline>
+                </address>
+                <date>&#xA9; 2010 The Frick Collection. All rights reserved.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-16T14:09-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>American Art Association Records</unittitle>
+            <unitid>MS.15</unitid>
+            <repository>
+                <corpname>The Frick Collection/Frick Art Reference Library Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.0 Linear feet</extent>
+                <extent>(8 boxes)</extent>
+            </physdesc>
+            <unitdate>1877-1924</unitdate>
+            <abstract id="ref192" label="Abstract">The American Art Association, a New York art gallery and auction house, was founded in 1883 by James F. Sutton, R. Austin Robertson, and Thomas E. Kirby. The records date from 1877-1924, but the bulk of the material documents a selection of auction sales run by the gallery from 1910 through 1923. The collection contains correspondence, approximately 1,000 photographs, handwritten and typed notes, fragments of a typed manuscript on the American Art Association, and printed material.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">American Art Association.</corpname>
+            </origination>
+            <origination label="creator">
+                <persname rules="dacs" source="local">Kirby, Thomas E. (Thomas Ellis), 1846-1924.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref9">
+            <head>Provenance</head>
+            <p>Gift of Mrs. Thomas Waller (Wilhelmina), granddaughter of Thomas E. Kirby, 1956.</p>
+        </acqinfo>
+        <separatedmaterial id="ref191">
+            <head>Separated Materials</head>
+            <p>Books and sales catalogues were removed and integrated into the Library's collection.</p>
+        </separatedmaterial>
+        <relatedmaterial id="ref10">
+            <head>Related Materials</head>
+            <p>Twelve linear feet of scrapbooks containing newspaper clippings on auction sales require conservation attention and are not available for research due to their fragile condition.</p>
+            <p>American Art Association Records, 1853-1924. Archives of American Art, Smithsonian Institution. (This collection contains the bulk of the American Art Association's records, an additional 50 linear feet)</p>
+        </relatedmaterial>
+        <scopecontent id="ref7">
+            <head>Scope and Content Note</head>
+            <p>The American Art Association records document a selection of auction sales run by the gallery, as well as Thomas Kirby's relationship with those who sold their works through the American Art Association. Records date from 1877-1924, with the bulk dating from 1910-1924. The collection includes correspondence, approximately 1,000 photographs, handwritten and typed notes, fragments of a typed manuscript on the American Art Association, pages from auction sales catalogues, newspaper and periodical clippings, and several sales catalogues.</p>
+            <p>The bulk of the collection concerns specific auction sales conducted by the American Art Association. Files contain inventories of the works, often with prices and names of buyers; black and white photographs of the works and several of the exhibition installations; correspondence; sections of a typed manuscript on the American Art Association; handwritten notes regarding the sales; pages from sales catalogues; and clippings. Documentation of 70 sales ranges from a single typescript sentence to multiple folders of correspondence, inventories and hundreds of photographs of the items for sale. An additional 150 auction sales are represented in the files only by cursory handwritten notes. Some of the most heavily documented sales include<emph render="italic">57 Paintings Belonging to Ichabod T. Williams</emph>of February 3-4, 1915;<emph render="italic">Charles of London, Italian, French &amp; English Furniture, Tapestries, Rugs, Paintings, Porcelains, etc.</emph>of November 15-20, 1920; and<emph render="italic">Palatial Mansion &amp; Contents Collected by William J. Saloman,</emph>April 4-7, 1923. Titles of sales were derived from the auction sales catalogue.</p>
+            <p>Also of note in the records is correspondence between Thomas Kirby and Arthur B. Emmons regarding several auctions in which works he owned were sold; 16 letters to Charles De Kay from correspondents other than Thomas Kirby; handwritten notes on George Inness; biographical comments on Thomas Kirby; a privately printed catalogue,<emph render="italic">Pictures in the Collection of F.A.G. Hood, Esq.</emph>; and several letters concerning the controversy over the authenticity of the painting<emph render="italic">Blue Boy</emph>at the William H. Fuller Sale of February 25, 1898, including a letter from Francis Davis Millet. A few clippings and letters document Kirby's career prior to his affiliation with the American Art Association.</p>
+        </scopecontent>
+        <processinfo id="ref6">
+            <head>Processing Information</head>
+            <p>Arranged and described by Susan Chore, 2001.</p>
+        </processinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>American Art Association Records. The Frick Collection/Frick Art Reference Library Archives.</p>
+        </prefercite>
+        <accessrestrict id="ref4">
+            <head>Access Restrictions</head>
+            <p>These records are open for research under the conditions of The Frick Collection/Frick Art Reference Library Archives access policy. Contact the Archives Department for further information at archives@frick.org.</p>
+        </accessrestrict>
+        <arrangement id="ref2">
+            <head>Arrangement</head>
+            <p>The records are organized in three series:</p>
+            <p>Series I: Auction Sales, 1910-1923</p>
+            <p>Series II: Correspondence and Notes, 1877-1924</p>
+            <p>Series III: Clippings, 1881-1924</p>
+        </arrangement>
+        <bioghist id="ref3">
+            <head>Historical Note</head>
+            <p>The American Art Association, a New York art gallery and auction house, was founded by James F. Sutton, R. Austin Robertson, and Thomas E. Kirby in 1883. Exhibitions of American art, as well as some Asian decorative arts, were on display in the sales galleries at 6 East 23rd Street. Thomas Kirby acted as auctioneer for the firm.</p>
+            <p>Sutton and Robertson had previously established the American Art Gallery in 1879, which closed in 1882. Thomas Kirby had begun his career as an auctioneer in the early 1870s, working with a variety of firms, including George A. Leavitt and Company, and had conducted sales throughout the country. He had his own auction company, Thomas E. Kirby and Company, when he joined with Sutton and Roberts in 1883.</p>
+            <p>R. Austin Robertson died in 1892. Kirby's son Gustavus joined the firm in 1912 and became half owner in 1915, upon the death of James Sutton. The galleries moved to 30 East 57th Street in 1922. In 1923, Kirby retired and sold the American Art Association to Cortlandt Field Bishop (1870-1935), who contracted Hiram Parke and Otto Bernet to run the auction house. In 1929 it merged with the Anderson Auction Company to form the American Art Association-Anderson Galleries, Inc. In 1938, the firm was taken over by Parke-Bernet Galleries, Inc., which had been formed a year earlier.</p>
+            <p>Bolas, Gerald D.<emph render="italic">The Early Years of the American Art Association, 1879-1900.</emph>PhD diss., City University of New York, 1998.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname rules="dacs" source="Library_of_Congress_Name_Authority_File">American Art Association.</corpname>
+            <persname source="Library_of_Congress_Name_Authority_File">De Kay, Charles, 1848-1935.</persname>
+            <persname rules="aacr" source="local">Emmons, Arthur B.</persname>
+            <persname source="local">Hood, G.F.W.</persname>
+            <persname rules="dacs" source="local">Kirby, Thomas E. (Thomas Ellis), 1846-1924.</persname>
+            <persname source="local">Lorenz, Rose H., d. 1934--Clippings.</persname>
+            <subject source="lcsh">Art auctions--New York (State)--New York.</subject>
+            <subject source="lcsh">Art dealers--New York (State)--New York.</subject>
+            <subject source="lcsh">Art galleries, Commercial--New York (State)--New York.</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <genreform source="aat">Newspaper clippings.</genreform>
+            <subject source="lcsh">Painting--Prices.</subject>
+            <genreform source="aat">Photographs.</genreform>
+            <title source="Local">Pictures in the Collection of F.A.G. Hood, Esq.</title>
+        </controlaccess>
+        <dsc>
+            <c id="ref11" level="series">
+                <did>
+                    <unittitle>Series I: Auction Sales, 1910-1923</unittitle>
+                </did>
+                <arrangement id="ref13">
+                    <head>Arrangement</head>
+                    <p>Arranged chronologically.</p>
+                </arrangement>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>Documents selected auction sales conducted by the American Art Association. Contains file folder covers with handwritten notes, sections of a typed manuscript on the American Art Association that pertains to individual sales and sellers, inventories, price lists, correspondence, newspaper clippings, sales catalogues, and photographs of the works, including some installations. Also included are two files of biographical comments on Thomas Kirby from the American Art Association manuscript, which were numbered and originally interfiled with the Auction Sales records. Auction sales that are represented in the files with only cursory handwritten listings on the file folder cover are listed below as "Auction Sales" with a date range; the number in parentheses indicates the number of sales listed in the folder. Numbers following the folder title are those written on original folders.</p>
+                </scopecontent>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #368-369</unittitle>
+                        <container id="cid7428" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7428" type="folder">1</container>
+                        <unitdate>1910 Dec. 5-6</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Modern Paintings</emph>
+                        </unittitle>
+                        <container id="cid7429" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7429" type="folder">2</container>
+                        <unitdate>1911 Jan. 6</unitdate>
+                    </did>
+                    <scopecontent id="ref58">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Private Collection of Paintings, John H. Converse, #370." Folder contains ten photographs, letter from John G. Johnson to Thomas Kirby, and inventory.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Rare and Beautiful Old Chinese Porcelains, Jades, etc. for...Yamanaka &amp; Company</emph>
+                        </unittitle>
+                        <container id="cid7430" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7430" type="folder">3</container>
+                        <unitdate>1911 Jan. 5-7</unitdate>
+                    </did>
+                    <scopecontent id="ref198">
+                        <head>Scope and Content Note</head>
+                        <p>Note on original folder: "Old Chinese Porcelain, Jades, etc., Yamanaka &amp; Co., #371."</p>
+                    </scopecontent>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>Comments, #371-A</unittitle>
+                        <container id="cid7431" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7431" type="folder">4</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref59">
+                        <head>Scope and Contents note</head>
+                        <p>Typed biographical comments (four pages), primarily about Thomas Kirby and book sales.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Valuable Paintings Collected by the Late Dr. Leslie D. Ward of Newark, N.J./Barbizon Masters and Their Contemporaries</emph>
+                        </unittitle>
+                        <container id="cid7432" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7432" type="folder">5</container>
+                        <unitdate>1911 Jan. 13</unitdate>
+                    </did>
+                    <scopecontent id="ref61">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Dr. Leslie D. Ward, Valuable Paintings, #372." Folder contains 21 photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Ancient and Modern Paintings and Other Objects of Art Collected by the Late William M. Laffan</emph>
+                        </unittitle>
+                        <container id="cid7433" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7433" type="folder">6</container>
+                        <unitdate>1911 Jan. 20-21</unitdate>
+                    </did>
+                    <scopecontent id="ref63">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Paintings &amp; Objects of Art Collected by Wm. M. Laffan, #373." Folder contains letter from William Laffan to Thomas Kirby (May 24, 1903) containing comments about Mr. Morgan's visit to Aix-les-Bains, France during which he purchased no art.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref65" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Valuable modern paintings</emph>
+                        </unittitle>
+                        <container id="cid7434" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7434" type="folder">7</container>
+                        <unitdate>1911 Jan. 27</unitdate>
+                    </did>
+                    <scopecontent id="ref199">
+                        <head>Scope and Content Note</head>
+                        <p>Note on original folder: "Valuable Modern Paintings, sold by the dealer Jules Oehme, #374."</p>
+                    </scopecontent>
+                </c>
+                <c id="ref66" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Important Modern Paintings</emph>
+                        </unittitle>
+                        <container id="cid7435" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7435" type="folder">8</container>
+                        <unitdate>1911 Feb. 3</unitdate>
+                    </did>
+                    <scopecontent id="ref200">
+                        <head>Scope and Content Note</head>
+                        <p>Note on original folder: "Modern Paintings sold by order of Felix Isman, #375."</p>
+                    </scopecontent>
+                </c>
+                <c id="ref68" level="file">
+                    <did>
+                        <unittitle>Comments, #376-A</unittitle>
+                        <container id="cid7436" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7436" type="folder">9</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref67">
+                        <head>Scope and Contents note</head>
+                        <p>Typed biographical comments (two pages) on Mr. Kirby as the "premier auctioneer."</p>
+                    </scopecontent>
+                </c>
+                <c id="ref69" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #377-378</unittitle>
+                        <container id="cid7437" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7437" type="folder">10</container>
+                        <unitdate>1911 Mar. 6-7</unitdate>
+                    </did>
+                </c>
+                <c id="ref71" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Modern Paintings and Water Colors</emph>
+                        </unittitle>
+                        <container id="cid7441" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7441" type="folder">11</container>
+                        <unitdate>1911 Mar. 15-17</unitdate>
+                    </did>
+                    <scopecontent id="ref70">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Modern Paintings &amp; Water Colors, collected by late Peter A. Schemm, #379." Folder contains 40 photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref72" level="file">
+                    <did>
+                        <unittitle>Auction Sales (3), #432-434</unittitle>
+                        <container id="cid7442" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7442" type="folder">12</container>
+                        <unitdate>1913 Nov. 5-10</unitdate>
+                    </did>
+                </c>
+                <c id="ref73" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Artistic Property of the Well Known House of Cottier and Company, New York</emph>
+                        </unittitle>
+                        <container id="cid7443" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7443" type="folder">13</container>
+                        <unitdate>1913 Nov. 19</unitdate>
+                    </did>
+                    <scopecontent id="ref201">
+                        <head>Scope and Content Note</head>
+                        <p>Note on original folder: "Artistic Property, Tapestries, Cottier &amp; Company, #435."</p>
+                    </scopecontent>
+                </c>
+                <c id="ref75" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Fine Old English Furniture...and Other Desirable Objects</emph>
+                        </unittitle>
+                        <container id="cid7444" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7444" type="folder">14</container>
+                        <unitdate>1913 Dec. 3-6</unitdate>
+                    </did>
+                    <scopecontent id="ref74">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Valuable Stock of Old English Furniture, Cooper &amp; Griffith, #436." Folder contains letter from C.H. Griffith to the American Art Association (December 10, 1913) regarding his satisfaction with the outcome of the sale.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref76" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Antique and Modern Oriental Rugs and Carpets, and Other Beautiful Textiles</emph>
+                        </unittitle>
+                        <container id="cid7445" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7445" type="folder">15</container>
+                        <unitdate>1913 Dec. 8-10</unitdate>
+                    </did>
+                    <scopecontent id="ref202">
+                        <head>Scope and Content Note</head>
+                        <p>Note on original folder: "Stock of Rugs &amp; Textiles, John T. Keresey &amp; Co., #437."</p>
+                    </scopecontent>
+                </c>
+                <c id="ref77" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #439-440</unittitle>
+                        <container id="cid7446" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7446" type="folder">16</container>
+                        <unitdate>1914 Jan. 15-16</unitdate>
+                    </did>
+                </c>
+                <c id="ref79" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Notable Paintings by the Great Masters</emph>
+                        </unittitle>
+                        <container id="cid7447" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7447" type="folder">17</container>
+                        <unitdate>1914 Feb. 26-27</unitdate>
+                    </did>
+                    <scopecontent id="ref78">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Valuable Paintings, Collection by the Late Clement A. Griscom, #458." Folder contains 34 photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref81" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Private Collection of Valuable Paintings by the Old Masters and Early English Artists Formed by the Late Leon Hirsch of New York/Remarkable Collection of Ancient Chinese Bronzes, Beautiful Old Porcelains ... Comprising the Private Collection of a Chinese Nobleman of Tien-Tsin and Objects Procured by the Senior Member of Messrs. Yamanaka &amp; Co.</emph>
+                        </unittitle>
+                        <container id="cid7448" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7448" type="folder">18</container>
+                        <unitdate>1914 Jan. 29-31</unitdate>
+                    </did>
+                    <scopecontent id="ref80">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Paintings by Old Masters &amp; Early English School, Leon Hirsch, #441; Old Chinese Bronzes, Porcelains, Brocades, Paintings on Glass, Rugs and Furniture, Yamanaka &amp; Co., #442." Folder contains four hand-tinted photographs and one black and white photo of objects in the auction, and five photographs of the exhibition rooms. (Five photographs were removed to Oversize box.)</p>
+                    </scopecontent>
+                </c>
+                <c id="ref82" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #433A</unittitle>
+                        <container id="cid7449" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7449" type="folder">19</container>
+                        <unitdate>1914 Feb. 5-9</unitdate>
+                    </did>
+                </c>
+                <c id="ref83" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Antique Oriental Weaves of Rare and Distinctive Quality, Fine Old Persian Faiences</emph>
+                        </unittitle>
+                        <container id="cid7450" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7450" type="folder">20</container>
+                        <unitdate>1914 Jan. 6-9</unitdate>
+                    </did>
+                    <scopecontent id="ref203">
+                        <head>Scope and Content Note</head>
+                        <p>Note on original folder: "Old Oriental Weaves, Old Persian Faiences, Arm. Persian Looms and Other Oriental Treasures, O. Agopian &amp; Son, #438."</p>
+                    </scopecontent>
+                </c>
+                <c id="ref84" level="file">
+                    <did>
+                        <unittitle>Auction Sales (3) #434A, #436A, #437A; Horace Townsend, Famous Hargreave Collection of Wedgewood, Medallions, etc., #434B</unittitle>
+                        <container id="cid7451" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7451" type="folder">21</container>
+                        <unitdate>1914 Feb. 9-18</unitdate>
+                    </did>
+                </c>
+                <c id="ref85" level="file">
+                    <did>
+                        <unittitle>Beautiful old Chinese porcelains Comprising the Extraordinary Private Collection Formed by Mr. S.S. Carvalho of New York/Finished Paintings, Drawings, and Studies Left by the Late Francis Davis Millet, N.A./Auction Sales (2), #440A-#441A</unittitle>
+                        <container id="cid7452" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7452" type="folder">22</container>
+                        <unitdate>1914 Feb. 24-Mar. 2; Mar. 6; Mar. 7-11</unitdate>
+                    </did>
+                    <scopecontent id="ref193">
+                        <head>Scope and Contents note</head>
+                        <p>Note on original folder: "Great Collection of Blue and White Style Color Specimens, Peach Blooms, etc., S.S. Carvalho, #439A; Paintings &amp; Drawings by the Late Francis Davis Millet, #442; Auction Sales (2), #440A-#441A." Folder cover also contains notes on Millet re Academy of Rome and his death.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref86" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Valuable Paintings by Foreign and American Masters</emph>, #443</unittitle>
+                        <container id="cid7453" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7453" type="folder">23</container>
+                        <unitdate>1914 Mar. 17-20</unitdate>
+                    </did>
+                </c>
+                <c id="ref87" level="file">
+                    <did>
+                        <unittitle>Auction Sales (6), #444-449</unittitle>
+                        <container id="cid7454" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7454" type="folder">24</container>
+                        <unitdate>1914 Mar. 19- May 8</unitdate>
+                    </did>
+                </c>
+                <c id="ref88" level="file">
+                    <did>
+                        <unittitle>Book Sales (16), 1913-1914, #400, 407-408, 451-457, 460-462, 468</unittitle>
+                        <container id="cid7455" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7455" type="folder">25</container>
+                        <unitdate>1913 Nov.- 1914 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref90" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #466; Artistic &amp; Other Property, Residence of Late Mrs. Emilie de L. Havermeyer, #467</unittitle>
+                        <container id="cid7456" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7456" type="folder">26</container>
+                        <unitdate>1914 Oct. 29 - Nov. 7; Nov. 16-23</unitdate>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Essay "Monogram on the series 'Les fetes de Village' composed of three tapestries" (seven pages, typed), letter from John Getz to Kirby re Audran tapestries in sale (November 16, 1914), and three photographs of rooms in residence, two of tapestries.</p>
+                        <p>(2 photographs removed to Oversize box)</p>
+                    </scopecontent>
+                </c>
+                <c id="ref91" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #468; Old Chinese Rugs Collected by Thomas B. Clarke, #469</unittitle>
+                        <container id="cid7457" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7457" type="folder">27</container>
+                        <unitdate>1914 Dec. 3-7; 1915 Jan. 6-9</unitdate>
+                    </did>
+                </c>
+                <c id="ref92" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #470; Early English Portraits Collected by F.A.G. Hood, #471</unittitle>
+                        <container id="cid7458" type="box" label="Mixed materials">1</container>
+                        <container parent="cid7458" type="folder">28-29</container>
+                        <unitdate>1915 Jan. 12-14; Jan. 21</unitdate>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Contents note</head>
+                        <p>Nine letters from G.F.W. Hood to Thomas Kirby, four telegrams, and 13 photographs. Also contains privately printed catalogue<emph render="italic">Pictures in the Collection of F.A.G. Hood, Esq</emph>. Catalogue contains some annotations.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref93" level="file">
+                    <did>
+                        <unittitle>Chinese &amp; Japanese Bronzes Collected by Charles H. Cramps, #472; Auction sale (1), #473</unittitle>
+                        <container id="cid7459" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7459" type="folder">1</container>
+                        <unitdate>1915 Jan. 21; Jan. 19</unitdate>
+                    </did>
+                </c>
+                <c id="ref97" level="file">
+                    <did>
+                        <unittitle>Tapestries, Old Laces, Snuff Boxes, Watches, Fans, Louis XV Furniture Collected by Duc d&#x2019;Avaray, #474</unittitle>
+                        <container id="cid7461" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7461" type="folder">2</container>
+                        <unitdate>1915 Jan. 22-23</unitdate>
+                    </did>
+                    <scopecontent id="ref96">
+                        <head>Scope and Contents note</head>
+                        <p>(2 photographs removed to Oversize box)</p>
+                    </scopecontent>
+                </c>
+                <c id="ref98" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #475-476</unittitle>
+                        <container id="cid7462" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7462" type="folder">3</container>
+                        <unitdate>1915 Jan. 25</unitdate>
+                    </did>
+                </c>
+                <c id="ref100" level="file">
+                    <did>
+                        <unittitle>57 Paintings Belonging to Ichabod T. Williams, #477</unittitle>
+                        <container id="cid7463" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7463" type="folder">4-7</container>
+                        <unitdate>1915 Feb. 3-4</unitdate>
+                    </did>
+                    <scopecontent id="ref99">
+                        <head>Scope and Contents note</head>
+                        <p>File folder cover with descriptive notes; two-page typed summary of sale with some buyers and prices listed; typed list of paintings with artist, number, buyer and price; and 123 photographs, with duplicates.</p>
+                        <p>(One file folder cover and 42 images removed to Oversize box)</p>
+                    </scopecontent>
+                </c>
+                <c id="ref101" level="file">
+                    <did>
+                        <unittitle>Chinese Porcelains Collected by the late William Churchill Oestler, #479; Rare &amp; Beautiful Art Treasures from China, Yamanaka, #480</unittitle>
+                        <container id="cid7464" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7464" type="folder">8</container>
+                        <unitdate>1915 Feb. 5-6; Feb. 16-17</unitdate>
+                    </did>
+                </c>
+                <c id="ref102" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #481</unittitle>
+                        <container id="cid7465" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7465" type="folder">9</container>
+                        <unitdate>1915 Feb. 25-27</unitdate>
+                    </did>
+                </c>
+                <c id="ref103" level="file">
+                    <did>
+                        <unittitle>Valuable Oriental and Other Art Property, Arthur I. Hoe Collection, #482</unittitle>
+                        <container id="cid7466" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7466" type="folder">10</container>
+                        <unitdate>1915 Mar. 5-6</unitdate>
+                    </did>
+                </c>
+                <c id="ref104" level="file">
+                    <did>
+                        <unittitle>Continuation Paintings Sale, various sellers, #483</unittitle>
+                        <container id="cid7467" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7467" type="folder">11</container>
+                        <unitdate>1915 Mar. 5</unitdate>
+                    </did>
+                </c>
+                <c id="ref105" level="file">
+                    <did>
+                        <unittitle>Auction Sales (5), #484, 484A, 485-487</unittitle>
+                        <container id="cid7468" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7468" type="folder">12</container>
+                        <unitdate>1915 Mar.</unitdate>
+                    </did>
+                </c>
+                <c id="ref107" level="file">
+                    <did>
+                        <unittitle>Art and Literary Collections of the Late General Brayton Ives, #488</unittitle>
+                        <container id="cid7469" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7469" type="folder">13</container>
+                        <unitdate>1915 Apr. 6-14</unitdate>
+                    </did>
+                    <scopecontent id="ref106">
+                        <head>Scope and Contents note</head>
+                        <p>Correspondence (1910-1913) to General Brayton Ives from Edgar Gorer and Dreicer &amp; Co., regarding the sale/purchase of his vases and other porcelains. Includes invoices with prices.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref109" level="file">
+                    <did>
+                        <unittitle>The Blakeslee Galleries of Paintings, #489</unittitle>
+                        <container id="cid7470" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7470" type="folder">14</container>
+                        <unitdate>1915 Apr. 21-22</unitdate>
+                    </did>
+                    <scopecontent id="ref108">
+                        <head>Scope and Contents note</head>
+                        <p>Letter to the American Art Association from Prinz Brothers denying any business dealings with Blakeslee, and copy of a confidential letter from John G. Johnson to Dr. Paul Mersch re strategy for selling the Blakeslee collection.</p>
+                        <p>(three photographs removed to Oversize box)</p>
+                    </scopecontent>
+                </c>
+                <c id="ref111" level="file">
+                    <did>
+                        <unittitle>15 Fine Paintings by the Great Masters, Duveen Brothers, "Fire Sale," #490</unittitle>
+                        <container id="cid7471" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7471" type="folder">15</container>
+                        <unitdate>1915 Apr. 29</unitdate>
+                    </did>
+                    <scopecontent id="ref110">
+                        <head>Scope and Contents note</head>
+                        <p>File folder cover with notes about damage done to the paintings by a ship fire.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref112" level="file">
+                    <did>
+                        <unittitle>Chinese Porcelains, Jade, etc. belonging to Loo &amp; Cie, #491; Auction Sale, #492</unittitle>
+                        <container id="cid7472" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7472" type="folder">16</container>
+                        <unitdate>1915 May 5-6; May 13</unitdate>
+                    </did>
+                </c>
+                <c id="ref113" level="file">
+                    <did>
+                        <unittitle>Costly Church Treasures Belonging to the Dominican Order of the Catholic Church of Cuba, #493</unittitle>
+                        <container id="cid7473" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7473" type="folder">17</container>
+                        <unitdate>1915 Apr. 24- May 1</unitdate>
+                    </did>
+                </c>
+                <c id="ref114" level="file">
+                    <did>
+                        <unittitle>Book Sales, 1914-1915, #494-504</unittitle>
+                        <container id="cid7474" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7474" type="folder">18</container>
+                        <unitdate>1914 Jul.-1915 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref115" level="file">
+                    <did>
+                        <unittitle>Costly Art Property &amp; Antiquities Belonging to the House of Karl Freund, #526</unittitle>
+                        <container id="cid7475" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7475" type="folder">19</container>
+                        <unitdate>1916 Mar. 20-23</unitdate>
+                    </did>
+                </c>
+                <c id="ref116" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #563-564</unittitle>
+                        <container id="cid7476" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7476" type="folder">20</container>
+                        <unitdate>1916 Nov.</unitdate>
+                    </did>
+                </c>
+                <c id="ref118" level="file">
+                    <did>
+                        <unittitle>Old &amp; Modern Paintings belonging to Several Estates, #593</unittitle>
+                        <container id="cid7477" type="box" label="Mixed materials">2</container>
+                        <container parent="cid7477" type="folder">21</container>
+                        <unitdate>1917 Apr. 16-17</unitdate>
+                    </did>
+                    <scopecontent id="ref117">
+                        <head>Scope and Contents note</head>
+                        <p>Letter to Kirby regarding sales of pictures from Gustav Reichard Estate, and one photo.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref119" level="file">
+                    <did>
+                        <unittitle>Auction Sales (20), #594-612</unittitle>
+                        <container id="cid7481" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7481" type="folder">1</container>
+                        <unitdate>1917 Nov. - May</unitdate>
+                    </did>
+                </c>
+                <c id="ref120" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #686-687</unittitle>
+                        <container id="cid7482" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7482" type="folder">2</container>
+                        <unitdate>1919 Mar.</unitdate>
+                    </did>
+                </c>
+                <c id="ref121" level="file">
+                    <did>
+                        <unittitle>Textiles &amp; Embroideries, V. Benguiat, #688</unittitle>
+                        <container id="cid7483" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7483" type="folder">3</container>
+                        <unitdate>1919 Apr. 7-12</unitdate>
+                    </did>
+                </c>
+                <c id="ref122" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #689</unittitle>
+                        <container id="cid7484" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7484" type="folder">4</container>
+                        <unitdate>1919 Apr. 15-16</unitdate>
+                    </did>
+                </c>
+                <c id="ref123" level="file">
+                    <did>
+                        <unittitle>Old &amp; Modern Masters, various sellers, #690</unittitle>
+                        <container id="cid7485" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7485" type="folder">5</container>
+                        <unitdate>1919 Apr. 24-25</unitdate>
+                    </did>
+                </c>
+                <c id="ref124" level="file">
+                    <did>
+                        <unittitle>Art Treasures collected by the late Charles Stewart Smith, #691</unittitle>
+                        <container id="cid7486" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7486" type="folder">6</container>
+                        <unitdate>1919 Apr. 25-26</unitdate>
+                    </did>
+                </c>
+                <c id="ref125" level="file">
+                    <did>
+                        <unittitle>Italian Renaissance Furniture, Bronzes, Ceramics, etc., Tolentino Galleries, #692</unittitle>
+                        <container id="cid7487" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7487" type="folder">7</container>
+                        <unitdate>1919 May 1-2</unitdate>
+                    </did>
+                </c>
+                <c id="ref126" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #693-694</unittitle>
+                        <container id="cid7488" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7488" type="folder">8</container>
+                        <unitdate>1919 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref127" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1): Books, #695; Sumptuous "Attic" Library of the late Alfred J. Cox, Master Binder, #696</unittitle>
+                        <container id="cid7489" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7489" type="folder">9</container>
+                        <unitdate>1918 Nov. 18-21; 1918 Dec. 9-10</unitdate>
+                    </did>
+                </c>
+                <c id="ref128" level="file">
+                    <did>
+                        <unittitle>Auction Sales (8), (Book Sales) #697-704</unittitle>
+                        <container id="cid7490" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7490" type="folder">10</container>
+                        <unitdate>1918 Dec. - 1919 Apr.</unitdate>
+                    </did>
+                </c>
+                <c id="ref130" level="file">
+                    <did>
+                        <unittitle>Auction Sales (4), #706-709; Auction Sale: Residence of Arthur B. Emmons</unittitle>
+                        <container id="cid7491" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7491" type="folder">11</container>
+                        <unitdate>1919 Aug.-Nov.; 1919 Aug. 28</unitdate>
+                    </did>
+                    <scopecontent id="ref129">
+                        <head>Scope and Contents note</head>
+                        <p>SEE ALSO: Correspondence and Notes -- Emmons, Arthur B.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref131" level="file">
+                    <did>
+                        <unittitle>Auction Sales (2), #710-711</unittitle>
+                        <container id="cid7492" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7492" type="folder">12</container>
+                        <unitdate>1919 Nov.</unitdate>
+                    </did>
+                </c>
+                <c id="ref133" level="file">
+                    <did>
+                        <unittitle>Furnishings &amp; Embellishments, Residence of Captain J.R. De Lamar, #712</unittitle>
+                        <container id="cid7493" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7493" type="folder">13</container>
+                        <unitdate>1919 Nov. 20-22</unitdate>
+                    </did>
+                    <scopecontent id="ref132">
+                        <head>Scope and Contents note</head>
+                        <p>(Eight photographs of residence interior removed to Oversize box)</p>
+                    </scopecontent>
+                </c>
+                <c id="ref134" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #713; Old &amp; Modern Rugs &amp; Carpets, #714</unittitle>
+                        <container id="cid7494" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7494" type="folder">14</container>
+                        <unitdate>1919 Nov.; 1919 Nov. 25</unitdate>
+                    </did>
+                </c>
+                <c id="ref135" level="file">
+                    <did>
+                        <unittitle>Emil Pares, Spanish &amp; Italian Furniture, Flemish &amp; French Tapestries, etc., #715</unittitle>
+                        <container id="cid7495" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7495" type="folder">15</container>
+                        <unitdate>1919 Dec. 18-23</unitdate>
+                    </did>
+                </c>
+                <c id="ref136" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #716; Oriental Porcelain, Snuff Bottles, Vases, etc., Fred William Hunter, #717</unittitle>
+                        <container id="cid7496" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7496" type="folder">16</container>
+                        <unitdate>1919 Dec.; 1920 Jan. 7-14</unitdate>
+                    </did>
+                </c>
+                <c id="ref138" level="file">
+                    <did>
+                        <unittitle>Old and Modern Paintings, Arthur B. Emmons., Thatcher B. Adams, Joseph F. Flanagan, Henry Sayles, Harris B. Dick, #718</unittitle>
+                        <container id="cid7497" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7497" type="folder">17-18</container>
+                        <unitdate>1920 Jan. 14-15</unitdate>
+                    </did>
+                    <scopecontent id="ref137">
+                        <head>Scope and Contents note</head>
+                        <p>43 photographs, and cuts from the catalogue marked with prices, size, number and seller.</p>
+                        <p>SEE ALSO: Correspondence and Notes - Emmons, Arthur B. for extensive correspondence regarding the sale.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref139" level="file">
+                    <did>
+                        <unittitle>Mrs. Rowland Lincoln and other Private Collections, #719</unittitle>
+                        <container id="cid7498" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7498" type="folder">19</container>
+                        <unitdate>1920 Jan. 22</unitdate>
+                    </did>
+                </c>
+                <c id="ref140" level="file">
+                    <did>
+                        <unittitle>Mrs. Eben Sutton, Early American &amp; English Furniture, Rare Glass, etc., #720</unittitle>
+                        <container id="cid7499" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7499" type="folder">20</container>
+                        <unitdate>1920 Jan. 22-24</unitdate>
+                    </did>
+                </c>
+                <c id="ref141" level="file">
+                    <did>
+                        <unittitle>Furnishings &amp; Embellishments, Mrs. James Brown, Mrs. Stephen Brown, Mrs. Lloyd Bryce, #721</unittitle>
+                        <container id="cid7500" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7500" type="folder">21</container>
+                        <unitdate>1920 Jan. 29-30</unitdate>
+                    </did>
+                </c>
+                <c id="ref143" level="file">
+                    <did>
+                        <unittitle>Paintings collected by Capt. J.R. De Lamar, #722</unittitle>
+                        <container id="cid7501" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7501" type="folder">22</container>
+                        <unitdate>1920 Jan. 29</unitdate>
+                    </did>
+                    <scopecontent id="ref142">
+                        <head>Scope and Contents note</head>
+                        <p>29 photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref144" level="file">
+                    <did>
+                        <unittitle>Household Furniture, Tapestries, Clocks, etc. Thatcher M. Adams Estate, #723</unittitle>
+                        <container id="cid7502" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7502" type="folder">23</container>
+                        <unitdate>1920 Jan. 31</unitdate>
+                    </did>
+                </c>
+                <c id="ref145" level="file">
+                    <did>
+                        <unittitle>Collection of Japanese Color Prints &amp; Paintings, Arthur Davison Ficke, #724</unittitle>
+                        <container id="cid7503" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7503" type="folder">24</container>
+                        <unitdate>1920 Feb. 10-11</unitdate>
+                    </did>
+                </c>
+                <c id="ref146" level="file">
+                    <did>
+                        <unittitle>Kouchakji Fr&#xE8;res, Rare Persian Pottery, etc., #725</unittitle>
+                        <container id="cid7504" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7504" type="folder">25</container>
+                        <unitdate>1920 Feb. 13-14</unitdate>
+                    </did>
+                </c>
+                <c id="ref147" level="file">
+                    <did>
+                        <unittitle>Ernest A. Bischoff Collection, Chinese Porcelain, etc., #726</unittitle>
+                        <container id="cid7505" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7505" type="folder">26</container>
+                        <unitdate>1920 Feb. 24-28</unitdate>
+                    </did>
+                </c>
+                <c id="ref148" level="file">
+                    <did>
+                        <unittitle>Ralph H. White, Modern Paintings, #727</unittitle>
+                        <container id="cid7506" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7506" type="folder">27</container>
+                        <unitdate>1920 Feb. 25-26</unitdate>
+                    </did>
+                </c>
+                <c id="ref149" level="file">
+                    <did>
+                        <unittitle>Paintings, Watercolors, Pastels, Drawings, Etchings, and Studio Effects of the late Hendrik William Mesdag, #728</unittitle>
+                        <container id="cid7507" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7507" type="folder">28</container>
+                        <unitdate>1920 Mar. 8-10</unitdate>
+                    </did>
+                </c>
+                <c id="ref150" level="file">
+                    <did>
+                        <unittitle>Auction Sales (7), #729-735</unittitle>
+                        <container id="cid7508" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7508" type="folder">29</container>
+                        <unitdate>1920 Mar.</unitdate>
+                    </did>
+                </c>
+                <c id="ref151" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #736; The Celebrated E. Eymonaud Collection and Vitall Benguiat Collection of Remarkable Rugs, Tapestries, &amp; Textiles, #737</unittitle>
+                        <container id="cid7509" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7509" type="folder">30</container>
+                        <unitdate>1920 Mar. 29-30; 1920 Apr. 8-10</unitdate>
+                    </did>
+                </c>
+                <c id="ref153" level="file">
+                    <did>
+                        <unittitle>R. Hall McCormick, Portraits &amp; Landscapes by British Masters, #738</unittitle>
+                        <container id="cid7510" type="box" label="Mixed materials">3</container>
+                        <container parent="cid7510" type="folder">31-32</container>
+                        <unitdate>1920 Apr. 10</unitdate>
+                    </did>
+                    <scopecontent id="ref152">
+                        <head>Scope and Contents note</head>
+                        <p>80 photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref155" level="file">
+                    <did>
+                        <unittitle>Early American &amp; British Portraits, Landscapes &amp; Historical Pictures, Frank Bulkeley Smith, #739</unittitle>
+                        <container id="cid7511" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7511" type="folder">1-3</container>
+                        <unitdate>1920 Apr. 22-23</unitdate>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>99 photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref156" level="file">
+                    <did>
+                        <unittitle>Italian Furniture, Tapestries, Bronzes, etc. collected by Raoul Tolentino, #740</unittitle>
+                        <container id="cid7512" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7512" type="folder">4</container>
+                        <unitdate>1920 Apr. 21-27</unitdate>
+                    </did>
+                </c>
+                <c id="ref157" level="file">
+                    <did>
+                        <unittitle>Auction Sales (8), #741-748</unittitle>
+                        <container id="cid7513" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7513" type="folder">5</container>
+                        <unitdate>1919 Oct.-1920 May</unitdate>
+                    </did>
+                </c>
+                <c id="ref158" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #749; Late S.S. Rosenstamm, Masterpieces of Etchings, Notable Prints by Rembrandt &amp; Durer, #750</unittitle>
+                        <container id="cid7514" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7514" type="folder">6</container>
+                        <unitdate>1920 Jan.; 1920 Jan. 27</unitdate>
+                    </did>
+                </c>
+                <c id="ref159" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #751; William Lanier Washington Relics &amp; Memorabilia of George Washington, #752</unittitle>
+                        <container id="cid7515" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7515" type="folder">7</container>
+                        <unitdate>1920 Feb. ; 1920 Feb. 7-9</unitdate>
+                    </did>
+                </c>
+                <c id="ref160" level="file">
+                    <did>
+                        <unittitle>Auction Sales (6), #753-758</unittitle>
+                        <container id="cid7516" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7516" type="folder">8</container>
+                        <unitdate>1920 Feb.-Mar.</unitdate>
+                    </did>
+                </c>
+                <c id="ref161" level="file">
+                    <did>
+                        <unittitle>Auction Sales (9), #759-777</unittitle>
+                        <container id="cid7517" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7517" type="folder">9</container>
+                        <unitdate>1920 Mar.- May</unitdate>
+                    </did>
+                </c>
+                <c id="ref163" level="file">
+                    <did>
+                        <unittitle>Charles of London, Italian, French &amp; English Furniture, Tapestries, Rugs, Paintings, Porcelains, etc., #779</unittitle>
+                        <container id="cid7518" type="box" label="Mixed materials">4</container>
+                        <container parent="cid7518" type="folder">10-13</container>
+                        <unitdate>1920 Nov. 15-20</unitdate>
+                    </did>
+                    <scopecontent id="ref162">
+                        <head>Scope and Contents note</head>
+                        <p>182 photographs.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref164" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #778; Antique French &amp; Italian Furniture, Tapestries, Clocks, Laces &amp; Velvets, Madame Lefortier, #780</unittitle>
+                        <container id="cid7519" type="box" label="Mixed materials">5</container>
+                        <container parent="cid7519" type="folder">1</container>
+                        <unitdate>1920 Nov. ; 1920 Dec. 2-4</unitdate>
+                    </did>
+                </c>
+                <c id="ref165" level="file">
+                    <did>
+                        <unittitle>Auction Sale (1), #781; Beautiful English Lustre, Robert Gilchrist, #782</unittitle>
+                        <container id="cid7520" type="box" label="Mixed materials">5</container>
+                        <container parent="cid7520" type="folder">2</container>
+                        <unitdate>1920 Dec.; 1920 Dec. 6-7</unitdate>
+                    </did>
+                </c>
+                <c id="ref166" level="file">
+                    <did>
+                        <unittitle>Auction Sales (3), #782 (duplicate number), #784</unittitle>
+                        <container id="cid7521" type="box" label="Mixed materials">5</container>
+                        <container parent="cid7521" type="folder">3</container>
+                        <unitdate>1920 Dec.</unitdate>
+                    </did>
+                </c>
+                <c id="ref168" level="subseries">
+                    <did>
+                        <unittitle>Palatial Mansion &amp; Contents Collected by William J. Saloman, #950</unittitle>
+                        <unitdate>1923 Apr. 4-7</unitdate>
+                    </did>
+                    <c id="ref169" level="file">
+                        <did>
+                            <unittitle>Correspondence, sale summaries and notes</unittitle>
+                            <container id="cid7523" type="box" label="Mixed materials">5</container>
+                            <container parent="cid7523" type="folder">4</container>
+                            <unitdate normal="1912/1933" type="inclusive">1912-1933</unitdate>
+                        </did>
+                        <scopecontent id="ref170">
+                            <head>Scope and Contents note</head>
+                            <p>File folder cover; "Notes for Sir Joseph;" letters from Edwin S. Stuart, Jacques Seligmann and others; copies of letters from Joseph Duveen regarding the provenance of the works, his advice on the quality of the photographs, and suggestions that the paintings need to be cleaned (1912-1923); summaries listing some buyers, descriptions of the items in the sale, and prices; a note to Miss Lorenz; and, "A Short Summary of Some of the Outstanding Features Forming the Art Collection of Mr. William Saloman, Deceased" (five pages).</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref171" level="file">
+                        <did>
+                            <unittitle>Inventories and Appraisals</unittitle>
+                            <container id="cid7524" type="box" label="Mixed materials">5</container>
+                            <container parent="cid7524" type="folder">5</container>
+                            <unitdate normal="1922/1933" type="inclusive">1922-1933</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref173" level="file">
+                        <did>
+                            <unittitle>Newspaper clippings</unittitle>
+                            <container id="cid7525" type="box" label="Mixed materials">5</container>
+                            <container parent="cid7525" type="folder">6</container>
+                            <unitdate normal="1923/1923">1923</unitdate>
+                        </did>
+                        <scopecontent id="ref172">
+                            <head>Scope and Contents note</head>
+                            <p>(One clipping removed to Oversize box)</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref174" level="file">
+                        <did>
+                            <unittitle>Saloman Sales Catalogue tear sheets</unittitle>
+                            <container id="cid7526" type="box" label="Mixed materials">5</container>
+                            <container parent="cid7526" type="folder">7-8</container>
+                            <unitdate normal="1923/1923">1923</unitdate>
+                        </did>
+                    </c>
+                    <c id="ref176" level="file">
+                        <did>
+                            <unittitle>Sales Catalogue tear sheets</unittitle>
+                            <container id="cid7527" type="box" label="Mixed materials">5</container>
+                            <container parent="cid7527" type="folder">9</container>
+                        </did>
+                        <scopecontent id="ref175">
+                            <head>Scope and Contents note</head>
+                            <p>Marked-up tear sheets of items sold by Duveen Brothers and other dealers to Mr. Saloman.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref178" level="file">
+                        <did>
+                            <unittitle>Photographs - Furniture, Rugs, Tapestries</unittitle>
+                            <container id="cid7528" type="box" label="Mixed materials">5</container>
+                            <container parent="cid7528" type="folder">10-11</container>
+                        </did>
+                        <scopecontent id="ref177">
+                            <head>Scope and Contents note</head>
+                            <p>91 photographs.</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref180" level="file">
+                        <did>
+                            <unittitle>Photographs - Paintings</unittitle>
+                            <container id="cid7529" type="box" label="Mixed materials">6</container>
+                            <container parent="cid7529" type="folder">1</container>
+                        </did>
+                        <scopecontent id="ref179">
+                            <head>Scope and Contents note</head>
+                            <p>32 photographs</p>
+                        </scopecontent>
+                    </c>
+                    <c id="ref182" level="file">
+                        <did>
+                            <unittitle>Photographs - Sculpture &amp; Decorative Objects</unittitle>
+                            <container id="cid7530" type="box" label="Mixed materials">6</container>
+                            <container parent="cid7530" type="folder">2-4</container>
+                        </did>
+                        <scopecontent id="ref181">
+                            <head>Scope and Contents note</head>
+                            <p>117 photographs.</p>
+                        </scopecontent>
+                    </c>
+                </c>
+            </c>
+            <c id="ref15" level="series">
+                <did>
+                    <unittitle>Series II: Correspondence and Notes, 1877-1924</unittitle>
+                </did>
+                <arrangement id="ref16">
+                    <head>Arrangement</head>
+                    <p>Arranged alphabetically by subject or correspondent.</p>
+                </arrangement>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>Contains Thomas Kirby's correspondence regarding American Art Association auction sales, copies of letters pertaining to provenance, and miscellaneous notes and essays. Correspondents include Arthur B. Emmons, Francis Davis Millet, and William Fuller. Emmons correspondence concerns three American Art Association sales in which works he owned were sold. Also includes 16 letters sent to Charles de Kay from correspondents other than Thomas Kirby. Of note is an essay on the American Art Association's relationship with George Inness, and letters concerning the controversy over the sale of<emph render="italic">Blue Boy</emph>.</p>
+                </scopecontent>
+                <c id="ref23" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Blue Boy</emph>, William H. Fuller Sale (February 25, 1898)</unittitle>
+                        <container id="cid7411" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7411" type="folder">5</container>
+                        <unitdate>[189?]</unitdate>
+                    </did>
+                    <scopecontent id="ref22">
+                        <head>Scope and Contents note</head>
+                        <p>Two letters from William Fuller, and one from Francis Davis Millet related to the sale of the painting<emph render="italic">Blue Boy</emph>.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>"A Business Change" Notice</unittitle>
+                        <container id="cid7412" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7412" type="folder">6</container>
+                        <unitdate>1883 Feb. 17</unitdate>
+                    </did>
+                    <scopecontent id="ref24">
+                        <head>Scope and Contents note</head>
+                        <p>Notice re Thomas Kirby's sale of Thomas E. Kirby &amp; Co. and his new association with James F. Sutton and R. Austin Robertson of The American Art Galleries and Art Association.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Correspondence, miscellaneous</unittitle>
+                        <container id="cid7413" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7413" type="folder">7</container>
+                        <unitdate normal="1877/1898" type="inclusive">1877-1898</unitdate>
+                    </did>
+                    <scopecontent id="ref26">
+                        <head>Scope and Contents note</head>
+                        <p>Three letters and one telegram. H. Harper (sp?) with regrets that Kirby is leaving Leavitt &amp; Co. and response to request to use him as a reference; J.C. Hoagland regarding increasing value of Barbizon pictures; and letter from Kirby to Mr. [Aitken] with list of paintings to be omitted from his sale.</p>
+                        <p/>
+                    </scopecontent>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>De Kay, Charles</unittitle>
+                        <container id="cid7414" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7414" type="folder">8</container>
+                        <unitdate normal="1924/1924">1924</unitdate>
+                    </did>
+                    <scopecontent id="ref28">
+                        <head>Scope and Contents note</head>
+                        <p>Letters to Charles de Kay. Correspondents include Frank P. Crasto, Jr., P. Whitwell Wilson, Arthur Swann of the American Art Association, John S. Wood, Henry Rood, Eugenio Pirani, R.W. van Boskerck, and John De Kay regarding the U.S. preventing his entry into the country and complaints about Washington. Also a few letters criticizing book reviews he has written.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Emmons, Arthur B.</unittitle>
+                        <container id="cid7415" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7415" type="folder">9-10</container>
+                        <unitdate normal="1919/1922" type="inclusive">1919-1922</unitdate>
+                    </did>
+                    <scopecontent id="ref30">
+                        <head>Scope and Contents note</head>
+                        <p>Correspondence between Emmons and Kirby regarding public sale at Emmons' residence at 60 Park Avenue on August 28, 1919; sale of etchings on December 4-5, 1919; sale of Emmons' Renoirs and Monets, January 14-15, 1920; and his subsequent repurchase of one of Monet's "poppy pictures" from Durand-Ruel.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Inness, George - Essay</unittitle>
+                        <container id="cid7416" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7416" type="folder">11</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref32">
+                        <head>Scope and Contents note</head>
+                        <p>Handwritten essay by Thomas Kirby about the American Art Association's relationship with George Inness.</p>
+                        <p/>
+                    </scopecontent>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Notes, miscellaneous</unittitle>
+                        <container id="cid7417" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7417" type="folder">12-13</container>
+                        <unitdate>1898, undated</unitdate>
+                    </did>
+                    <scopecontent id="ref34">
+                        <head>Scope and Contents note</head>
+                        <p>Descriptions of auction sales, private collections, and miscellaneous notes.</p>
+                        <p/>
+                    </scopecontent>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Whistler Pictures, Correspondence as to the Sale of</unittitle>
+                        <container id="cid7418" type="box" label="Mixed materials">6</container>
+                        <container parent="cid7418" type="folder">14</container>
+                        <unitdate normal="1920/1920">1920</unitdate>
+                    </did>
+                    <scopecontent id="ref36">
+                        <head>Scope and Contents note</head>
+                        <p>Carbon copies of correspondence between Sir George Lewis and Joseph Pennell regarding the disposition of Whistler engravings and prints belonging to the estate of William Heinemann.</p>
+                        <p/>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref18" level="series">
+                <did>
+                    <unittitle>Series III: Clippings, 1881-1924</unittitle>
+                </did>
+                <arrangement id="ref19">
+                    <head>Arrangement</head>
+                    <p>Arranged alphabetically by subject.</p>
+                </arrangement>
+                <scopecontent id="ref20">
+                    <head>Scope and Contents note</head>
+                    <p>The bulk of the newspaper articles concern auction sales of the American Art Association, the 1922 opening of the new galleries on 57th Street, and the sale of Rosa Bonheur's<emph render="italic">Horse Fair</emph>in 1887. Also contains articles on the history of the American Art Association, Thomas Kirby, Gustavus Kirby, Rose Lorenz, auction sales of other galleries, private collections and an obituary of Charles Freer. Newspaper clippings were photocopied onto acid free paper.</p>
+                </scopecontent>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>American Art Association - Auction Sales</unittitle>
+                        <container id="cid7419" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7419" type="folder">1-2</container>
+                        <unitdate>1885-1895; 1921-1923</unitdate>
+                    </did>
+                    <scopecontent id="ref38">
+                        <head>Scope and Contents note</head>
+                        <p>Folder 1 contains photocopies of the newspaper clippings; Folder 2 contains the originals (some originals removed to oversize).</p>
+                    </scopecontent>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>American Art Association - History</unittitle>
+                        <container id="cid7420" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7420" type="folder">3</container>
+                        <unitdate>1896, 1922</unitdate>
+                        <abstract id="ref42" label="Abstract">hi</abstract>
+                    </did>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>American Art Association - New Galleries, 30 East 57th Street</unittitle>
+                        <container id="cid7421" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7421" type="folder">4-6</container>
+                        <unitdate normal="1922/1922">1922</unitdate>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Re opening and Fifth Avenue Association Prize.</p>
+                        <p>[3 folders, 2 of originals]</p>
+                    </scopecontent>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>Bonheur, Rosa</unittitle>
+                        <container id="cid7422" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7422" type="folder">7</container>
+                        <unitdate normal="1887/1887">1887</unitdate>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>Regarding purchase of<emph render="italic">Horse Fair</emph>at A.T. Stewart sale of March 23, 1887-March 31, 1887 by Cornelius Vanderbilt and his subsequent donation of the painting to the Metropolitan Museum of Art.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Freer, Charles L.</unittitle>
+                        <container id="cid7423" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7423" type="folder">8</container>
+                        <unitdate normal="1919/1919">1919</unitdate>
+                    </did>
+                    <scopecontent id="ref48">
+                        <head>Scope and Contents note</head>
+                        <p>Obituary</p>
+                    </scopecontent>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>Kirby, Gustavus</unittitle>
+                        <container id="cid7424" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7424" type="folder">9</container>
+                        <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>Kirby, Thomas</unittitle>
+                        <container id="cid7425" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7425" type="folder">10</container>
+                        <unitdate>1896-1922, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>Lorenz, Rose</unittitle>
+                        <container id="cid7426" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7426" type="folder">11</container>
+                        <unitdate>1916, 1923</unitdate>
+                    </did>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                        <container id="cid7427" type="box" label="Mixed materials">7</container>
+                        <container parent="cid7427" type="folder">12-13</container>
+                        <unitdate normal="1881/1924" type="inclusive">1881-1924</unitdate>
+                    </did>
+                    <scopecontent id="ref53">
+                        <head>Scope and Contents note</head>
+                        <p>Articles about auction sales, private collections, and works of art.</p>
+                    </scopecontent>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

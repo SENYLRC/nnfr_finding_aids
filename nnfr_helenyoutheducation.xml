@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="In_process" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnfr" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnfr/HelenYouthEducation.xml">nnfr_helenyoutheducation</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for the Helen Clay Frick Papers, Series I: Youth and Education, 1889-1924<num>HCFF.2.1</num>
+                </titleproper>
+                <subtitle>Part of the Frick Family Papers, on deposit from the Helen Clay Frick Foundation</subtitle>
+                <author>Finding aid prepared by Julie A. Ludwig</author>
+                <sponsor>Arranged and described with funding from the Helen Clay Frick Foundation.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Frick Collection/Frick Art Reference Library Archives</publisher>
+                <address>
+                    <addressline>10 East 71st Street</addressline>
+                    <addressline>New York, NY, 10021</addressline>
+                    <addressline>archives@frick.org</addressline>
+                </address>
+                <date>&#xA9; 2012 The Frick Collection. All rights reserved.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-16T14:18-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Helen Clay Frick Papers, Series I: Youth and Education</unittitle>
+            <unitid>HCFF.2.1</unitid>
+            <repository>
+                <corpname>The Frick Collection/Frick Art Reference Library Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.5 Linear feet</extent>
+                <extent>(7 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1889/1924" type="inclusive">1889-1924</unitdate>
+            <abstract id="ref68" label="Abstract">Helen Clay Frick (1888-1984) was the daughter of industrialist and art collector Henry Clay Frick. She was also a philanthropist and founder of the Frick Art Reference Library in New York. These papers consist of notebooks, scrapbooks, and other memorabilia dating from her youth and education in Pittsburgh and New York.</abstract>
+            <origination label="creator">
+                <persname source="Library_of_Congress_Name_Authority_File">Frick, Helen Clay, 1888-1984.</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref6">
+            <head>Scope and Contents note</head>
+            <p>This series, the bulk of which dates from 1897 to 1908, consists of compositions, grade books, notebooks, scrapbooks, printed material, and ephemera, including paper dolls and a Parisian board game. These materials document the type and quality of Helen Clay Frick's academic training, her youthful interests and recreational pursuits, and to a lesser extent, give some insight into her religious and physical education. They detail Helen Clay Frick's studies in foreign languages, music, mathematics, history, literature, ethics, and other subjects, and give a sense of her relationship with her parents and her Swiss governess, Marika Ogiz.</p>
+            <p>The bulk of the series consists of notebooks on school-related topics, and date from Helen Clay Frick's studies in both Pittsburgh and New York. Early notebooks often contain corrections and comments by Mlle. Ogiz. In addition to these evaluations, Ogiz also compiled grade books, which provide a weekly overview of Helen Clay Frick's performance, conduct, and attendance. The grade books contain lists of topics studied, indicate the employment of additional tutors (e.g. Harriet T. Duff and piano teacher Mr. McGinnis), and note non-instructional days due to holidays, travel, or illness. These books were regularly shared with Helen Clay Frick's parents, as indicated by frequent comments from her father, and occasional contributions by her mother. Later grade reports issued by the Spence School are collected into a bound volume bearing an inscription from Henry Clay Frick to his daughter. In addition to the notebooks and grade books, this series also contains a scrapbook dating from Helen Clay Frick's time at the Spence School. This scrapbook commemorates her graduation, with details about her class, a class portrait, signatures of her teachers, programs, a class "prophecy," and calling cards and invitations from friends. One loose program and one within the scrapbook document school productions for the benefit of charity.</p>
+            <p>Helen Clay Frick's 1908 graduation from Spence marked the end of her formal education, and she made her debut in society later that same year in Pittsburgh. Documents and memorabilia from that event include a dance card, guest lists, and a scrapbook with images, clippings, and notes. The scrapbook also contains a few scattered items from the year following Miss Frick's debut, notably clippings about the Iron Rail Vacation Home, her first philanthropic endeavor, located in Wenham, Mass., and notices regarding the engagement and wedding of her childhood friend, Virginia Frew, to Thruston Wright.</p>
+            <p/>
+        </scopecontent>
+        <bioghist id="ref5">
+            <head>Biographical Note</head>
+            <p>Helen Clay Frick (1888-1984) was the daughter of industrialist and art collector Henry Clay Frick and Adelaide H.C. Frick. Born in Pittsburgh, Pa., her early education took place at Clayton, the Frick family home in that city. Under the tutelage of Swiss governess Marika Ogiz, Helen Clay Frick studied foreign languages, music, history, mythology, science, mathematics, and other subjects. Mlle. Ogiz became a close friend of the family, and often traveled with them both domestically and abroad. After her return to Switzerland, the Fricks continued to provide financial support to her and her family, and often visited her while they were abroad. In 1905, Henry Clay Frick relocated his family to the Vanderbilt mansion at 640 Fifth Avenue in New York. Helen Clay Frick enrolled at Miss Spence's School for Girls, graduating in 1908. She made her debut into Pittsburgh society that same year.</p>
+            <p>As an adult, Helen Clay Frick focused her efforts on philanthropy and the study of art history. In 1909, she founded the Iron Rail Vacation Home in Wenham, Mass., as a retreat for young girls who worked in the textile mills around Boston. She founded the Frick Art Reference Library in New York in 1920, and served as a trustee of The Frick Collection until her resignation in 1961. Helen Clay Frick was instrumental in the establishment of the art history department at the University of Pittsburgh, and in the 1960s, she provided funds to construct the Frick Fine Arts Building in honor of her father. Subsequent disagreements with the University, however, compelled her to withdraw her support, and in 1970, she built the Frick Art Museum on the grounds at Clayton to house her personal art collection. For many years, she divided her time between her family home in Pittsburgh, her farm in Bedford, N.Y., and the family's summer home in Prides Crossing, Mass. Helen Clay Frick died at Clayton in 1984.</p>
+        </bioghist>
+        <prefercite id="ref67">
+            <head>Preferred Citation</head>
+            <p>Helen Clay Frick Papers, Series I: Youth and Education. The Frick Collection/Frick Art Reference Library Archives.</p>
+        </prefercite>
+        <arrangement id="ref1">
+            <head>Arrangement</head>
+            <p>Arranged alphabetically by genre and/or subject.</p>
+        </arrangement>
+        <processinfo id="ref65">
+            <head>Processing Information</head>
+            <p>Arranged and described by Julie Ludwig, 2012.</p>
+        </processinfo>
+        <acqinfo id="ref66">
+            <head>Provenance</head>
+            <p>On deposit from the Helen Clay Frick Foundation, 2001.</p>
+        </acqinfo>
+        <accessrestrict id="ref71">
+            <head>Access Restrictions</head>
+            <p>These records are open for research under the conditions of The Frick Collection/Frick Art Reference Library Archives access policy. Contact the Archives Department for further information at archives@frick.org.</p>
+        </accessrestrict>
+        <controlaccess>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Adelaide Howard Childs, 1859-1931.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Helen Clay, 1888-1948--Childhood and youth.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Helen Clay, 1888-1984.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Henry Clay, 1849-1919.</persname>
+            <persname rules="dacs" source="local">Ogiz, Marika, d. 1952.</persname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Spence School.</corpname>
+            <subject source="lcsh">Debutantes--Pennsylvania--Pittsburgh.</subject>
+            <subject source="lcsh">Governesses.</subject>
+            <genreform source="aat">Notebooks.</genreform>
+            <genreform source="aat">Scrapbooks.</genreform>
+        </controlaccess>
+        <dsc>
+            <c id="ref23" level="file">
+                <did>
+                    <unittitle>Board game - "Jumeau's Dolls"</unittitle>
+                    <container id="cid16747" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16747" type="folder">1</container>
+                    <unitdate normal="1889/1889">1889</unitdate>
+                </did>
+            </c>
+            <c id="ref44" level="file">
+                <did>
+                    <unittitle>Books</unittitle>
+                    <container id="cid1839001" type="box" label="Mixed materials">1</container>
+                    <container parent="cid1839001" type="folder">2</container>
+                    <unitdate normal="1890/1903" type="inclusive">1890-1903</unitdate>
+                </did>
+                <scopecontent id="ref45">
+                    <head>Scope and Content Note</head>
+                    <p>
+                        <emph render="italic">Gold Dust: A Collection of Golden Counsels for the Sanctification of Daily Life</emph>, translated and abridged from the French by E.L.E.B., 1894. Inscribed to Helen Clay Frick from Marika Ogiz, 1903</p>
+                    <p>Hymnal, 1892. "Helen C. Frick" stamped in gold on the cover.</p>
+                    <p>
+                        <emph render="italic">Le Nouveau Testament</emph>, 1901.</p>
+                    <p>
+                        <emph render="italic">Sunshine and Starlight</emph>, by Mary H. Seymour, 1890. Inscribed to Helen Clay Frick from Mrs. Whitney, 1897.</p>
+                </scopecontent>
+            </c>
+            <c id="ref3" level="file">
+                <did>
+                    <unittitle>Compositions</unittitle>
+                    <container id="cid16731" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16731" type="folder">3-5</container>
+                    <unitdate>1896-1905, undated</unitdate>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Scope and Content Note</head>
+                    <p>Includes a description by Helen Clay Frick of her bedroom at Clayton, and of an apartment at Sherry's in New York.</p>
+                </scopecontent>
+            </c>
+            <c id="ref4" level="file">
+                <did>
+                    <unittitle>Curriculum</unittitle>
+                    <container id="cid16732" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16732" type="folder">6</container>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+            </c>
+            <c id="ref41" level="file">
+                <did>
+                    <unittitle>Debut - Dance card</unittitle>
+                    <container id="cid16758" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16758" type="folder">7</container>
+                    <unitdate normal="1908/1908">1908</unitdate>
+                </did>
+            </c>
+            <c id="ref7" level="file">
+                <did>
+                    <unittitle>Debut - Guest lists</unittitle>
+                    <container id="cid16733" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16733" type="folder">8</container>
+                    <unitdate normal="1908/1908">1908</unitdate>
+                </did>
+            </c>
+            <c id="ref8" level="file">
+                <did>
+                    <unittitle>Debut - Scrapbook</unittitle>
+                    <container id="cid16734" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16734" type="folder">9</container>
+                    <unitdate normal="1908/1908">1908</unitdate>
+                </did>
+            </c>
+            <c id="ref49" level="file">
+                <did>
+                    <unittitle>French texts</unittitle>
+                    <container id="cid1839002" type="box" label="Mixed materials">1</container>
+                    <container parent="cid1839002" type="folder">10</container>
+                    <unitdate>1898, undated</unitdate>
+                </did>
+            </c>
+            <c id="ref9" level="file">
+                <did>
+                    <unittitle>Grade books</unittitle>
+                    <container id="cid16735" type="box" label="Mixed materials">1</container>
+                    <container parent="cid16735" type="folder">11-13</container>
+                    <unitdate normal="1897/1901" type="inclusive">1897-1901</unitdate>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Contents note</head>
+                    <p>Contains grade books recorded by governess Marika Ogiz, as well as a bound volume of grade reports from the Spence School. Grades are frequently commented upon by Helen Clay Frick's father and mother.</p>
+                </scopecontent>
+            </c>
+            <c id="ref50" level="file">
+                <did>
+                    <unittitle>Grade books, continued</unittitle>
+                    <container id="cid1839003" type="box" label="Mixed materials">2</container>
+                    <container parent="cid1839003" type="folder">1-3</container>
+                    <unitdate normal="1901/1911" type="inclusive">1901-1911</unitdate>
+                </did>
+            </c>
+            <c id="ref53" level="file">
+                <did>
+                    <unittitle>Notebooks - American government/Modern history</unittitle>
+                    <container id="cid1839004" type="box" label="Mixed materials">2</container>
+                    <container parent="cid1839004" type="folder">4</container>
+                    <unitdate>circa 1905?</unitdate>
+                </did>
+            </c>
+            <c id="ref10" level="file">
+                <did>
+                    <unittitle>Notebooks - Dictation</unittitle>
+                    <container id="cid16736" type="box" label="Mixed materials">2</container>
+                    <container parent="cid16736" type="folder">5</container>
+                    <unitdate normal="1897/1898" type="inclusive">1897-1898</unitdate>
+                </did>
+            </c>
+            <c id="ref28" level="file">
+                <did>
+                    <unittitle>Notebooks - Dictation?</unittitle>
+                    <container id="cid16748" type="box" label="Mixed materials">2</container>
+                    <container parent="cid16748" type="folder">6</container>
+                    <unitdate>1901, circa 1900</unitdate>
+                </did>
+            </c>
+            <c id="ref11" level="file">
+                <did>
+                    <unittitle>Notebooks - Elocution</unittitle>
+                    <container id="cid16737" type="box" label="Mixed materials">2</container>
+                    <container parent="cid16737" type="folder">7</container>
+                    <unitdate normal="1905/1908" type="inclusive">1905-1908</unitdate>
+                </did>
+            </c>
+            <c id="ref12" level="file">
+                <did>
+                    <unittitle>Notebooks - English literature</unittitle>
+                    <container id="cid16738" type="box" label="Mixed materials">2</container>
+                    <container parent="cid16738" type="folder">8-9</container>
+                    <unitdate>circa 1905</unitdate>
+                </did>
+            </c>
+            <c id="ref13" level="file">
+                <did>
+                    <unittitle>Notebooks - Ethics</unittitle>
+                    <container id="cid16739" type="box" label="Mixed materials">2</container>
+                    <container parent="cid16739" type="folder">10</container>
+                    <unitdate>circa 1905</unitdate>
+                </did>
+            </c>
+            <c id="ref14" level="file">
+                <did>
+                    <unittitle>Notebooks - French dictation?</unittitle>
+                    <container id="cid16740" type="box" label="Mixed materials">2</container>
+                    <container parent="cid16740" type="folder">11-12</container>
+                    <unitdate normal="1898/1905" type="inclusive">1898-1905</unitdate>
+                </did>
+            </c>
+            <c id="ref37" level="file">
+                <did>
+                    <unittitle>Notebooks - French dictation</unittitle>
+                    <container id="cid16749" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16749" type="folder">1</container>
+                    <unitdate normal="1904/1905" type="inclusive">1904-1905</unitdate>
+                </did>
+            </c>
+            <c id="ref36" level="file">
+                <did>
+                    <unittitle>Notebooks - French grammar</unittitle>
+                    <container id="cid16750" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16750" type="folder">2-3</container>
+                    <unitdate normal="1900/1905" type="inclusive">1900-1905</unitdate>
+                </did>
+            </c>
+            <c id="ref16" level="file">
+                <did>
+                    <unittitle>Notebooks - French literature</unittitle>
+                    <container id="cid16742" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16742" type="folder">4</container>
+                    <unitdate>circa 1905</unitdate>
+                </did>
+            </c>
+            <c id="ref30" level="file">
+                <did>
+                    <unittitle>Notebooks - Geography</unittitle>
+                    <container id="cid16751" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16751" type="folder">5</container>
+                    <unitdate>circa 1900</unitdate>
+                </did>
+            </c>
+            <c id="ref38" level="file">
+                <did>
+                    <unittitle>Notebooks - History</unittitle>
+                    <container id="cid16752" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16752" type="folder">6-8</container>
+                    <unitdate>1901-1905, circa 1905</unitdate>
+                </did>
+            </c>
+            <c id="ref40" level="file">
+                <did>
+                    <unittitle>Notebooks - History of architecture</unittitle>
+                    <container id="cid16757" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16757" type="folder">9</container>
+                    <unitdate>circa 1905-1908</unitdate>
+                </did>
+            </c>
+            <c id="ref55" level="file">
+                <did>
+                    <unittitle>Notebooks - Literature</unittitle>
+                    <container id="cid1839006" type="box" label="Mixed materials">3</container>
+                    <container parent="cid1839006" type="folder">10</container>
+                    <unitdate>circa 1905-1908</unitdate>
+                </did>
+            </c>
+            <c id="ref56" level="file">
+                <did>
+                    <unittitle>Notebooks - Modern history</unittitle>
+                    <container id="cid1839007" type="box" label="Mixed materials">3</container>
+                    <container parent="cid1839007" type="folder">11</container>
+                    <unitdate>circa 1905-1908</unitdate>
+                </did>
+            </c>
+            <c id="ref17" level="file">
+                <did>
+                    <unittitle>Notebooks - Penmanship</unittitle>
+                    <container id="cid16743" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16743" type="folder">12</container>
+                    <unitdate>circa 1890s</unitdate>
+                </did>
+            </c>
+            <c id="ref29" level="file">
+                <did>
+                    <unittitle>Notebooks - Physiology and Zoology</unittitle>
+                    <container id="cid16753" type="box" label="Mixed materials">3</container>
+                    <container parent="cid16753" type="folder">13</container>
+                    <unitdate normal="1902/1902">1902</unitdate>
+                </did>
+            </c>
+            <c id="ref57" level="file">
+                <did>
+                    <unittitle>Notebooks - Poetry</unittitle>
+                    <container id="cid1839008" type="box" label="Mixed materials">4</container>
+                    <container parent="cid1839008" type="folder">1</container>
+                    <unitdate>circa 1900</unitdate>
+                </did>
+            </c>
+            <c id="ref58" level="file">
+                <did>
+                    <unittitle>Notebooks - United States history</unittitle>
+                    <container id="cid1839009" type="box" label="Mixed materials">4</container>
+                    <container parent="cid1839009" type="folder">2</container>
+                    <unitdate>circa 1905, 1924</unitdate>
+                </did>
+                <scopecontent id="ref59">
+                    <head>Scope and Content Note</head>
+                    <p>With 1924 clipping from the<emph render="italic">New York Times</emph>magazine.</p>
+                </scopecontent>
+            </c>
+            <c id="ref34" level="file">
+                <did>
+                    <unittitle>Notebooks - Vegetables eaten by Helen Clay Frick</unittitle>
+                    <container id="cid16754" type="box" label="Mixed materials">4</container>
+                    <container parent="cid16754" type="folder">3</container>
+                    <unitdate normal="1899/1900" type="inclusive">1899-1900</unitdate>
+                </did>
+                <scopecontent id="ref33">
+                    <head>Scope and Contents note</head>
+                    <p>Daily diary of vegetables eaten by Helen Clay Frick. In French.</p>
+                </scopecontent>
+            </c>
+            <c id="ref18" level="file">
+                <did>
+                    <unittitle>Notebooks - Vocabulary</unittitle>
+                    <container id="cid16744" type="box" label="Mixed materials">4</container>
+                    <container parent="cid16744" type="folder">4</container>
+                    <unitdate>circa 1900</unitdate>
+                </did>
+            </c>
+            <c id="ref51" level="file">
+                <did>
+                    <unittitle>Notebooks - Blank</unittitle>
+                    <container id="cid1839010" type="box" label="Mixed materials">4</container>
+                    <container parent="cid1839010" type="folder">5</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref52">
+                    <head>Scope and Content Note</head>
+                    <p>With needlepoint cover.</p>
+                </scopecontent>
+            </c>
+            <c id="ref20" level="file">
+                <did>
+                    <unittitle>Paper dolls</unittitle>
+                    <container id="cid16745" type="box" label="Mixed materials">4</container>
+                    <container parent="cid16745" type="folder">6</container>
+                    <unitdate>circa 1890s</unitdate>
+                </did>
+            </c>
+            <c id="ref42" level="file">
+                <did>
+                    <unittitle>Record of expenditures</unittitle>
+                    <container id="cid16759" type="box" label="Mixed materials">4</container>
+                    <container parent="cid16759" type="folder">7</container>
+                    <unitdate normal="1903/1905" type="inclusive">1903-1905</unitdate>
+                </did>
+                <scopecontent id="ref69">
+                    <head>Scope and Content Note</head>
+                    <p>Volume recording some of Helen Clay Frick's personal expenditures, including clothing and household items, gifts, and charitable donations. Only a small portion of the book has been used.</p>
+                </scopecontent>
+            </c>
+            <c id="ref63" level="file">
+                <did>
+                    <unittitle>Scrapbook of historical figures and prominent people</unittitle>
+                    <container id="cid1839012" type="box" label="Mixed materials">4</container>
+                    <container parent="cid1839012" type="folder">8</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <scopecontent id="ref64">
+                    <head>Scope and Content Note</head>
+                    <p>Contains images of literary and political figures, European royalty, etc. Some images are unidentified.</p>
+                </scopecontent>
+            </c>
+            <c id="ref27" level="file">
+                <did>
+                    <unittitle>Scripture Union almanacs</unittitle>
+                    <container id="cid16755" type="box" label="Mixed materials">4</container>
+                    <container parent="cid16755" type="folder">9</container>
+                    <unitdate normal="1903/1904" type="inclusive">1903-1904</unitdate>
+                </did>
+            </c>
+            <c id="ref35" level="file">
+                <did>
+                    <unittitle>Souvenir books from Rome and Paris</unittitle>
+                    <container id="cid16756" type="box" label="Mixed materials">4</container>
+                    <container parent="cid16756" type="folder">10</container>
+                    <unitdate>1901, circa 1900</unitdate>
+                </did>
+                <scopecontent id="ref70">
+                    <head>Scope and Content Note</head>
+                    <p>Includes catalog and price list for French coins and medals, and views of Rome in an accordion-style binding.</p>
+                </scopecontent>
+            </c>
+            <c id="ref60" level="file">
+                <did>
+                    <unittitle>Spence School - Program</unittitle>
+                    <container id="cid1839011" type="box" label="Mixed materials">4</container>
+                    <container parent="cid1839011" type="drawer">11</container>
+                    <unitdate normal="1906/1906">1906</unitdate>
+                </did>
+                <scopecontent id="ref61">
+                    <head>Scope and Content Note</head>
+                    <p>Program for a production of Two Modern Comedies for the benefit of The Country Home for Convalescent Babies at Sea Cliff, Long Island.</p>
+                    <p>For a photograph possibly taken during this production, see: Photographs - People - Frick, Helen Clay (Oversize D) or HCFF003286.</p>
+                </scopecontent>
+            </c>
+            <c id="ref21" level="file">
+                <did>
+                    <unittitle>Spence School - Scrapbook</unittitle>
+                    <container id="cid16746" type="box" label="Mixed materials">4</container>
+                    <container parent="cid16746" type="folder">12</container>
+                    <unitdate normal="1908/1908">1908</unitdate>
+                </did>
+                <scopecontent id="ref62">
+                    <head>Scope and Content Note</head>
+                    <p>Contains mementos and information about the class of 1908 at Miss Spence's school, along with a class portrait, signatures of teachers, calling cards, invitations, programs, etc.</p>
+                    <p>For other copies of Helen Clay Frick's portrait with her classmates, see: Photographs - People - Frick Helen Clay, or HCFF003287.</p>
+                </scopecontent>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,2099 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader findaidstatus="Under_revision" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid mainagencycode="US-nnfr" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnfr/OneEast70thStreetPapers.xml">nnfr_oneeast70thstreetpapers</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for the One East 70th Street Papers, 1907-1931<num>HCFF.7</num>
+                </titleproper>
+                <subtitle>Part of the Frick Family Papers, on deposit from the Helen Clay Frick Foundation</subtitle>
+                <author>Finding aid prepared by Julie Ludwig</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>The Frick Collection/Frick Art Reference Library Archives</publisher>
+                <address>
+                    <addressline>10 East 71st Street</addressline>
+                    <addressline>New York, NY, 10021</addressline>
+                    <addressline>archives@frick.org</addressline>
+                </address>
+                <date>&#xA9; 2011 The Frick Collection. All rights reserved.</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit<date>2013-12-16T14:19-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>One East 70th Street Papers</unittitle>
+            <unitid>HCFF.7</unitid>
+            <repository>
+                <corpname>The Frick Collection/Frick Art Reference Library Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>12.8 Linear feet</extent>
+                <extent>(27 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1907/1931" type="inclusive">1907-1931</unitdate>
+            <abstract id="ref100" label="Abstract">Henry Clay Frick, 1849-1919, was a prominent industrialist and art collector. His New York residence at One East 70th Street was designed by Thomas Hastings, and completed in 1914. The house was later opened to the public as The Frick Collection in 1935. These materials document the construction and furnishing of the house, as well as some aspects of domestic life there.</abstract>
+            <origination label="creator">
+                <persname source="Library_of_Congress_Name_Authority_File">Frick, Henry Clay, 1849-1919.</persname>
+            </origination>
+        </did>
+        <processinfo id="ref107">
+            <head>Processing Information</head>
+            <p>Arranged and described by Julie Ludwig, 2011, with funding from the Helen Clay Frick Foundation.</p>
+        </processinfo>
+        <custodhist id="ref106">
+            <head>Custodial History</head>
+            <p>These files form part of the Frick Family Papers of the Helen Clay Frick Foundation Archives on deposit at The Frick Collection and Frick Art Reference Library. They were received from the Frick Art and Historical Center, Pittsburgh, Pa., in 2001.</p>
+        </custodhist>
+        <acqinfo id="ref104">
+            <head>Provenance</head>
+            <p>Placed on deposit by the Helen Clay Frick Foundation, 2001.</p>
+        </acqinfo>
+        <relatedmaterial id="ref318">
+            <head>Related Materials</head>
+            <p>Additional materials regarding the furnishing of One East 70th Street can be found in the Henry Clay Frick Furnishings Files in this repository.</p>
+        </relatedmaterial>
+        <scopecontent id="ref73">
+            <head>Scope and Content Note</head>
+            <p>These papers, dating from 1907-1931, chiefly document the construction and furnishing of Henry Clay Frick's New York residence at One East 70th Street. Materials include contracts, construction specifications, correspondence, architect's certificates, accounts payable vouchers, accounting and financial records, and inventories, as well as documentation of activities at the house after its construction, and maintenance and improvement of the property. These files do not contain blueprints of the house, or visual renderings (photographs, sketches, etc.) of any aspect of the design and construction process unless noted. For images of the house under construction, see the Wurts Brothers photographs in this repository.</p>
+            <p>The collection is arranged in eight series: I. Construction Contracts, II. Construction Notes and Correspondence, III. Construction Special Orders, IV. Construction Vouchers, V. Furnishings, VI. Financial Records, VII. Post-Construction and Estate Matters, and VIII. Daily Life.</p>
+            <p>Series I: Construction Contracts, 1912-1917, includes a bound index of contractors, lists of bids received, cumulative lists of contracts awarded, account summaries and trial balances, summaries of architect's certificates and bills on hand for payment, and files for each contract awarded. Contract files may contain correspondence, executed contracts, construction specifications, architect's certificates, and insurance and bond information. Correspondents include Thomas Hastings and his firm, Carr&#xE8;re &amp; Hastings, construction superintendent D.B. Kinch, and the various contractors involved in the construction of the house. Contracts were issued for all aspects of the building process, from the wrecking and removal of the Lenox Library through the landscape surrounding the finished house. Multiple contracts were occasionally awarded to the same firm (e.g. Edward F. Caldwell &amp; Co. and Cauldwell-Wingate Co.)</p>
+            <p>Series II: Construction Notes and Correspondence, 1912-1918, contains correspondence, notes, proposals, memoranda, estimates, auditor's reports, invoices, lists of subcontractors, and information regarding costs for labor, materials, insurance, and cartage. These materials document the progression of work at the construction site, as well as the billing, auditing, and payment of accounts. Construction expenses were closely monitored by auditors, and accounting discrepancies are frequently noted. Letters of Carr&#xE8;re &amp; Hastings, superintendent D.B. Kinch, and Frick secretary F.W. McElroy appear throughout these files. This series also contains one letterpress copybook of Henry Clay Frick's outgoing letters during the construction and furnishing of One East 70th Street.</p>
+            <p>Series III: Construction Special Orders, 1913-1915, documents special orders for work not included among the general contracts in Series I. Folder contents typically include correspondence regarding proposals and acceptances, special order certificates issued by the architect, construction specifications, and itemized bills.</p>
+            <p>Series IV: Construction Vouchers, 1912-1914, consists of payment vouchers issued to firms, agencies, and individuals during the construction of the Frick residence at One East 70th Street. As was typical of Henry Clay Frick's accounting practices (see Henry Clay Frick Papers, Series III: Voucher Files for additional examples), vouchers were prepared and sent to the payee along with a check for the amount owed. These vouchers were receipted by the payee, and returned to Henry Clay Frick for his files as evidence of remittance received. Vouchers may have correspondence, invoices, or related documentation attached.</p>
+            <p>Series V: Furnishings, 1914-1924 and undated, contains lists of contracts and estimates, as well as letters, telegrams, notes, and invoices pertaining to the furnishing and decoration of One East 70th Street. As the principal decorators for the house, the files of White, Allom &amp; Co. and Elsie de Wolfe comprise the bulk of this series. Their invoices and correspondence document the procurement of carpets, draperies, mantelpieces, furniture, wall coverings, light fixtures, and accessories for the house. Charles Allom's earliest letters discuss his plans for decorative treatment of various rooms, while later correspondence responds to Henry Clay Frick's frustration at work on the house that remained unfinished. Allom's files also document the changes to the Drawing Room after Frick's acquisition of the Fragonard panels in 1915. Elsie de Wolfe's letters detail the selection of antique pieces through various dealers in London and Paris. Other decorators, dealers, and contractors represented in this series include Duveen Brothers, through whom Frick purchased artwork and furnishings from the J.P. Morgan Collection, E.R. Bacon, who facilitated the purchase of a suite of Beauvais tapestry furniture from the Duke of Devonshire and supplied a set of antique silver wine coolers for the Dining Room, Maus, who overhauled the suite of tapestry furniture, and Gerald and Sydney Letts, who furnished the Bowling Alley and Billiard Room.</p>
+            <p>Additional material concerning the acquisition of objects from the Morgan Collection can be found in the Henry Clay Frick Papers, Series I: Art Files; the Eagle Rock Papers, Series: Furnishings; and the Henry Clay Frick Art Collection Files, all in this repository.</p>
+            <p>Series VI: Financial Records, 1907-1918, documents expenditures made during the construction and furnishing of One East 70th Street. Along with a summary of costs associated with the purchase of the property, this series contains canceled checks, monthly statements, and a check register from the Bankers Trust Co. special account established by Frick for the purpose of paying construction expenses. Also included in this series are a cash book, journal, ledger in which construction expenses were recorded by Frick's staff. For day-to-day expenses at One East 70th after construction was completed, see Series VIII: Daily Life.</p>
+            <p>Series VII, Post-Construction and Estate Matters, 1914-1924, contains inventories of the contents of One East 70th Street as well as Frick's garage property located at 129 West 51st Street. Inventories are grouped by type, namely collection property (i.e. items that would become part of The Frick Collection), estate property (items that became part of Frick's estate for distribution under the terms of his will), and personal property (items that were considered the personal property of Adelaide Frick and her daughter Helen). Additional materials in this series include specifications and contracts for the construction of the Frick Art Reference Library (referred to here as the 71st Street Extension), a file on the disposition of frames from the suite of Chatsworth furniture purchased in 1914, a file on the sculpture gallery proposed by Thomas Hastings but never constructed, a dispute with the city re: flagstones outside the residence, and documentation of a claim against W. &amp; J. Sloane re: outstanding remittance for goods removed from the residence and sold.</p>
+            <p>The last series, Daily Life, 1914-1931, contains materials documenting the Frick family's activities and interests, along with household operations and expenditures. Of particular note are the household diaries, 1914-1919, which record guests to the house, luncheons, dinners and other entertainments, purchase and installation of paintings and other works of art, and comings and goings of family members. This series also contains notebooks with monthly compilations of household payroll and bills paid, summaries of dinners given at the house (e.g. guest lists, menus, music, etc.), inventories of books, wines, and liquors, and information about employees who served the Frick family at One East 70th Street, Eagle Rock, and other locations.</p>
+        </scopecontent>
+        <accessrestrict id="ref102">
+            <head>Access Restrictions</head>
+            <p>These records are open for research under the conditions of The Frick Collection/Frick Art Reference Library Archives access policy. Contact the Archives Department for further information at archives@frick.org.</p>
+        </accessrestrict>
+        <arrangement id="ref101">
+            <head>Arrangement</head>
+            <p>Materials are arranged in the following series:</p>
+            <p>I. Construction Contracts, 1912-1917</p>
+            <p>II. Construction Notes and Correspondence, 1912-1918</p>
+            <p>III. Construction Special Orders, 1913-1915</p>
+            <p>IV. Construction Vouchers, 1912-1914</p>
+            <p>V. Furnishings, 1914-1924, undated</p>
+            <p>VI. Financial Records, 1907-1918</p>
+            <p>VII. Post-Construction and Estate Matters, 1914-1924</p>
+            <p>VIII. Daily Life, 1914-1931, undated</p>
+        </arrangement>
+        <bioghist id="ref1">
+            <head>Biographical/Historical Note</head>
+            <p>Henry Clay Frick (1849-1919) was a prominent industrialist and art collector who made his fortune in the coal, coke, steel, and railroad industries. Born into modest circumstances in West Overton, Pa., Frick ended his formal education by the mid-1860s. In 1871, he borrowed money to purchase a share in a coking concern that would eventually become the H.C. Frick Coke Co. Over the next decade, he continued to expand his business through the acquisition of more coal lands and coke ovens, and entered into partnership with fellow industrialist Andrew Carnegie in 1882. Frick assumed the chairmanship of Carnegie Bros. &amp; Co. (later Carnegie Steel Co.) in 1889, and served in that capacity until his resignation from the company in December 1899. During his tenure as chairman, differences between Frick and Carnegie emerged, most significantly in their approach to labor issues. The 1892 Homestead Strike further strained relations between the two men, and in 1899, Frick permanently severed his relationship with Carnegie.</p>
+            <p>In December 1881, Frick married Adelaide Howard Childs of Pittsburgh. The couple purchased a house (Clayton) in Pittsburgh's East End, and had four children: Childs Frick (1883-1965), Martha Howard Frick (1885-1891), Helen Clay Frick (1888-1984), and Henry Clay Frick, Jr. (born 1892, died in infancy). After his break with Carnegie, Frick began spending less time in Pittsburgh, and soon established additional residences in New York and Massachusetts. In 1905, Frick leased the Vanderbilt mansion at 640 Fifth Avenue in New York, which he and his family would occupy for the next nine years. (For lease and other information about 640 Fifth Avenue, see Henry Clay Frick Papers, Series: Subject Files, File #242.)</p>
+            <p>Eagle Rock, the Frick family's summer home in Prides Crossing, Mass., was completed the next year, in 1906. Also that year, Frick began to make plans for the construction of his own New York residence by purchasing land at the corner of 70th Street and Fifth Avenue. (For more information, see Henry Clay Frick Papers, Series: Subject Files, File #251). At the time of Frick's purchase, however, the Lenox Library was located on the site, and Frick was prevented from taking possession of the property until after the opening of the New York Public Library in 1911. While Frick did offer to relocate the Lenox Library building to another site at his expense, no agreement could be reached with the city, and it was demolished after he took title to the property in 1912.</p>
+            <p>Although Frick first sought designs from Daniel Burnham, architect of the Frick Building in downtown Pittsburgh, he ultimately commissioned architect Thomas Hastings of the firm Carr&#xE8;re &amp; Hastings to design and build his New York residence. The result was a three-story Beaux-Arts mansion clad in limestone, and featuring a 100-foot picture gallery, a garden on the Fifth Avenue side of the house, and an interior courtyard. The site was cleared, plans for the house were finalized in 1912, and construction began in 1913. Charles Allom of White, Allom &amp; Co. was selected to furnish the rooms on the ground floor, as well as the Breakfast Room and Frick's personal Sitting Room, both on the second floor. The remaining rooms on the second and third floors were decorated by Elsie de Wolfe, who was also commissioned to furnish the Ladies' Reception Room on the first floor (now the Boucher Room).</p>
+            <p>Frick, along with his wife and daughter, took up residence in the house in November 1914. (Frick's son, Childs, had married Frances Shoemaker Dixon in the fall of 1913, and consequently never resided in the house.) In 1915, two years after the death of J.P. Morgan, Frick had the opportunity to acquire objects from Morgan's famous collection, including paintings, bronzes, Chinese porcelains, and Limoges enamels. Through the art dealer Joseph Duveen, Frick acquired furniture, paintings, and decorative arts, including a series of Fragonard panels on display at the Metropolitan Museum of Art. The house's first floor Drawing Room was then renovated to accommodate the panels.</p>
+            <p>With the exception of the Fragonard Room, the house remained essentially unchanged from the time of its construction until the death of Adelaide H.C. Frick in 1931. At that time, according to the terms of Frick's will, the house was converted into a museum, with architectural changes overseen by John Russell Pope. Expanded to include two new galleries, a Music Room, and a Garden Court, the museum opened to the public as The Frick Collection in 1935.</p>
+        </bioghist>
+        <prefercite id="ref305">
+            <head>Preferred Citation</head>
+            <p>One East 70th Street Papers. The Frick Collection/Frick Art Reference Library Archives.</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="local">Allom, Charles, Sir, 1865-1947.</persname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Carr&#xE8;re &amp; Hastings.</corpname>
+            <persname source="Library_of_Congress_Name_Authority_File">De Wolfe, Elsie, 1865-1950.</persname>
+            <corpname source="Library_of_Congress_Name_Authority_File">Duveen Brothers.</corpname>
+            <persname source="Library_of_Congress_Name_Authority_File">Duveen, Joseph Duveen, Baron, 1869-1939.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Adelaide Howard Childs, 1859-1931.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Helen Clay, 1888-1984.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Frick, Henry Clay, 1849-1919.</persname>
+            <persname source="Library_of_Congress_Name_Authority_File">Hastings, Thomas, 1860-1929.</persname>
+            <persname rules="dacs" source="local">Kinch, D.B.</persname>
+            <subject source="lcsh">Art--Collectors and collecting--New York (State)--New York.</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <subject source="lcsh">Decorative arts--Collectors and collecting--New York (State)--New York.</subject>
+            <genreform source="aat">Financial records.</genreform>
+            <genreform source="aat">Letterpress copybooks.</genreform>
+            <subject source="lcsh">Mansions--New York (State)--New York.</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref2" level="series">
+                <did>
+                    <unittitle>Series I: Construction Contracts</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <unitdate normal="1912/1917" type="inclusive">1912-1917</unitdate>
+                </did>
+                <scopecontent id="ref306">
+                    <head>Scope and Contents note</head>
+                    <p>This series includes a bound index of contractors, lists of bids received, cumulative lists of contracts awarded, account summaries and trial balances, summaries of architect's certificates and bills on hand for payment, and files for each contract awarded. Contract files may contain correspondence, executed contracts, construction specifications, architect's certificates, and insurance and bond information. Correspondents include Thomas Hastings and his firm, Carr&#xE8;re &amp; Hastings, construction superintendent D.B. Kinch, and the various contractors involved in the construction of the house. Contracts were issued for all aspects of the building process, from the wrecking and removal of the Lenox Library through the landscape surrounding the finished house. Multiple contracts were occasionally awarded to the same firm (e.g. Edward F. Caldwell &amp; Co. and Cauldwell-Wingate Co.)</p>
+                    <p>The bulk of the series is arranged by contract number, with index of contractors, lists of bids, etc., filed at the beginning of the series.</p>
+                </scopecontent>
+                <c id="ref3" level="file">
+                    <did>
+                        <unittitle>Index to contractors</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                        <container id="cid2442" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2442" type="folder">1</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref4" level="file">
+                    <did>
+                        <unittitle>Competitive bids for contracts</unittitle>
+                        <container id="cid2443" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2443" type="folder">2</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref5" level="file">
+                    <did>
+                        <unittitle>Competitive bids, etc., examined by auditors</unittitle>
+                        <container id="cid2444" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2444" type="folder">3</container>
+                        <unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref14" level="file">
+                    <did>
+                        <unittitle>Lists of contracts</unittitle>
+                        <container id="cid2461" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2461" type="folder">4-6</container>
+                        <unitdate normal="1913/1916" type="inclusive">1913-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="file">
+                    <did>
+                        <unittitle>General account summaries and trial balance sheets</unittitle>
+                        <container id="cid2464" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2464" type="folder">7</container>
+                        <unitdate normal="1913/1916" type="inclusive">1913-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="file">
+                    <did>
+                        <unittitle>Construction liability policies and surety bonds</unittitle>
+                        <container id="cid2465" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2465" type="folder">8</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="file">
+                    <did>
+                        <unittitle>Architect's certificates and bills on hand</unittitle>
+                        <container id="cid2466" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2466" type="folder">9</container>
+                        <unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="file">
+                    <did>
+                        <unittitle>Contract No. 1, John H. Tripler, Inc.</unittitle>
+                        <container id="cid2468" type="box" label="Mixed materials">1</container>
+                        <container parent="cid2468" type="folder">11</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Wrecking and removal of the Lenox Library</p>
+                    </scopecontent>
+                </c>
+                <c id="ref25" level="file">
+                    <did>
+                        <unittitle>Contract No. 2, William Bradley &amp; Son</unittitle>
+                        <container id="cid2469" type="box" label="Mixed materials">2</container>
+                        <container parent="cid2469" type="folder">1</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Cut stone work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref26" level="file">
+                    <did>
+                        <unittitle>Contract No. 3, Canavan Bros. Co.</unittitle>
+                        <container id="cid2470" type="box" label="Mixed materials">2</container>
+                        <container parent="cid2470" type="folder">2</container>
+                        <unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Excavation</p>
+                    </scopecontent>
+                </c>
+                <c id="ref27" level="file">
+                    <did>
+                        <unittitle>Contract No. 4, Cauldwell-Wingate Co.</unittitle>
+                        <container id="cid2471" type="box" label="Mixed materials">2</container>
+                        <container parent="cid2471" type="folder">3</container>
+                        <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Masonry and accompanying work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref28" level="file">
+                    <did>
+                        <unittitle>Contract No. 5, James Elgar, Inc.</unittitle>
+                        <container id="cid2472" type="box" label="Mixed materials">2</container>
+                        <container parent="cid2472" type="folder">4</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Erecting fence, sidewalk, bridges, etc.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref29" level="file">
+                    <did>
+                        <unittitle>Contract No. 6, American Bridge Co. of New York</unittitle>
+                        <container id="cid2473" type="box" label="Mixed materials">2</container>
+                        <container parent="cid2473" type="folder">5</container>
+                        <unitdate normal="1912/1915" type="inclusive">1912-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Structural steel work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref30" level="file">
+                    <did>
+                        <unittitle>Contract No. 7, Lord Electric Co.</unittitle>
+                        <container id="cid2474" type="box" label="Mixed materials">2</container>
+                        <container parent="cid2474" type="folder">6</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Electrical installation</p>
+                    </scopecontent>
+                </c>
+                <c id="ref31" level="file">
+                    <did>
+                        <unittitle>Contract No. 8, J.N. Knight &amp; Son</unittitle>
+                        <container id="cid2475" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2475" type="folder">1</container>
+                        <unitdate normal="1913/1916" type="inclusive">1913-1916</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Plumbing and drainage work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref32" level="file">
+                    <did>
+                        <unittitle>Contract No. 9, Johnson &amp; Morris</unittitle>
+                        <container id="cid2476" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2476" type="folder">2</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Heating and ventilating plant</p>
+                    </scopecontent>
+                </c>
+                <c id="ref33" level="file">
+                    <did>
+                        <unittitle>Contract No. 10, John H. Shipway &amp; Brother</unittitle>
+                        <container id="cid2477" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2477" type="folder">3</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Marble work for special finish of principal halls</p>
+                    </scopecontent>
+                </c>
+                <c id="ref34" level="file">
+                    <did>
+                        <unittitle>Contract No. 11, The Aeolian Co.</unittitle>
+                        <container id="cid2478" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2478" type="folder">4</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Aeolian pipe organ</p>
+                    </scopecontent>
+                </c>
+                <c id="ref35" level="file">
+                    <did>
+                        <unittitle>Contract No. 12, Carr&#xE8;re &amp; Hastings</unittitle>
+                        <container id="cid2479" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2479" type="folder">5</container>
+                        <unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Architecture</p>
+                    </scopecontent>
+                </c>
+                <c id="ref36" level="file">
+                    <did>
+                        <unittitle>Contract No. 13, National District Telegraph Co.</unittitle>
+                        <container id="cid2480" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2480" type="folder">6</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Night watchmen's telegraph, signal and fire alarm boxes</p>
+                    </scopecontent>
+                </c>
+                <c id="ref37" level="file">
+                    <did>
+                        <unittitle>Contract No. 14, John Morrow Co.</unittitle>
+                        <container id="cid2481" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2481" type="folder">7</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Roofing and sheet metal</p>
+                    </scopecontent>
+                </c>
+                <c id="ref38" level="file">
+                    <did>
+                        <unittitle>Contract No. 15, The New York Steam Co.</unittitle>
+                        <container id="cid2482" type="box" label="Mixed materials">3</container>
+                        <container parent="cid2482" type="folder">8</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Steam for drying</p>
+                    </scopecontent>
+                </c>
+                <c id="ref39" level="file">
+                    <did>
+                        <unittitle>Contract No. 16, White, Allom &amp; Co.</unittitle>
+                        <container id="cid2483" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2483" type="folder">1</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Interior finish of the principal rooms</p>
+                    </scopecontent>
+                </c>
+                <c id="ref40" level="file">
+                    <did>
+                        <unittitle>Contract No. 17, Henry Bonnard Bronze Co.</unittitle>
+                        <container id="cid2484" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2484" type="folder">2</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Bronze basement windows</p>
+                    </scopecontent>
+                </c>
+                <c id="ref41" level="file">
+                    <did>
+                        <unittitle>Contract No. 18, Interior Metal Manufacturing Co.</unittitle>
+                        <container id="cid2485" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2485" type="folder">3</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Hollow metal doors, windows, and trim in basement</p>
+                    </scopecontent>
+                </c>
+                <c id="ref42" level="file">
+                    <did>
+                        <unittitle>Contract No. 19, New York Edison Co.</unittitle>
+                        <container id="cid2486" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2486" type="folder">4</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Electric light and power</p>
+                    </scopecontent>
+                </c>
+                <c id="ref43" level="file">
+                    <did>
+                        <unittitle>Contract No. 20, Pittsburgh Plate Glass Co.</unittitle>
+                        <container id="cid2487" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2487" type="folder">5</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Plate glass throughout the residence</p>
+                    </scopecontent>
+                </c>
+                <c id="ref44" level="file">
+                    <did>
+                        <unittitle>Contract No. 21, Otis Elevator Co.</unittitle>
+                        <container id="cid2488" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2488" type="folder">6</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Three elevators and two dumbwaiters</p>
+                    </scopecontent>
+                </c>
+                <c id="ref45" level="file">
+                    <did>
+                        <unittitle>Contract No. 22, McNulty Bros., Inc.</unittitle>
+                        <container id="cid2489" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2489" type="folder">7</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Plastering</p>
+                    </scopecontent>
+                </c>
+                <c id="ref46" level="file">
+                    <did>
+                        <unittitle>Contract No. 23, W. &amp; J. Sloane</unittitle>
+                        <container id="cid2490" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2490" type="folder">8</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Supplementary interior finishing work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref47" level="file">
+                    <did>
+                        <unittitle>Contract No. 24, William H. Jackson Co.</unittitle>
+                        <container id="cid2491" type="box" label="Mixed materials">4</container>
+                        <container parent="cid2491" type="folder">9</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Fifth Avenue grille; part of 70th St. grille; service court gates</p>
+                    </scopecontent>
+                </c>
+                <c id="ref48" level="file">
+                    <did>
+                        <unittitle>Contract No. 25, John Williams, Inc.</unittitle>
+                        <container id="cid2492" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2492" type="folder">1</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Grilles and gates on 70th and 71st Streets</p>
+                    </scopecontent>
+                </c>
+                <c id="ref49" level="file">
+                    <did>
+                        <unittitle>Contract No. 26, Samuel Yellin</unittitle>
+                        <container id="cid2493" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2493" type="folder">2</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Entrance grilles in vestibule</p>
+                    </scopecontent>
+                </c>
+                <c id="ref50" level="file">
+                    <did>
+                        <unittitle>Contract No. 27, Hill-Canton Dryer Co.</unittitle>
+                        <container id="cid2494" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2494" type="folder">3</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Laundry equipment</p>
+                    </scopecontent>
+                </c>
+                <c id="ref51" level="file">
+                    <did>
+                        <unittitle>Contract No. 28, Jewett Refrigerator Co.</unittitle>
+                        <container id="cid2495" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2495" type="folder">4</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Refrigerators</p>
+                    </scopecontent>
+                </c>
+                <c id="ref52" level="file">
+                    <did>
+                        <unittitle>Contract No. 29, Duparquet, Huot &amp; Moneuse Co.</unittitle>
+                        <container id="cid2496" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2496" type="folder">5</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Cooking apparatus, steam table, and plate warmers</p>
+                    </scopecontent>
+                </c>
+                <c id="ref53" level="file">
+                    <did>
+                        <unittitle>Contract No. 30, New York Department of Water Supply, Gas and Electricity</unittitle>
+                        <container id="cid2497" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2497" type="folder">6</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Permit to use hose</p>
+                    </scopecontent>
+                </c>
+                <c id="ref54" level="file">
+                    <did>
+                        <unittitle>Contract No. 31, White, Allom &amp; Co.</unittitle>
+                        <container id="cid2521" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2521" type="folder">7</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Electrical fixtures and furniture</p>
+                    </scopecontent>
+                </c>
+                <c id="ref55" level="file">
+                    <did>
+                        <unittitle>Contract No. 32, C.P. Davite</unittitle>
+                        <container id="cid2522" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2522" type="folder">8</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Pebble work for paths</p>
+                    </scopecontent>
+                </c>
+                <c id="ref56" level="file">
+                    <did>
+                        <unittitle>Contract No. 33, Edward F. Caldwell &amp; Co.</unittitle>
+                        <container id="cid2523" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2523" type="folder">9</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Electrical fixtures for rooms decorated by Elsie de Wolfe</p>
+                    </scopecontent>
+                </c>
+                <c id="ref57" level="file">
+                    <did>
+                        <unittitle>Contract No. 34, Edward F. Caldwell &amp; Co.</unittitle>
+                        <container id="cid2524" type="box" label="Mixed materials">5</container>
+                        <container parent="cid2524" type="folder">10</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Electrical fixtures for Billiard Room, porte-coch&#xE8;re, and halls</p>
+                    </scopecontent>
+                </c>
+                <c id="ref58" level="file">
+                    <did>
+                        <unittitle>Contract No. 35, Holmes Electric Protective Co.</unittitle>
+                        <container id="cid2525" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2525" type="folder">1</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Burglar alarm protection agreement</p>
+                    </scopecontent>
+                </c>
+                <c id="ref59" level="file">
+                    <did>
+                        <unittitle>Contract No. 36, William Bradley &amp; Son</unittitle>
+                        <container id="cid2526" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2526" type="folder">2</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Cut stone and marble for wall and lattice work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref60" level="file">
+                    <did>
+                        <unittitle>Contract No. 37, Cauldwell-Wingate Co.</unittitle>
+                        <container id="cid2527" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2527" type="folder">3</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Excavating, filling, masonry, etc., for wall and lattice work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref61" level="file">
+                    <did>
+                        <unittitle>Contract No. 38, John Williams, Inc.</unittitle>
+                        <container id="cid2528" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2528" type="folder">4</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Ornamental iron for wall and lattice work</p>
+                    </scopecontent>
+                </c>
+                <c id="ref62" level="file">
+                    <did>
+                        <unittitle>Contract No. 39, National Incinerator Co.</unittitle>
+                        <container id="cid2531" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2531" type="folder">5</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Incinerator</p>
+                    </scopecontent>
+                </c>
+                <c id="ref63" level="file">
+                    <did>
+                        <unittitle>Contract No. 40, New York Board of Fire Underwriters</unittitle>
+                        <container id="cid2532" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2532" type="folder">6</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Certificates for electrical work done by Edward F. Caldwell</p>
+                    </scopecontent>
+                </c>
+                <c id="ref64" level="file">
+                    <did>
+                        <unittitle>Contract No. 41, Building &amp; Sanitary Inspection Co.</unittitle>
+                        <container id="cid2533" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2533" type="folder">7</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Plumbing inspection</p>
+                    </scopecontent>
+                </c>
+                <c id="ref65" level="file">
+                    <did>
+                        <unittitle>Contract No. 42, New York Board of Fire Underwriters</unittitle>
+                        <container id="cid2534" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2534" type="folder">8</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Certificate for elevator motor equipment</p>
+                    </scopecontent>
+                </c>
+                <c id="ref66" level="file">
+                    <did>
+                        <unittitle>Contract No. 43, Edward F. Caldwell &amp; Co.</unittitle>
+                        <container id="cid2535" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2535" type="folder">9</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Additional lighting fixtures for closets, toilets, vestibule to butler's pantry, elevator, and servants' entrance</p>
+                    </scopecontent>
+                </c>
+                <c id="ref67" level="file">
+                    <did>
+                        <unittitle>Contract No. 44, Building &amp; Sanitary Inspection Co.</unittitle>
+                        <container id="cid2536" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2536" type="folder">10</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Report of sanitary inspection of house</p>
+                    </scopecontent>
+                </c>
+                <c id="ref68" level="file">
+                    <did>
+                        <unittitle>Contract No. 45, New York Board of Fire Underwriters</unittitle>
+                        <container id="cid2537" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2537" type="folder">11</container>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Certificate for 64-200 watt light distributor for art gallery</p>
+                    </scopecontent>
+                </c>
+                <c id="ref69" level="file">
+                    <did>
+                        <unittitle>Contract No. 46, Wadley &amp; Smythe</unittitle>
+                        <container id="cid2538" type="box" label="Mixed materials">6</container>
+                        <container parent="cid2538" type="folder">12</container>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Landscaping; includes plan of proposed planting around the driveway and estimate of cost.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref70" level="file">
+                    <did>
+                        <unittitle>Contract No. 47, New York Board of Fire Underwriters</unittitle>
+                        <container id="cid2539" type="box" label="Mixed materials">7</container>
+                        <container parent="cid2539" type="folder">1</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Certificate for incandescent lamps and heating irons</p>
+                    </scopecontent>
+                </c>
+                <c id="ref71" level="file">
+                    <did>
+                        <unittitle>Contract No. 48, New York Board of Fire Underwriters</unittitle>
+                        <container id="cid2540" type="box" label="Mixed materials">7</container>
+                        <container parent="cid2540" type="folder">2</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Certificate for electric wiring in Fragonard Room</p>
+                    </scopecontent>
+                </c>
+                <c id="ref72" level="file">
+                    <did>
+                        <unittitle>Contract No. 49, Carr&#xE8;re &amp; Hastings</unittitle>
+                        <container id="cid2541" type="box" label="Mixed materials">7</container>
+                        <container parent="cid2541" type="folder">3</container>
+                        <unitdate normal="1916/1916">1916</unitdate>
+                    </did>
+                    <scopecontent>
+                        <head>Scope and Contents note</head>
+                        <p>Repairs to sidewalk on 71st Street</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref74" level="series">
+                <did>
+                    <unittitle>Series II: Construction Notes and Correspondence</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                    <unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate>
+                </did>
+                <scopecontent id="ref133">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains correspondence, notes, proposals, memoranda, estimates, auditor's reports, invoices, lists of subcontractors, and information regarding costs for labor, materials, insurance, and cartage. These materials document the progression of work at the construction site, as well as the billing, auditing, and payment of accounts. Construction expenses were closely monitored by auditors, and accounting discrepancies are frequently noted. Letters of Carr&#xE8;re &amp; Hastings, superintendent D.B. Kinch, and Frick secretary F.W. McElroy appear throughout these files. This series also contains one letterpress copybook of Henry Clay Frick's outgoing letters during the construction and furnishing of One East 70th Street.</p>
+                    <p>Arranged alphabetically by correspondent, with the letterpress book filed at the end of the series.</p>
+                </scopecontent>
+                <c id="ref75" level="file">
+                    <did>
+                        <unittitle>Carr&#xE8;re &amp; Hastings</unittitle>
+                        <container id="cid16495" type="box" label="Mixed materials">7</container>
+                        <container parent="cid16495" type="folder">4-5</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref77">
+                        <head>Scope and Contents note</head>
+                        <p>Contains letters re: progress, payment of bills, concerns about ventilation in the attic above the art gallery, and screens in the servants' rooms. Also contains notes re: auditing of contractors' accounts.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref115" level="file">
+                    <did>
+                        <unittitle>Cauldwell-Wingate Co.</unittitle>
+                        <container id="cid16491" type="box" label="Mixed materials">7</container>
+                        <container parent="cid16491" type="folder">6-10</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref114">
+                        <head>Scope and Contents note</head>
+                        <p>Contains lists of subcontractors, notes, and correspondence re: charges, billing, materials, and labor. Also contains auditor's report and invoices of subcontractors.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref117" level="file">
+                    <did>
+                        <unittitle>J.N. Knight &amp; Son</unittitle>
+                        <container id="cid16492" type="box" label="Mixed materials">7</container>
+                        <container parent="cid16492" type="folder">11</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref116">
+                        <head>Scope and Contents note</head>
+                        <p>Folder contains reports on the contract for plumbing and drainage work, lists of outside dealers, and analysis of charges for materials and labor.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref119" level="file">
+                    <did>
+                        <unittitle>John H. Tripler, Inc.</unittitle>
+                        <container id="cid16493" type="box" label="Mixed materials">7</container>
+                        <container parent="cid16493" type="folder">12</container>
+                        <unitdate normal="1912/1912">1912</unitdate>
+                    </did>
+                    <scopecontent id="ref118">
+                        <head>Scope and Contents note</head>
+                        <p>List of proposals for demolition of Lenox Library building.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref121" level="file">
+                    <did>
+                        <unittitle>John Morrow Co.</unittitle>
+                        <container id="cid16494" type="box" label="Mixed materials">7</container>
+                        <container parent="cid16494" type="folder">13</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref120">
+                        <head>Scope and Contents note</head>
+                        <p>Contains unsigned letter [from D.B. Kinch?] updating Frick on construction progress, and bill of John Morrow Co. for replacing broken skylight glass.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref124" level="file">
+                    <did>
+                        <unittitle>John H. Shipway &amp; Brother</unittitle>
+                        <container id="cid16496" type="box" label="Mixed materials">8</container>
+                        <container parent="cid16496" type="folder">1-4</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref123">
+                        <head>Scope and Contents note</head>
+                        <p>Contains proposals, letters, and memoranda chiefly concerning charges and billing practices for stone work. Includes monthly or bi-monthly compilations of labor costs prepared for auditing purposes.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref127" level="file">
+                    <did>
+                        <unittitle>Johnson &amp; Morris</unittitle>
+                        <container id="cid16501" type="box" label="Mixed materials">8</container>
+                        <container parent="cid16501" type="folder">5</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref126">
+                        <head>Scope and Contents note</head>
+                        <p>Analysis of account, including labor, materials, and outside dealers.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref129" level="file">
+                    <did>
+                        <unittitle>Lord Electric Co.</unittitle>
+                        <container id="cid16502" type="box" label="Mixed materials">8</container>
+                        <container parent="cid16502" type="folder">6</container>
+                        <unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate>
+                    </did>
+                    <scopecontent id="ref128">
+                        <head>Scope and Contents note</head>
+                        <p>Anaylsis of account, including labor, materials, and outside dealers.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref132" level="file">
+                    <did>
+                        <unittitle>McElroy, F.W.</unittitle>
+                        <container id="cid16503" type="box" label="Mixed materials">8</container>
+                        <container parent="cid16503" type="folder">7-8</container>
+                        <unitdate normal="1912/1915" type="inclusive">1912-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref131">
+                        <head>Scope and Contents note</head>
+                        <p>Chiefly correspondence from D.B. Kinch updating Frick on construction progress. Also includes letters to and/or from J. B. Eustis, Charles Carstairs, Carr&#xE8;re &amp; Hastings, and White, Allom &amp; Co.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref135" level="file">
+                    <did>
+                        <unittitle>McNulty Bros., Inc.</unittitle>
+                        <container id="cid16504" type="box" label="Mixed materials">8</container>
+                        <container parent="cid16504" type="folder">10</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Scope and Contents note</head>
+                        <p>Audit of account for plastering contractor.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref136" level="file">
+                    <did>
+                        <unittitle>W. &amp; J. Sloane</unittitle>
+                        <container id="cid16505" type="box" label="Mixed materials">8</container>
+                        <container parent="cid16505" type="folder">11</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                </c>
+                <c id="ref139" level="file">
+                    <did>
+                        <unittitle>White, Allom &amp; Co.</unittitle>
+                        <container id="cid16506" type="box" label="Mixed materials">8</container>
+                        <container parent="cid16506" type="folder">12</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent id="ref138">
+                        <head>Scope and Contents note</head>
+                        <p>Includes correspondence with Carr&#xE8;re &amp; Hastings, schedule of interior finish for One East 70th Street, and insurance policies.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref140" level="file">
+                    <did>
+                        <unittitle>White, Allom &amp; Co., continued</unittitle>
+                        <container id="cid16511" type="box" label="Mixed materials">9</container>
+                        <container parent="cid16511" type="folder">1-2</container>
+                        <unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate>
+                    </did>
+                </c>
+                <c id="ref142" level="file">
+                    <did>
+                        <unittitle>William Bradley &amp; Son</unittitle>
+                        <container id="cid16512" type="box" label="Mixed materials">9</container>
+                        <container parent="cid16512" type="folder">3</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref141">
+                        <head>Scope and Contents note</head>
+                        <p>Includes lists of changes to exterior stone work, correspondence to/from Carr&#xE8;re &amp; Hastings, and estimates for models and stone work, with references to a proposed stone fountain that was never constructed. Also contains letter from Carr&#xE8;re &amp; Hastings re: distribution of contracts for iron grilles amongst three different firms.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref144" level="file">
+                    <did>
+                        <unittitle>Letterpress copybook</unittitle>
+                        <container id="cid16513" type="box" label="Mixed materials">10</container>
+                        <container parent="cid16513" type="folder">1</container>
+                        <unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate>
+                    </did>
+                    <scopecontent id="ref143">
+                        <head>Scope and Contents note</head>
+                        <p>Contains 476 pages of outgoing correspondence from Frick re: the construction and furnishing of One East 70th Street, with alphabetical index of correspondents at the front of the volume. Includes correspondence with his superintendent, D.B. Kinch, architect Thomas Hastings of Carr&#xE8;re &amp; Hastings, Bankers Trust Co., Charles Carstairs of M. Knoedler and Co., Charles Allom of White, Allom &amp; Co., Elsie de Wolfe, Duveen Brothers, and various contractors, dealers, and at least one member of the press. Also includes cumulative lists of contracts awarded throughout the construction process.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref78" level="series">
+                <did>
+                    <unittitle>Series III: Construction Special Orders</unittitle>
+                    <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                </did>
+                <scopecontent id="ref99">
+                    <head>Scope and Contents note</head>
+                    <p>This series documents special orders for work not included among the general contracts in Series I. Folder contents typically include correspondence regarding proposals and acceptances, special order certificates issued by the architect, construction specifications, and itemized bills.</p>
+                    <p>Arranged alphabetically by contractor. For a list of special orders arranged by number, see folder containing lists of special orders issued by the architect in this series.</p>
+                </scopecontent>
+                <c id="ref146" level="file">
+                    <did>
+                        <unittitle>Lists of special orders issued by architect</unittitle>
+                        <container id="cid16514" type="box" label="Mixed materials">11</container>
+                        <container parent="cid16514" type="folder">1</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref145">
+                        <head>Scope and Contents note</head>
+                        <p>Chronological lists of special orders, including name of contractor, work ordered, and cost.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref148" level="file">
+                    <did>
+                        <unittitle>Brunswick-Balke-Collender Co.</unittitle>
+                        <container id="cid16515" type="box" label="Mixed materials">11</container>
+                        <container parent="cid16515" type="folder">2</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref147">
+                        <head>Scope and Contents note</head>
+                        <p>For furnishing and installing bowling alleys (Special order No. 260).</p>
+                    </scopecontent>
+                </c>
+                <c id="ref150" level="file">
+                    <did>
+                        <unittitle>Cauldwell-Wingate Co.</unittitle>
+                        <container id="cid16516" type="box" label="Mixed materials">11</container>
+                        <container parent="cid16516" type="folder">3-9</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref149">
+                        <head>Scope and Contents note</head>
+                        <p>For kalamein window frames, repairs and maintenance on the construction site, foundation masonry and accompanying work, curb and sidewalks, carpentry, waterproofing, etc.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref152" level="file">
+                    <did>
+                        <unittitle>Diebold Safe &amp; Lock Co.</unittitle>
+                        <container id="cid16517" type="box" label="Mixed materials">11</container>
+                        <container parent="cid16517" type="folder">10</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref151">
+                        <head>Scope and Contents note</head>
+                        <p>For furnishing and installing two safes.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref155" level="file">
+                    <did>
+                        <unittitle>Edward F. Caldwell &amp; Co.</unittitle>
+                        <container id="cid16518" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16518" type="folder">1</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref154">
+                        <head>Scope and Contents note</head>
+                        <p>For screen in North Hall, electric ceiling fixtures at the entrance door, credits in connection with the lattice wall and bird screen, and gold mesh screens in the lower part of the organ screen.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref157" level="file">
+                    <did>
+                        <unittitle>Fry, Sherry E.</unittitle>
+                        <container id="cid16523" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16523" type="folder">2</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent id="ref156">
+                        <head>Scope and Contents note</head>
+                        <p>Model for sculptural work on one pediment</p>
+                    </scopecontent>
+                </c>
+                <c id="ref159" level="file">
+                    <did>
+                        <unittitle>Henderson Brothers</unittitle>
+                        <container id="cid16524" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16524" type="folder">3</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref158">
+                        <head>Scope and Contents note</head>
+                        <p>Opal glass and frame for organ console</p>
+                    </scopecontent>
+                </c>
+                <c id="ref161" level="file">
+                    <did>
+                        <unittitle>Henry Bonnard Bronze Co.</unittitle>
+                        <container id="cid16525" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16525" type="folder">4</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref160">
+                        <head>Scope and Contents note</head>
+                        <p>Hardware for bronze basement windows; cast bronze frame and sash.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref164" level="file">
+                    <did>
+                        <unittitle>Interior Metal Manufacturing Co.</unittitle>
+                        <container id="cid16526" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16526" type="folder">5</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref163">
+                        <head>Scope and Contents note</head>
+                        <p>Installation, alteration, and finishing of doors.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref166" level="file">
+                    <did>
+                        <unittitle>John Morrow Co.</unittitle>
+                        <container id="cid16527" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16527" type="folder">6</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref165">
+                        <head>Scope and Contents note</head>
+                        <p>Work in connection with roofing and skylights.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref168" level="file">
+                    <did>
+                        <unittitle>John H. Shipway &amp; Brother</unittitle>
+                        <container id="cid16528" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16528" type="folder">7-8</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref167">
+                        <head>Scope and Contents note</head>
+                        <p>Tile and slate work; marble pedestals for bust and candelabra. Folder contains specifications for tile work throughout the residence.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref170" level="file">
+                    <did>
+                        <unittitle>John Williams, Inc.</unittitle>
+                        <container id="cid16529" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16529" type="folder">9</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref169">
+                        <head>Scope and Contents note</head>
+                        <p>Alterations to 71st Street fence, twenty-six feet of area rail, polished steel grille for West Vestibule entrance, etc.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref172" level="file">
+                    <did>
+                        <unittitle>Keck, Charles</unittitle>
+                        <container id="cid16530" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16530" type="folder">10</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent id="ref171">
+                        <head>Scope and Contents note</head>
+                        <p>Model for sculptural work on one pediment.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref174" level="file">
+                    <did>
+                        <unittitle>Lenygon &amp; Morant, Inc.</unittitle>
+                        <container id="cid16531" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16531" type="folder">11</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref173">
+                        <head>Scope and Contents note</head>
+                        <p>Marble mantel for Helen Clay Frick's Bedroom.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref176" level="file">
+                    <did>
+                        <unittitle>Martiny, Philip</unittitle>
+                        <container id="cid16532" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16532" type="folder">12</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent id="ref175">
+                        <head>Scope and Contents note</head>
+                        <p>Model for sculptural work on one pediment.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref178" level="file">
+                    <did>
+                        <unittitle>Menconi Brothers</unittitle>
+                        <container id="cid16533" type="box" label="Mixed materials">12</container>
+                        <container parent="cid16533" type="folder">13</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref177">
+                        <head>Scope and Contents note</head>
+                        <p>Plaster casts of wrought iron grills, doors, organ screen, vase, pedestal, and standard for candelabra.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref180" level="file">
+                    <did>
+                        <unittitle>Morten &amp; Co.</unittitle>
+                        <container id="cid16541" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16541" type="folder">1</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref179">
+                        <head>Scope and Contents note</head>
+                        <p>Wine cellar and wines, etc.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref182" level="file">
+                    <did>
+                        <unittitle>Mosler Safe Co.</unittitle>
+                        <container id="cid16542" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16542" type="folder">2</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref181">
+                        <head>Scope and Contents note</head>
+                        <p>Furnishing and installing silver safe.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref184" level="file">
+                    <did>
+                        <unittitle>National District Telegraph Co.</unittitle>
+                        <container id="cid16543" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16543" type="folder">3</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref183">
+                        <head>Scope and Contents note</head>
+                        <p>Bronze covers for fire alarm boxes.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref186" level="file">
+                    <did>
+                        <unittitle>Neumann &amp; Even</unittitle>
+                        <container id="cid16544" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16544" type="folder">4</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref185">
+                        <head>Scope and Contents note</head>
+                        <p>Models for interior marble and wood carving, metal casting, ornamentation on stair sting of main staircase, and perforated ceiling over the organ.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref188" level="file">
+                    <did>
+                        <unittitle>Nicholson &amp; Galloway</unittitle>
+                        <container id="cid16545" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16545" type="folder">5</container>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                    </did>
+                    <scopecontent id="ref187">
+                        <head>Scope and Contents note</head>
+                        <p>Repair of urn in courtyard.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref190" level="file">
+                    <did>
+                        <unittitle>Otis Elevator Co.</unittitle>
+                        <container id="cid16546" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16546" type="folder">6</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref189">
+                        <head>Scope and Contents note</head>
+                        <p>Work in connection with elevators, and hand-powered garbage lift.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref192" level="file">
+                    <did>
+                        <unittitle>Piccirilli Brothers</unittitle>
+                        <container id="cid16547" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16547" type="folder">7</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref191">
+                        <head>Scope and Contents note</head>
+                        <p>Models for marble carving, pediments, vaulted ceiling, and main stair hall; superintending of stone carving.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref194" level="file">
+                    <did>
+                        <unittitle>Sangiorgi Gallery</unittitle>
+                        <container id="cid16548" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16548" type="folder">8</container>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                    </did>
+                    <scopecontent id="ref193">
+                        <head>Scope and Contents note</head>
+                        <p>Antique velvet to be made into pillows and table cover.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref196" level="file">
+                    <did>
+                        <unittitle>Todhunter, Arthur</unittitle>
+                        <container id="cid16549" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16549" type="folder">9</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref195">
+                        <head>Scope and Contents note</head>
+                        <p>For nine mantels and set of old Ashburton marble mouldings.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref198" level="file">
+                    <did>
+                        <unittitle>W. &amp; J. Sloane</unittitle>
+                        <container id="cid16550" type="box" label="Mixed materials">13</container>
+                        <container parent="cid16550" type="folder">10-11</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref197">
+                        <head>Scope and Contents note</head>
+                        <p>Plaster models, wood carving, and additional interior finishing. Includes specifications for woodwork, etc., in Billiard Room, stair ceiling, stair rails, and elevator car.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref200" level="file">
+                    <did>
+                        <unittitle>Western Union Telegraph Co.</unittitle>
+                        <container id="cid16551" type="box" label="Mixed materials">14</container>
+                        <container parent="cid16551" type="folder">1</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref199">
+                        <head>Scope and Contents note</head>
+                        <p>Installation of stock ticker.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref202" level="file">
+                    <did>
+                        <unittitle>White, Allom &amp; Co.</unittitle>
+                        <container id="cid16552" type="box" label="Mixed materials">14</container>
+                        <container parent="cid16552" type="folder">2</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref201">
+                        <head>Scope and Contents note</head>
+                        <p>Wrought iron railing of main staircase, and organ case of carved wood.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref204" level="file">
+                    <did>
+                        <unittitle>William Bradley &amp; Son</unittitle>
+                        <container id="cid16553" type="box" label="Mixed materials">14</container>
+                        <container parent="cid16553" type="folder">3</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref203">
+                        <head>Scope and Contents note</head>
+                        <p>Exterior limestone work; furnishing and setting of Royal Blue Indiana limestone and Pink Tennessee marble on the grounds. Includes specifications for limestone, marble, and masonry work.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref206" level="file">
+                    <did>
+                        <unittitle>Wm. H. Jackson Co.</unittitle>
+                        <container id="cid16554" type="box" label="Mixed materials">14</container>
+                        <container parent="cid16554" type="folder">4</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref205">
+                        <head>Scope and Contents note</head>
+                        <p>Additional work in connection with wrought iron fence; overtime for work on stair railing and chimney dampers.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref208" level="file">
+                    <did>
+                        <unittitle>Yale &amp; Towne Manufacturing Co.</unittitle>
+                        <container id="cid16555" type="box" label="Mixed materials">14</container>
+                        <container parent="cid16555" type="folder">5</container>
+                        <unitdate normal="1913/1915" type="inclusive">1913-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref207">
+                        <head>Scope and Contents note</head>
+                        <p>Hardware for doors, windows, closets, etc.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref210" level="file">
+                    <did>
+                        <unittitle>Yellin, Samuel</unittitle>
+                        <container id="cid16556" type="box" label="Mixed materials">14</container>
+                        <container parent="cid16556" type="folder">6</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref209">
+                        <head>Scope and Contents note</head>
+                        <p>For drawings and samples for ornamental iron work, and wrought iron hardware.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref108" level="series">
+                <did>
+                    <unittitle>Series IV: Construction Vouchers</unittitle>
+                    <unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate>
+                </did>
+                <scopecontent id="ref153">
+                    <head>Scope and Contents note</head>
+                    <p>This series consists of payment vouchers issued to firms, agencies, and individuals during the construction of the Frick residence at One East 70th Street. As was typical of Henry Clay Frick's accounting practices (see Henry Clay Frick Papers, Series III: Voucher Files for additional examples), vouchers were prepared and sent to the payee along with a check for the amount owed. These vouchers were receipted by the payee, and returned to Henry Clay Frick for his files as evidence of remittance received. Vouchers may have correspondence, invoices, or related documentation attached.</p>
+                    <p>Arranged by voucher number; an alphabetical index of voucher recipients is filed at the beginning of the series.</p>
+                </scopecontent>
+                <c id="ref80" level="file">
+                    <did>
+                        <unittitle>Voucher index</unittitle>
+                        <container id="cid9441" type="box" label="Mixed materials">14</container>
+                        <container parent="cid9441" type="folder">7</container>
+                        <unitdate normal="1912/1914" type="inclusive">1912-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref79">
+                        <head>Scope and Contents note</head>
+                        <p>Index of vouchers issued during the construction of One East 70th Street. Names of firms, agencies, people, etc. are listed alphabetically.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref82" level="file">
+                    <did>
+                        <unittitle>Vouchers 1-35</unittitle>
+                        <container id="cid9442" type="box" label="Mixed materials">14</container>
+                        <container parent="cid9442" type="folder">8</container>
+                        <unitdate normal="1912/1913" type="inclusive">1912-1913</unitdate>
+                    </did>
+                    <scopecontent id="ref81">
+                        <head>Scope and Contents note</head>
+                        <p>Vouchers issues between September 1912 and May 1913 to the following firms, agencies, etc.: Travelers Insurance Co.; John H. Tripler, Inc.; Piccirilli Bros.; A. Shelton; Davis &amp; Warde; Joseph P. Day; Simpson, Thacher &amp; Bartlett; Canavan Brothers Co.; Wadley &amp; Smythe; William Bradley &amp; Son; Borough of Manhattan; Carr&#xE8;re &amp; Hastings; Gordon &amp; Smith; New York City Dept. of Water Supply, Gas, and Electricity; H.C. Frick; James Elgar, Inc.; American Bridge Co. of New York; Johnson &amp; Morris; and Cauldwell-Wingate Co.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref84" level="file">
+                    <did>
+                        <unittitle>Vouchers 36-70</unittitle>
+                        <container id="cid9443" type="box" label="Mixed materials">14</container>
+                        <container parent="cid9443" type="folder">9</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>Vouchers issued between May and October 1913 to the following firms, agencies, etc.: Cauldwell-Wingate Co.; William Bradley &amp; Son; J.N. Knight &amp; Son; Canavan Brothers Co.; Carr&#xE8;re &amp; Hastings; American Bridge Co. of New York; James Elgar, Inc.; Johnson &amp; Morris; John Morrow Co.; and Piccirilli Brothers</p>
+                    </scopecontent>
+                </c>
+                <c id="ref86" level="file">
+                    <did>
+                        <unittitle>Vouchers 71-95</unittitle>
+                        <container id="cid9444" type="box" label="Mixed materials">15</container>
+                        <container parent="cid9444" type="folder">1</container>
+                        <unitdate normal="1913/1913">1913</unitdate>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>Vouchers issued between October and December 1913 to the following firms, agencies, etc.: Cauldwell-Wingate Co. ; John Morrow Co.; Canavan Brothers Co.; William Bradley &amp; Son, J.N. Knight &amp; Son; Johnson &amp; Morris; Lord Electric Co.; American Bridge Co. of New York; White, Allom &amp; Co.; John H. Shipway &amp; Brother; Carr&#xE8;re &amp; Hastings; Neumann &amp; Even; Arthur Todhunter; Philip Martiny; and Charles Keck</p>
+                    </scopecontent>
+                </c>
+                <c id="ref88" level="file">
+                    <did>
+                        <unittitle>Vouchers 96-125</unittitle>
+                        <container id="cid9445" type="box" label="Mixed materials">15</container>
+                        <container parent="cid9445" type="folder">2</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents note</head>
+                        <p>Vouchers issued between December 1913 and January 1914 to the following firms, agencies, etc.: Sherry E. Fry; Piccirilli Brothers; Carr&#xE8;re &amp; Hastings; Arthur Todhunter; Johnson &amp; Morris; John Morrow Co.; J.N. Knight &amp; Son; Otis Elevator Co.; Neumann &amp; Even; Cauldwell-Wingate Co.; McNulty Brothers, Inc.; Carr&#xE8;re &amp; Hastings; William Bradley &amp; Son; White, Allom &amp; Co.; New York Steam Co.; Pittsburgh Plate Glass Co.; American Bridge Co. of New York; H.C. Frick; Johnson &amp; Morris; and John H. Shipway &amp; Brother</p>
+                    </scopecontent>
+                </c>
+                <c id="ref90" level="file">
+                    <did>
+                        <unittitle>Vouchers 126-150</unittitle>
+                        <container id="cid9446" type="box" label="Mixed materials">15</container>
+                        <container parent="cid9446" type="folder">3</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Vouchers issued between January and March 1914 to the following firms, agencies, etc.: Carr&#xE8;re &amp; Hastings; John H. Shipway &amp; Brother; Wadley &amp; Smythe; Cauldwell-Wingate Co.; Piccirilli Brothers; Charles Keck; Pittsburgh Plate Glass Co.; New York Steam Co.; Johnson &amp; Morris; J.N. Knight &amp; Son; American Bridge Co. of New York; Arthur Todhunter; John Morrow Co.; Samuel Yellin; White, Allom &amp; Co.; and McNulty Brothers, Inc.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref92" level="file">
+                    <did>
+                        <unittitle>Vouchers 151-180</unittitle>
+                        <container id="cid9447" type="box" label="Mixed materials">15</container>
+                        <container parent="cid9447" type="folder">4</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>Voucher issued between March and May 1914 to the following firms, agencies, etc.: Pittsburgh Plate Glass Co.; New York Steam Co.; Carr&#xE8;re &amp; Hastings; W. &amp; J. Sloane; White, Allom &amp; Co.; Interior Metal Manufacturing Co.; Yale &amp; Towne Mfg. Co.; Johnson &amp; Morris; Otis Elevator Co.; Philip Martiny; Henry-Bonnard Bronze Co.; Piccirilli Brothers; Sherry E. Fry; John H. Shipway &amp; Brother; J.N. Knight &amp; Son; Cauldwell-Wingate Co.; McNulty Brothers, Inc.; Neumann &amp; Even; Hill-Canton Dryer Co.; and New York Edison Co.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref94" level="file">
+                    <did>
+                        <unittitle>Vouchers 181-205</unittitle>
+                        <container id="cid9448" type="box" label="Mixed materials">15</container>
+                        <container parent="cid9448" type="folder">5</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref93">
+                        <head>Scope and Contents note</head>
+                        <p>Vouchers issued between May and June 1914 to the following firms, agencies, etc.: H.C. Frick; White, Allom &amp; Co.; John H. Shipway &amp; Brother; New York Steam Co.; Pittsburgh Plate Glass Co.; McNulty Brothers, Inc.; W. &amp; J. Sloane; Johnson &amp; Morris; J.N. Knight &amp; Son; Cauldwell-Wingate Co.; Menconi Brothers; Charles Keck; Carr&#xE8;re &amp; Hastings; American Bridge Co. of New York; Morten &amp; Co.; C.P. Davite; Otis Elevator Co.; Piccirilli Brothers; Yale &amp; Towne Mfg. Co.; and Post &amp; McCord, Inc.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref96" level="file">
+                    <did>
+                        <unittitle>Vouchers 206-250</unittitle>
+                        <container id="cid9449" type="box" label="Mixed materials">15</container>
+                        <container parent="cid9449" type="folder">6</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref95">
+                        <head>Scope and Contents note</head>
+                        <p>Vouchers issued between June and October 1914 to the following firms, agencies, etc.: John H. Shipway &amp; Brother; Duparquet, Hout &amp; Moneuse Co.; McNulty Brothers, Inc.; J.N. Knight &amp; Son; Johnson &amp; Morris; Cauldwell-Wingate Co.; John Williams, Inc.; Carr&#xE8;re &amp; Hastings; W. &amp; J. Sloane; Hill-Canton Dryer Co.; Menconi Brothers; Sherry E. Fry; John Morrow Co.; Otis Elevator Co.; Jewett Refrigerator Co.; Post &amp; McCord, Inc.; New York Steam Co.; Piccirilli Brothers; Yale &amp; Towne Mfg. Co.; Neumann &amp; Even; New York Edison Co.; Wm. Bradley &amp; Son; Wm. H. Jackson Co.; New York Edison Co.; Philip Martiny; J.N. Knight &amp; Son; C.P. Davite; Arthur Todhunter; and Lenygon &amp; Morant, Inc.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref109" level="series">
+                <did>
+                    <unittitle>Series V: Furnishings</unittitle>
+                    <unitdate>1914-1924, undated</unitdate>
+                </did>
+                <scopecontent id="ref218">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains lists of contracts and estimates, as well as letters, telegrams, notes, and invoices pertaining to the furnishing and decoration of One East 70th Street. As the principal decorators for the house, the files of White, Allom &amp; Co. and Elsie de Wolfe comprise the bulk of this series. Their invoices and correspondence document the procurement of carpets, draperies, mantelpieces, furniture, wall coverings, light fixtures, and accessories for the house. Charles Allom's earliest letters discuss his plans for decorative treatment of various rooms, while later correspondence responds to Henry Clay Frick's frustration at work on the house that remained unfinished. Allom's files also document the changes to the Drawing Room after Frick's acquisition of the Fragonard panels in 1915. Elsie de Wolfe's letters detail the selection of antique pieces through various dealers in London and Paris. Other decorators, dealers, and contractors represented in this series include Duveen Brothers, through whom Frick purchased artwork and furnishings from the J.P. Morgan Collection, E.R. Bacon, who facilitated the purchase of a suite of Beauvais tapestry furniture from the Duke of Devonshire and supplied a set of antique silver wine coolers for the Dining Room, Maus, who overhauled the suite of tapestry furniture, and Gerald and Sydney Letts, who furnished the Bowling Alley and Billiard Room.</p>
+                    <p>Additional material concerning the acquisition of objects from the Morgan Collection can be found in the Henry Clay Frick Papers, Series I: Art Files; the Eagle Rock Papers, Series: Furnishings; and the Henry Clay Frick Art Collection Files, all in this repository.</p>
+                    <p>Materials are arranged alphabetically by decorator, dealer, or contractor.</p>
+                </scopecontent>
+                <c id="ref212" level="file">
+                    <did>
+                        <unittitle>Lists of contracts and estimates</unittitle>
+                        <container id="cid16557" type="box" label="Mixed materials">16</container>
+                        <container parent="cid16557" type="folder">1</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref211">
+                        <head>Scope and Contents note</head>
+                        <p>Includes name of contractor, work contracted for, cost, and amount paid.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref214" level="file">
+                    <did>
+                        <unittitle>Bacon, E.R.</unittitle>
+                        <container id="cid16558" type="box" label="Mixed materials">16</container>
+                        <container parent="cid16558" type="folder">2-3</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref213">
+                        <head>Scope and Contents note</head>
+                        <p>Antique silver wine coolers; suite of tapestry furniture purchased from the Duke of Devonshire.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref216" level="file">
+                    <did>
+                        <unittitle>De Wolfe, Elsie</unittitle>
+                        <container id="cid16559" type="box" label="Mixed materials">16</container>
+                        <container parent="cid16559" type="folder">4-11</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref215">
+                        <head>Scope and Contents note</head>
+                        <p>For decoration of the Ladies' Reception Room (now the Boucher Room), and most of the second and third floor rooms, with the exception of the Breakfast Room and Henry Clay Frick's Sitting Room. Includes correspondence from de Wolfe and her staff, as well as invoices for furnishings, draperies, and carpet. Invoices reflect furnishings purchased in England from Sir Sidney Greville, S.J. Phillips, Basil Dighton, Lenygon &amp; Morant, Frank Partridge, Charles, S. E. Letts, A.B. Danielle &amp; Sons, Mallet &amp; Son, and Phillips Ltd.; and in France from Stettiner, Bagues Freres, Edouard Jonas &amp; Freres, Arnold Seligman, Doucet, Audrain, Lepeltier, Mathelin, Lewis &amp; Simmons, Edward Larcade, and Jansen.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref219" level="file">
+                    <did>
+                        <unittitle>De Wolfe, Elsie, continued</unittitle>
+                        <container id="cid16561" type="box" label="Mixed materials">17</container>
+                        <container parent="cid16561" type="folder">1-2</container>
+                        <unitdate normal="1916/1924" type="inclusive">1916-1924</unitdate>
+                    </did>
+                </c>
+                <c id="ref222" level="file">
+                    <did>
+                        <unittitle>Duveen Brothers</unittitle>
+                        <container id="cid16562" type="box" label="Mixed materials">17</container>
+                        <container parent="cid16562" type="folder">3-4</container>
+                        <unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate>
+                    </did>
+                    <scopecontent id="ref221">
+                        <head>Scope and Contents note</head>
+                        <p>Includes correspondence and invoices re: porcelains and furniture purchased from the Morgan Collection and other sources, as well as outlays in connection with the Fragonard Room. Items marked "N.Y." on these invoices were designated for One East 70th Street; items marked "P.C." were purchased for the Frick country house in Prides Crossing, Mass.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref224" level="file">
+                    <did>
+                        <unittitle>Letts, Gerald A. and Sydney E.</unittitle>
+                        <container id="cid16563" type="box" label="Mixed materials">17</container>
+                        <container parent="cid16563" type="folder">5-6</container>
+                        <unitdate normal="1914/1917" type="inclusive">1914-1917</unitdate>
+                    </did>
+                    <scopecontent id="ref223">
+                        <head>Scope and Contents note</head>
+                        <p>Furnishings for Bowling Alley, Billiard Room, and Office.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref225" level="file">
+                    <did>
+                        <unittitle>Maus (Paris, France)</unittitle>
+                        <container id="cid16571" type="box" label="Mixed materials">17</container>
+                        <container parent="cid16571" type="folder">7-8</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref226">
+                        <head>Scope and Contents note</head>
+                        <p>Includes correspondence with Alfred Anson, Edward R. Bacon, and Walter Rathbone Bacon re: suite of tapestry furniture purchased from the Duke of Devonshire, and refinishing of the suite by Maus of Paris.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref228" level="file">
+                    <did>
+                        <unittitle>Morgan, J.P., Jr.</unittitle>
+                        <container id="cid16572" type="box" label="Mixed materials">17</container>
+                        <container parent="cid16572" type="folder">9</container>
+                        <unitdate normal="1915/1915">1915</unitdate>
+                    </did>
+                    <scopecontent id="ref227">
+                        <head>Scope and Contents note</head>
+                        <p>For a large carved walnut table of XVI century Italian workmanship; includes letter from J.P. Morgan, Jr.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref230" level="file">
+                    <did>
+                        <unittitle>Seligmann, Jacques</unittitle>
+                        <container id="cid16573" type="box" label="Mixed materials">18</container>
+                        <container parent="cid16573" type="folder">1</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref229">
+                        <head>Scope and Contents note</head>
+                        <p>Includes correspondence re: furnishings purchased, as well as pieces considered but ultimately not purchased. Objects acquired include articles for Adelaide Frick's Boudoir and Bedroom, as well as the Library.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref232" level="file">
+                    <did>
+                        <unittitle>W. &amp; J. Sloane Co.</unittitle>
+                        <container id="cid16574" type="box" label="Mixed materials">18</container>
+                        <container parent="cid16574" type="folder">2</container>
+                        <unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                    <scopecontent id="ref231">
+                        <head>Scope and Contents note</head>
+                        <p>Correspondence re: proposals to decorate and furnish rooms at One East 70th Street, including the Billiard Room and Bowling Alley.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref234" level="file">
+                    <did>
+                        <unittitle>White, Allom &amp; Co.</unittitle>
+                        <container id="cid16581" type="box" label="Mixed materials">18</container>
+                        <container parent="cid16581" type="folder">3-11</container>
+                        <unitdate normal="1913/1916" type="inclusive">1913-1916</unitdate>
+                    </did>
+                    <scopecontent id="ref233">
+                        <head>Scope and Contents note</head>
+                        <p>Folders contain correspondence and invoices re: principal furnishings for the first floor of the residence, the Breakfast Room and Henry Clay Frick's Sitting Room on the second floor, and changes to the Drawing Room after the purchase of the Fragonard panels. Includes letters to and/or from Charles Allom, Thomas Hastings, and D.B. Kinch.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref235" level="file">
+                    <did>
+                        <unittitle>White, Allom &amp; Co., continued</unittitle>
+                        <container id="cid16582" type="box" label="Mixed materials">19</container>
+                        <container parent="cid16582" type="folder">1-3</container>
+                        <unitdate>1917-1921, undated</unitdate>
+                    </did>
+                </c>
+                <c id="ref238" level="file">
+                    <did>
+                        <unittitle>Vouchers for miscellaneous furnishings and household goods</unittitle>
+                        <container id="cid16601" type="box" label="Mixed materials">19</container>
+                        <container parent="cid16601" type="folder">4</container>
+                        <unitdate normal="1914/1919" type="inclusive">1914-1919</unitdate>
+                    </did>
+                    <scopecontent id="ref237">
+                        <head>Scope and Contents note</head>
+                        <p>Folder contains preservation photocopies of vouchers documenting the purchase of furniture, silver, rugs and textiles, porcelain and glassware, and other household items. Sources for these goods include E.R. Bacon, Crichton Brothers, Duveen Brothers, Grande Maison de Blanc, Tiffany and Co., Elsie de Wolfe, Jacques Seligmann, Sidney E. Letts, and American Art Association, among others. For corresponding original vouchers, see: Henry Clay Frick Papers, Series III: Voucher Files.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref110" level="series">
+                <did>
+                    <unittitle>Series VI: Financial Records</unittitle>
+                    <unitdate normal="1907/1918" type="inclusive">1907-1918</unitdate>
+                </did>
+                <scopecontent id="ref314">
+                    <head>Scope and Contents note</head>
+                    <p>This series documents expenditures made during the construction and furnishing of One East 70th Street. Along with a summary of costs associated with the purchase of the property, this series contains canceled checks, monthly statements, and a check register from the Bankers Trust Co. special account established by Frick for the purpose of paying construction expenses. Also included in this series are a cash book, journal, ledger in which construction expenses were recorded by Frick's staff. For day-to-day expenses at One East 70th after construction was completed, see Series VIII: Daily Life.</p>
+                    <p>Items are arranged by material type.</p>
+                </scopecontent>
+                <c id="ref240" level="file">
+                    <did>
+                        <unittitle>New York Library Property</unittitle>
+                        <container id="cid16602" type="box" label="Mixed materials">19</container>
+                        <container parent="cid16602" type="folder">5</container>
+                        <unitdate normal="1907/1911" type="inclusive">1907-1911</unitdate>
+                    </did>
+                    <scopecontent id="ref239">
+                        <head>Scope and Contents note</head>
+                        <p>Analysis of payments and interest on the property from 2 January 1907 to 1 May 1911.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref236" level="file">
+                    <did>
+                        <unittitle>Bankers Trust Co. Special Account - Canceled checks #141-250</unittitle>
+                        <container id="cid16583" type="box" label="Mixed materials">19</container>
+                        <container parent="cid16583" type="folder">6</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                </c>
+                <c id="ref241" level="file">
+                    <did>
+                        <unittitle>Bankers Trust Co. Special Account - Canceled checks #276-410</unittitle>
+                        <container id="cid16603" type="box" label="Mixed materials">19</container>
+                        <container parent="cid16603" type="folder">7</container>
+                        <unitdate normal="1914/1918" type="inclusive">1914-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref242" level="file">
+                    <did>
+                        <unittitle>Bankers Trust Co. Special Account - Monthly statements</unittitle>
+                        <container id="cid16604" type="box" label="Mixed materials">19</container>
+                        <container parent="cid16604" type="folder">8</container>
+                        <unitdate normal="1914/1918" type="inclusive">1914-1918</unitdate>
+                    </did>
+                </c>
+                <c id="ref245" level="file">
+                    <did>
+                        <unittitle>Bankers Trust Co. Special Account - Check register</unittitle>
+                        <container id="cid16605" type="box" label="Mixed materials">20</container>
+                        <container parent="cid16605" type="folder">1</container>
+                        <unitdate normal="1914/1918" type="inclusive">1914-1918</unitdate>
+                    </did>
+                    <scopecontent id="ref244">
+                        <head>Scope and Contents note</head>
+                        <p>Contains stubs for checks #301-410.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref247" level="file">
+                    <did>
+                        <unittitle>Construction cash book and journal</unittitle>
+                        <container id="cid16606" type="box" label="Mixed materials">21</container>
+                        <container parent="cid16606" type="folder">-</container>
+                        <unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate>
+                    </did>
+                    <scopecontent id="ref246">
+                        <head>Scope and Contents note</head>
+                        <p>Dual-purpose volume, with folios 1-99 designated as a cash book, and folios 200-300 as a journal. Cash book entries show debits and credits against the bank account established by Frick at the start of the construction of his New York residence. Journal entries give the name of the contractor being paid, and the nature of the work completed.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref249" level="file">
+                    <did>
+                        <unittitle>Construction ledger</unittitle>
+                        <container id="cid16607" type="box" label="Mixed materials">21</container>
+                        <container parent="cid16607" type="folder">-</container>
+                        <unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate>
+                    </did>
+                    <scopecontent id="ref248">
+                        <head>Scope and Contents note</head>
+                        <p>Ledger in which expenses for the construction and furnishing of the New York Residence are grouped by the type of work commissioned. Categories include electric installation, supplementary interior finish, grilles and gates, and plate glass. An alphabetical index at the front of the volume lists these categories, along with the names of contractors who worked on the house.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref112" level="series">
+                <did>
+                    <unittitle>Series VII: Post-Construction and Estate Matters</unittitle>
+                    <unitdate normal="1914/1924" type="inclusive">1914-1924</unitdate>
+                </did>
+                <scopecontent id="ref310">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains inventories of the contents of One East 70th Street as well as Frick's garage property located at 129 West 51st Street. Inventories are grouped by type, namely collection property (i.e. items that would become part of The Frick Collection), estate property (items that became part of Frick's estate for distribution under the terms of his will), and personal property (items that were considered the personal property of Adelaide Frick and her daughter Helen). Additional materials in this series include specifications and contracts for the construction of the Frick Art Reference Library (referred to here as the 71st Street Extension), a file on the disposition of frames from the suite of Chatsworth furniture purchased in 1914, a file on the sculpture gallery proposed by Thomas Hastings but never constructed, a dispute with the city re: flagstones outside the residence, and documentation of a claim against W. &amp; J. Sloane re: outstanding remittance for goods removed from the residence and sold.</p>
+                    <p>Materials are arranged by subject.</p>
+                </scopecontent>
+                <c id="ref253" level="file">
+                    <did>
+                        <unittitle>71st Street extension [Frick Art Reference Library]</unittitle>
+                        <container id="cid16609" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16609" type="folder">1-2</container>
+                        <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+                    </did>
+                    <scopecontent id="ref252">
+                        <head>Scope and Contents note</head>
+                        <p>Contains specifications and contracts for heating, plumbing, electrical work, and general construction.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref255" level="file">
+                    <did>
+                        <unittitle>Chatsworth suite</unittitle>
+                        <container id="cid16610" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16610" type="folder">3</container>
+                        <unitdate normal="1914/1924" type="inclusive">1914-1924</unitdate>
+                    </did>
+                    <scopecontent id="ref254">
+                        <head>Scope and Contents note</head>
+                        <p>Correspondence re: suite of furniture purchased from the Duke of Devonshire in 1914, and refurbished by Maus in Paris.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref257" level="file">
+                    <did>
+                        <unittitle>Estate inventory - correspondence</unittitle>
+                        <container id="cid16611" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16611" type="folder">4</container>
+                        <unitdate normal="1920/1924" type="inclusive">1920-1924</unitdate>
+                    </did>
+                    <scopecontent id="ref256">
+                        <head>Scope and Contents note</head>
+                        <p>Includes correspondence with Karl F. Overholt, Childs Frick, James Howard Bridge, Josephine Kneisel (employee of Elsie de Wolfe), and W. J. Naughton re: compiling estate inventories after Henry Clay Frick's death.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref258" level="file">
+                    <did>
+                        <unittitle>Estate inventory - collection property</unittitle>
+                        <container id="cid16621" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16621" type="folder">5</container>
+                        <unitdate>[1920]</unitdate>
+                    </did>
+                    <scopecontent id="ref311">
+                        <head>Scope and Contents note</head>
+                        <p>List of items at One East 70th Street designated as property of The Frick Collection.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref259" level="file">
+                    <did>
+                        <unittitle>Estate inventory - estate property</unittitle>
+                        <container id="cid16622" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16622" type="folder">6</container>
+                        <unitdate>[1920]</unitdate>
+                    </did>
+                    <scopecontent id="ref312">
+                        <head>Scope and Contents note</head>
+                        <p>List of items at One East 70th Street designated as part of Henry Clay Frick's estate to be distributed under the terms of his will.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref261" level="file">
+                    <did>
+                        <unittitle>Estate inventory - garage property</unittitle>
+                        <container id="cid16623" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16623" type="folder">7</container>
+                        <unitdate normal="1920/1920">1920</unitdate>
+                    </did>
+                    <scopecontent id="ref260">
+                        <head>Scope and Contents note</head>
+                        <p>Contents of Henry Clay Frick's New York garage property, located at 129 West 51st Street.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref263" level="file">
+                    <did>
+                        <unittitle>Estate inventory - personal property</unittitle>
+                        <container id="cid16624" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16624" type="folder">8</container>
+                        <unitdate>[1920]</unitdate>
+                    </did>
+                    <scopecontent id="ref262">
+                        <head>Scope and Contents note</head>
+                        <p>List of items at One East 70th Street designated as personal property of Adelaide Frick or Helen Clay Frick.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref264" level="file">
+                    <did>
+                        <unittitle>Proposed sculpture gallery</unittitle>
+                        <container id="cid16625" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16625" type="folder">9</container>
+                        <unitdate normal="1915/1922" type="inclusive">1915-1922</unitdate>
+                    </did>
+                    <scopecontent id="ref307">
+                        <head>Scope and Contents note</head>
+                        <p>Includes correspondence with Thomas Hastings and Charles Allom regarding the proposed addition of a sculpture gallery to One East 70th Street, which was never carried out. Folder includes reproductions of two details from the drawings for the proposed gallery. Also contains correspondence on matters unrelated to the addition.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref265" level="file">
+                    <did>
+                        <unittitle>Sidewalk repairs</unittitle>
+                        <container id="cid16626" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16626" type="folder">10</container>
+                        <unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate>
+                    </did>
+                    <scopecontent id="ref308">
+                        <head>Scope and Contents note</head>
+                        <p>Contents concern a dispute with the city after flagstones were damaged outside the residence. Includes blueprint for a receiving basin and inlet at the corner of Fifth Avenue and 70th Street.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref266" level="file">
+                    <did>
+                        <unittitle>W. &amp; J. Sloane dispute</unittitle>
+                        <container id="cid16627" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16627" type="folder">11</container>
+                        <unitdate>1918, 1924</unitdate>
+                    </did>
+                    <scopecontent id="ref313">
+                        <head>Scope and Contents note</head>
+                        <p>Contains correspondence documenting a claim against W. &amp; J. Sloane re: outstanding remittance for furnishings removed from the residence and sold on Frick's behalf.</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c id="ref111" level="series">
+                <did>
+                    <unittitle>Series VIII: Daily Life</unittitle>
+                    <unitdate>1914-1931, undated</unitdate>
+                </did>
+                <scopecontent id="ref267">
+                    <head>Scope and Contents note</head>
+                    <p>This series contains contains materials documenting the Frick family's activities and interests, along with household operations and expenditures. Of particular note are the household diaries, 1914-1919, which record guests to the house, luncheons, dinners and other entertainments, purchase and installation of paintings and other works of art, and comings and goings of family members. This series also contains notebooks with monthly compilations of household payroll and bills paid, summaries of dinners given at the house (e.g. guest lists, menus, music, etc.), inventories of books, wines, and liquors, and information about employees who served the Frick family at One East 70th Street, Eagle Rock, and other locations.</p>
+                    <p>Materials are arranged by subject.</p>
+                </scopecontent>
+                <c id="ref269" level="file">
+                    <did>
+                        <unittitle>Address book</unittitle>
+                        <container id="cid16628" type="box" label="Mixed materials">22</container>
+                        <container parent="cid16628" type="folder">12</container>
+                        <unitdate>circa 1914-1919</unitdate>
+                    </did>
+                    <scopecontent id="ref268">
+                        <head>Scope and Contents note</head>
+                        <p>Contains names, mail and cable addresses, telephone numbers, out-of-town addresses for friends, relatives, political and business associates, physicians, art dealers, and others.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref273" level="file">
+                    <did>
+                        <unittitle>Books in the One East 70th Street Library</unittitle>
+                        <container id="cid16629" type="box" label="Mixed materials">23</container>
+                        <container parent="cid16629" type="folder">1</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref272">
+                        <head>Scope and Contents note</head>
+                        <p>Entries list author, title, number of volumes, binding style, and bookcase number. A more complete inventory of books compiled shortly after Henry Clay Frick's death can be found in the Henry Clay Frick Papers, Series: Estate Files.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref271" level="file">
+                    <did>
+                        <unittitle>Dinner for French War Commissioners</unittitle>
+                        <container id="cid16630" type="box" label="Mixed materials">23</container>
+                        <container parent="cid16630" type="folder">2</container>
+                        <unitdate normal="1917/1917">1917</unitdate>
+                    </did>
+                    <scopecontent id="ref270">
+                        <head>Scope and Contents note</head>
+                        <p>Folder contains program of music for the evening and newspaper accounts of the event.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref251" level="file">
+                    <did>
+                        <unittitle>Dinners notebook</unittitle>
+                        <container id="cid16608" type="box" label="Mixed materials">23</container>
+                        <container parent="cid16608" type="folder">3</container>
+                        <unitdate normal="1915/1919" type="inclusive">1915-1919</unitdate>
+                    </did>
+                    <scopecontent id="ref250">
+                        <head>Scope and Contents note</head>
+                        <p>Notebook containing details re: dinners and luncheons held mostly at One East 70th Street, with a handful of events at Eagle Rock. Details include the date, occasion, guest list, menu, and entertainment. An alphabetical list of invitees is located at the front of the volume.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref277" level="file">
+                    <did>
+                        <unittitle>Employment record book</unittitle>
+                        <container id="cid16631" type="box" label="Mixed materials">23</container>
+                        <container parent="cid16631" type="folder">4</container>
+                        <unitdate normal="1914/1918" type="inclusive">1914-1918</unitdate>
+                    </did>
+                    <scopecontent id="ref276">
+                        <head>Scope and Contents note</head>
+                        <p>Cumulative record of employees at One East 70th Street, the New York garage (129 West 51st Street), Eagle Rock (Prides Crossing Mass.), Wenham Farm (Wenham, Mass.), Clayton (Pittsburgh, Pa.), and Henry Clay Frick's Pittsburgh office. Entries record names, titles, salaries, raises or other changes in compensation, and dates when individuals entered and left Henry Clay Frick's employ. Compiled by secretary Alice Braddel, beginning in 1914.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref279" level="file">
+                    <did>
+                        <unittitle>Employment record book - correspondence</unittitle>
+                        <container id="cid16632" type="box" label="Mixed materials">23</container>
+                        <container parent="cid16632" type="folder">5</container>
+                        <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                    </did>
+                    <scopecontent id="ref278">
+                        <head>Scope and Contents note</head>
+                        <p>Contains correspondence, enclosures, and payroll sheets used by Alice Braddel in compiling and updating the employment record book.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref301" level="file">
+                    <did>
+                        <unittitle>Household diaries</unittitle>
+                        <container id="cid16651" type="box" label="Mixed materials">23</container>
+                        <container parent="cid16651" type="folder">6</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                    <scopecontent id="ref300">
+                        <head>Scope and Contents note</head>
+                        <p>Entries begin on 17 November 1914, the day on which the Fricks took their first dinner in the new house. Diaries record guests to the house, luncheons, dinners and other entertainments, purchase and installation of paintings and other works of art, and comings and goings of family members.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref302" level="file">
+                    <did>
+                        <unittitle>Household diaries, continued</unittitle>
+                        <container id="cid16652" type="box" label="Mixed materials">24</container>
+                        <container parent="cid16652" type="folder">1-5</container>
+                        <unitdate normal="1915/1919" type="inclusive">1915-1919</unitdate>
+                    </did>
+                </c>
+                <c id="ref304" level="file">
+                    <did>
+                        <unittitle>Household diary excerpts</unittitle>
+                        <container id="cid16653" type="box" label="Mixed materials">24</container>
+                        <container parent="cid16653" type="folder">6</container>
+                        <unitdate normal="1914/1919" type="inclusive">1914-1919</unitdate>
+                    </did>
+                    <scopecontent id="ref303">
+                        <head>Scope and Contents note</head>
+                        <p>Hand and typewritten excerpts from the One East 70th Street household diaries; compiled by Helen Clay Frick.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref275" level="file">
+                    <did>
+                        <unittitle>Household expense summaries</unittitle>
+                        <container id="cid16633" type="box" label="Mixed materials">25</container>
+                        <container parent="cid16633" type="folder">1</container>
+                        <unitdate normal="1917/1919" type="inclusive">1917-1919</unitdate>
+                    </did>
+                    <scopecontent id="ref274">
+                        <head>Scope and Contents note</head>
+                        <p>Annual compilations of household expenses, including payroll, utilities, and groceries, and supplies.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref281" level="file">
+                    <did>
+                        <unittitle>Payroll and bills paid</unittitle>
+                        <container id="cid16634" type="box" label="Mixed materials">25</container>
+                        <container parent="cid16634" type="folder">2</container>
+                        <unitdate normal="1915/1919" type="inclusive">1915-1919</unitdate>
+                    </did>
+                    <scopecontent id="ref280">
+                        <head>Scope and Contents note</head>
+                        <p>Volume chiefly records monthly payroll (October 1915-December 1918), bills approved and sent to Pittsburgh for payment (November 1915-January 1919), and bills paid by housekeeper Minerva C. Stone (November 1915-January 1919). Volume also contains daily work schedules for a handful of household positions, weekly cleaning schedule, list of magazines acquired for the house, holiday gifts to staff, and liquor and tobacco used to stock Frick's private railroad car.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref283" level="file">
+                    <did>
+                        <unittitle>Payroll and bills paid</unittitle>
+                        <container id="cid16635" type="box" label="Mixed materials">25</container>
+                        <container parent="cid16635" type="folder">3</container>
+                        <unitdate normal="1916/1921" type="inclusive">1916-1921</unitdate>
+                    </did>
+                    <scopecontent id="ref284">
+                        <head>Scope and Contents note</head>
+                        <p>Volume records monthly payroll at One East 70th Street (October 1920-February 1921). Also documents bills for household expenses at Eagle Rock over the period of May 1916 to November 1919.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref285" level="file">
+                    <did>
+                        <unittitle>Payroll and bills paid</unittitle>
+                        <container id="cid16641" type="box" label="Mixed materials">25</container>
+                        <container parent="cid16641" type="folder">4</container>
+                        <unitdate normal="1919/1919">1919</unitdate>
+                    </did>
+                    <scopecontent id="ref286">
+                        <head>Scope and Contents note</head>
+                        <p>Volume records monthly payroll at One East 70th Street and Eagle Rock for 1919 (January-December). Also documents bills for household expenses over the same period.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref289" level="file">
+                    <did>
+                        <unittitle>Payroll receipt book</unittitle>
+                        <container id="cid16642" type="box" label="Mixed materials">25</container>
+                        <container parent="cid16642" type="folder">5</container>
+                        <unitdate normal="1918/1920" type="inclusive">1918-1920</unitdate>
+                    </did>
+                    <scopecontent id="ref288">
+                        <head>Scope and Contents note</head>
+                        <p>Contains signatures of household employees denoting receipt of wages. Organized by household position (butler, chef, chambermaid, etc.)</p>
+                    </scopecontent>
+                </c>
+                <c id="ref291" level="file">
+                    <did>
+                        <unittitle>Payroll receipt book</unittitle>
+                        <container id="cid16643" type="box" label="Mixed materials">25</container>
+                        <container parent="cid16643" type="folder">6</container>
+                        <unitdate normal="1921/1931" type="inclusive">1921-1931</unitdate>
+                    </did>
+                    <scopecontent id="ref290">
+                        <head>Scope and Contents note</head>
+                        <p>Contains signatures of household employees acknowledging receipt of wages. Organized by the employee's name through August 1922; thereafter entries are made by month.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref293" level="file">
+                    <did>
+                        <unittitle>Service contracts</unittitle>
+                        <container id="cid16644" type="box" label="Mixed materials">26</container>
+                        <container parent="cid16644" type="folder">1</container>
+                        <unitdate normal="1915/1918" type="inclusive">1915-1918</unitdate>
+                    </did>
+                    <scopecontent id="ref292">
+                        <head>Scope and Contents note</head>
+                        <p>Contains information regarding contracts with National District Telegraph Co., Holmes Electric Protective Co., and the New York Street Sprinkling and Flushing Co.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref295" level="file">
+                    <did>
+                        <unittitle>Service notebook</unittitle>
+                        <container id="cid16645" type="box" label="Mixed materials">26</container>
+                        <container parent="cid16645" type="folder">2</container>
+                        <unitdate normal="1915/1920" type="inclusive">1915-1920</unitdate>
+                    </did>
+                    <scopecontent id="ref294">
+                        <head>Scope and Contents note</head>
+                        <p>Notebook recording employees who served in the Frick households at One East 70th Street and Eagle Rock. Entries are organized by year, and include the staff member's name, position, salary, and start date. Departure dates are also occasionally noted.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref297" level="file">
+                    <did>
+                        <unittitle>Telephone list</unittitle>
+                        <container id="cid16646" type="box" label="Mixed materials">26</container>
+                        <container parent="cid16646" type="folder">3</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                    <scopecontent id="ref296">
+                        <head>Scope and Contents note</head>
+                        <p>Telephone numbers of friends, hotels, and physicians. Mounted on leather stand; principally in Adelaide Frick's hand.</p>
+                    </scopecontent>
+                </c>
+                <c id="ref299" level="file">
+                    <did>
+                        <unittitle>Wine cellar book</unittitle>
+                        <container id="cid16647" type="box" label="Mixed materials">27</container>
+                        <container parent="cid16647" type="folder">1</container>
+                        <unitdate normal="1914/1918" type="inclusive">1914-1918</unitdate>
+                    </did>
+                    <scopecontent id="ref298">
+                        <head>Scope and Contents note</head>
+                        <p>Inventory of wines and other liquors at One East 70th Street. Entries record the name and vintage when applicable, along with when stock was received, and when bottles were used.</p>
+                    </scopecontent>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
